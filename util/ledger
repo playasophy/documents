@@ -1,0 +1,13 @@
+#!/bin/bash
+
+LEDGER_BIN=$(which ledger)
+ROOT_DIR=$(dirname $(dirname $(readlink -f $0)))
+
+YEAR=$1; shift
+
+$LEDGER_BIN \
+    --color \
+    --wide \
+    --account-width 50 \
+    --file $ROOT_DIR/$YEAR/finances.ledger \
+    "$@"

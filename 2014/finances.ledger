@@ -1,0 +1,90 @@
+; Playasophy Camp
+; 2014 Financial Ledger
+
+
+; Camp Equity
+
+account Equity:Opening Balances
+
+
+; Bank Accounts
+
+account Assets:Bank:Paypal
+    alias paypal
+
+account Assets:Bank:BECU:Checking
+    alias becu-checking
+    assert commodity == "$"
+
+
+; Equipment Assets
+
+account Assets:Equipment:Structures
+account Assets:Equipment:Tools
+account Assets:Equipment:Utilities
+account Assets:Equipment:Kitchen
+account Assets:Equipment:Power
+account Assets:Equipment:Lighting
+account Assets:Equipment:Audio Visual
+account Assets:Equipment:Public Space
+account Assets:Equipment:Wonderdome
+account Assets:Equipment:Misc
+
+
+; Expenses
+
+account Expenses:Storage
+account Expenses:Supplies
+account Expenses:Intangibles
+
+
+; Liabilities
+
+;account Members:_____
+
+
+; Income
+
+account Income:Camp Dues
+    alias camp-dues
+
+account Income:Camp Funding
+    alias camp-funding
+
+account Income:Donations
+    alias donations
+
+
+
+; Opening Balances
+
+2014-01-01 * Opening Balances
+    Assets:Bank:PayPal                  $0.00
+    Assets:Bank:BECU:Checking         $100.00
+    Assets:Equipment:Structures     $3,892.86
+    Assets:Equipment:Tools            $709.31
+    Assets:Equipment:Utilities      $1,481.13
+    Assets:Equipment:Kitchen        $1,359.82
+    Assets:Equipment:Power          $1,031.12
+    Assets:Equipment:Lighting         $383.02
+    Assets:Equipment:Audio Visual   $1,332.77
+    Assets:Equipment:Public Space   $2,006.90
+    Assets:Equipment:Wonderdome     $1,449.36
+    Assets:Equipment:Misc             $230.12
+    Members:David Everling           $-100.00
+    Equity:Opening Balances
+
+
+
+; Transactions
+
+2014-01-01 * Reno Storage
+    ; 2013-11-01 - 2014-11-01
+    Expenses:Storage:Reno        $1,260.00
+    Members:Kevin Litwack
+
+2014-02-12 * Burning Man
+    ; Vehicle passes for the cargo van and truck.
+    Expenses:Transportation         $80.00
+    Members:Greg Look              $-40.00
+    Members:Zach Fleischman        $-40.00
