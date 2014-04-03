@@ -1,0 +1,30 @@
+34 verticals = 3*9 + 7 = 4*9 - 2
+55 horizontals = (3*8 + 6) + (3*7 + 2*2)
+--------------
+89 tubes
+
+1" OD = $6.77/ea = $602.53
+3/4" OD = $3.87/ea = $344.43
+
+
+
+Just the lounge area:
+14 verticals = 4*2 + 3*2
+20 horizontals = (3*2 + 2*2) + (3*3 + 1)
+--------------
+34 tubes
+
+14 at $6.77/ea = ~$95
+25 at ~$6.00/ea = ~$150
+
+
+Each additional row of 4:
+4 verticals
+7 horizontals
+-------------
+11 tubes
++4 connectors
+
+11*$6.77 + 4*$6.25 = $74.47 + $25 = $99.47
+
+http://www.ysbw.com/Canopy-Fittings-1-Inch-s/7.htm
