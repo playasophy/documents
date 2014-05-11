@@ -88,3 +88,9 @@ account Income:Donations
     Expenses:Transportation         $80.00
     Members:Greg Look              $-40.00
     Members:Zach Fleischman        $-40.00
+
+2014-03-17 * Public Storage
+    ;2013-10-01 - 2014-10-01 $65/mo
+    Expenses:Storage:Seattle       $780.00
+    Members:Kevin Litwack         $-780.00
+    
