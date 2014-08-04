@@ -16,6 +16,8 @@ account Assets:Bank:Paypal
 account Assets:Bank:BECU:Checking
     assert commodity == "$"
 
+account Assets:Bank:Coinbase
+
 
 ; Equipment Assets
 
@@ -42,6 +44,7 @@ account Income:Interest
 ; Expenses
 
 account Expenses:Equipment Rental
+account Expenses:Fees
 account Expenses:Projects
 account Expenses:Storage:Reno
 account Expenses:Storage:Seattle
@@ -60,16 +63,22 @@ account Members:Chris Kleinknecht
 account Members:David Brotman
 account Members:David Everling
 account Members:Em Ascano
+account Members:Ian Wesley-Smith
 account Members:Jamie Turley
 account Members:Jason Huang
 account Members:Jeff Yost
 account Members:Joeun Chung
 account Members:Logan White Stack
+account Members:Maria Dumanis
 account Members:Matthew Leung
 account Members:Ming Guo
 account Members:Ninad Sathe
+account Members:Riley Andrews
+account Members:Rong Hu
+account Members:Ruben Valas
 account Members:Sabina Cao
 account Members:Sameer Chopra
+account Members:Shri Shamasunder
 account Members:Vincent Huang
 account Members:Zack Fleischman
 
@@ -157,11 +166,123 @@ account Members:Zack Fleischman
 
 2014-06-24 * David Brotman
     ; Dues payment and donation.
-    Assets:Bank:Paypal                $200.00
+    Assets:Bank:Paypal                $193.90
+    Expenses:Fees                       $6.10
     Income:Camp Funding              $-100.00
     Members:David Brotman            $-100.00
 
 2014-06-28 * Sabina Cao
     ; Dues payment.
     Assets:Bank:Paypal                $100.00
-    Members:Sabina Cao               $-100.00
+    Members:Sabina Cao
+
+2014-07-02 * Ninad Sathe
+    ; Dues payment.
+    Assets:Bank:Paypal                $100.00
+    Members:Ninad Sathe
+
+2014-07-09 * Chris Kleinknecht
+    ; Dues payment. (BTC)
+    Assets:Bank:Coinbase              $100.00
+    Members:Chris Kleinknecht
+
+2014-07-10 * Matthew Leung
+    ; Dues payment. (BTC)
+    Assets:Bank:Coinbase              $200.00
+    Members:Matthew Leung            $-100.00
+    Members:Joeun Chung              $-100.00
+
+2014-07-14 * Playasophy Camp
+    ; Charge camp dues to members.
+    Members:Ian Wesley-Smith          $100.00
+    Members:Ruben Valas               $100.00
+    Income:Camp Dues                 $-200.00
+
+2014-07-14 * Ian Wesley-Smith
+    ; Dues payment
+    Assets:Bank:Paypal                $100.00
+    Members:Ian Wesley-Smith
+
+2014-07-14 * Logan White Stack
+    ; Dues payment
+    Assets:Bank:Paypal                $100.00
+    Members:Logan White Stack
+
+2014-07-15 * Ruben Valas
+    ; Dues payment
+    Assets:Bank:Paypal                $100.00
+    Members:Ruben Valas
+
+2014-07-15 * Transfer
+    Assets:Bank:BECU:Checking         $500.00
+    Assets:Bank:Paypal
+
+2014-07-15 * Playasophy Camp
+    ; Charge camp dues to members.
+    Members:Riley Andrews             $100.00
+    Members:Rong Hu                   $100.00
+    Income:Camp Dues                 $-200.00
+
+2014-07-15 * Rong Hu
+    ; Dues payment
+    Assets:Bank:Paypal                $100.00
+    Members:Rong Hu
+
+2014-07-18 * Jamie Turley
+    ; Dues payment
+    Assets:Bank:Paypal                $100.00
+    Members:Jamie Turley
+
+2014-07-22 * Ming Guo
+    ; Dues payment
+    Assets:Bank:Paypal                $100.00
+    Members:Ming Guo
+
+2014-07-23 * Riley Andrews
+    ; Dues payment
+    Assets:Bank:Coinbase              $100.00
+    Members:Riley Andrews
+
+2014-07-23 * Amazon.com
+    ; TODO: find a better way to handle equity
+    Expenses:Supplies                  $34.04
+        ; item: Glad ForceFlex Extra Strong 33 Gallon Trash Bags (70 ct)
+        ; budget: kitchen-equipment
+    Expenses:Structures                 $9.83
+        ; item: King Canopy Ball Bungees 9" (50 ct)
+        ; budget: shade
+    Members:Greg Look                 $-43.87
+    Assets:Equipment:Structures         $9.83
+    Equity:Capital Investments         $-9.83
+
+2014-07-24 * Sameer Chopra
+    ; Dues payment
+    Assets:Bank:Paypal                $100.00
+    Members:Sameer Chopra
+
+2014-07-24 * Jeff Yost
+    ; Dues payment
+    Assets:Bank:Paypal                $100.00
+    Members:Jeff Yost
+
+2014-07-29 * Hookah Company
+    Expenses:Supplies                 $165.91
+        ; item: Shisha, coals, extra hookah
+        ; budget: hookah-lounge
+    Members:Sabina Cao
+
+2014-08-01 * Playasophy Camp
+    ; Charge camp dues to members.
+    Members:Shri Shamasunder          $100.00
+    Members:Maria Dumanis             $100.00
+    Income:Camp Dues                 $-200.00
+
+2014-08-02 * Jo-Ann Fabric
+    Expenses:Projects                  $68.33
+        ; budget: hookah-lounge
+    Members:Sabina Cao
+
+2014-08-03 * Shri Shamasunder
+    ; Dues payment
+    Assets:Bank:Paypal                $100.00
+    Members:Shri Shamasunder
