@@ -72,14 +72,20 @@ TODO: determine teardown ordering, avoid last year's mistakes
 - _10:00_ Depart Reno, NV
 - [Drive 427 miles](https://goo.gl/maps/VekFl) (7 hours)
 - _18:00_ Arrive Eugene, OR
-- _20:00_ Spend the night at some motel
+- **OR**
+- [Drive 534 miles](https://goo.gl/maps/XXHHx) (9 hours)
+- _20:00_ Arrive Portland, OR
+- _22:00_ Spend the night at some motel
 
-## Seattle Unloading (9/03)
-- _10:00_ Depart Eugene, OR
+## Seattle Unloading (Wed 9/03)
+- _08:00_ Depart Eugene, OR
 - [Drive 283 miles](https://goo.gl/maps/gdBSb) (5 hours)
-- _15:30_ Arrive Seattle, WA
-- _16:00_ Unload personal gear at apartment (30 minutes)
-- _17:00_ Unload remaining equipment into storage unit (1 hour)
-- _18:30_ Return generator (15 minutes)
-- _19:00_ Wash cargo van (30 minutes)
-- _20:00_ Return cargo van
+- **OR**
+- _10:00_ Depart Portland, OR
+- [Drive 174 miles](https://goo.gl/maps/KMgv8) (3 hours)
+- _13:30_ Arrive Seattle, WA
+- _14:00_ Unload personal gear at apartment (30 minutes)
+- _15:00_ Unload remaining equipment into storage unit (1 hour)
+- _16:30_ Return generator (15 minutes)
+- _15:00_ Wash cargo van (30 minutes)
+- _18:00_ Return cargo van
