@@ -277,6 +277,11 @@ account Members:Zack Fleischman
     Members:Maria Dumanis             $100.00
     Income:Camp Dues                 $-200.00
 
+2014-08-01 * Burning Man
+    Members:Ian Wesley-Smith          $400.00
+    Members:Maria Dumanis             $400.00
+    Members:Greg Look                $-800.00
+
 2014-08-02 * Jo-Ann Fabric
     Expenses:Projects                  $68.33
         ; budget: hookah-lounge
@@ -286,3 +291,57 @@ account Members:Zack Fleischman
     ; Dues payment
     Assets:Bank:Paypal                $100.00
     Members:Shri Shamasunder
+
+2014-08-04 * Amazon.com
+    ; TODO: find a better way to handle equity
+    Expenses:Projects                  $24.55
+        ; item: Dayton Audio iMM-6 microphone
+        ; item: 10x 4-pin LED strip connector
+        ; budget: wonderdome
+    Expenses:Tools                     $24.52
+        ; item: Travel Smart Luggage Strap
+        ; budget: shade
+    Members:Greg Look                 $-49.07
+
+2014-08-04 * Ben Larrimer
+    ; Dues payment
+    Assets:Bank:Paypal                $100.00
+    Members:Ben Larrimer
+
+2014-08-06 * Zipcar
+    ; Visit to Seattle storage unit.
+    Expenses:Transportation            $24.62
+        ; budget: work-preparation
+    Members:Greg Look
+
+2014-08-06 * USPS
+    ; Shipping for BM ticket.
+    Members:Maria Dumanis              $17.52
+    Members:Greg Look
+
+2014-08-07 * Jason Huang
+    ; Dues payment
+    Assets:Bank:Paypal                $100.00
+    Members:Jason Huang
+
+2014-08-09 * Vincent Huang
+    ; Dues payment
+    Assets:Bank:Paypal                 $96.80
+    Expenses:Fees                       $3.20
+    Members:Vincent Huang            $-100.00
+
+2014-08-11 * Amazon.com
+    ; TODO: find a better way to handle equity
+    Expenses:Tools                     $94.56
+        ; item: Ash bucket
+        ; item: 50' YellowJacket extension cord
+        ; item: YellowJacket 5-outlet tap
+        ; budget: tools
+    Members:Greg Look
+
+2014-08-13 * Amazon.com
+    ; TODO: find a better way to handle equity
+    Expenses:Structures                $34.09
+        ; item: 8x Moonrays Solar-Powered LED Path Light
+        ; budget: lighting
+    Members:Greg Look
