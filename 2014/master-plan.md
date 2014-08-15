@@ -41,23 +41,33 @@
 
 ## Camp Setup (Sat 8/23 - Sun 8/24)
 - Reposition box truck and cargo van
-- Set up safety dome
+- Set up remaining kitchen equipment
+- Assemble safety dome
 - Lay out struts and stakes for shade structure
 - Connect shade structure tubing
 - Construct evap pools
-- Set up big dome
-- ...
+- Assemble big dome
+- Cover big dome with two long shade cloth pieces
+- Assemble shade cloth into continuous piece
+- Pull shade cloth over shade structure, secure with bungee balls (easier with many camp members)
+- Attach lounge chair and table legs
+- Mount Wonderdome LED strips
 - Members start arriving after gate opens on Sunday.
 
 ## Burning Man (Mon 8/25 - Sat 8/30)
 Good luck, have fun!
-- _10:30_ Ice run: 6x 5lb ice bag ($15 cash)
+- _10:00_ Start the generator when the air gets warm
+- _10:30_ Ice run: 6x 5lb ice bag, $15 cash
 - _11:00-12:30_ Lunch meal
 - _14:00-17:00_ Hookah Lounge hours
 - _17:00-18:00_ Dinner meal
+- _20:00-22:00_ Camp Watch #1
+- _22:00-00:00_ Camp Watch #2
+- _00:00-02:00_ Camp Watch #3
+- _02:00_ Shut off generator
 
 ## Teardown (Sun 8/31)
-TODO: determine teardown ordering, avoid last year's mistakes
+**TODO:** determine teardown ordering, avoid last year's mistakes
 
 ## Exodus (Mon 9/01)
 - _ungodly early_ Depart BRC
