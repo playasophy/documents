@@ -23,11 +23,11 @@
 
 ## Reno Loading (Fri 8/22)
 - _09:35_ Sniffles lands in RNO
-- _??:??_ Chris and Amanda arrive from SF
+- _??:??_ Chris arrives from SF
 - _10:00_ Send cargo van to shop for food and supplies at Costco and local grocery store (1.5 hours)
 - Put perishable items in chest freezer with bags of ice
 - _??:??_ Zack, Sameer, and Caito arrive in box truck
-- _11:00_ Load equipment from storage unit into box truck and cargo van
+- _10:30_ Load equipment from storage unit into box truck and cargo van (2 hours)
 
 ## BRC Early Arrival (Fri 8/22)
 - Fill up on gasoline and diesel (including gas canisters)
@@ -40,14 +40,21 @@
 - Set up kitchen structure for temporary housing and storage (1 hour)
 
 ## Camp Setup (Sat 8/23 - Sun 8/24)
-TODO: determine setup order
-- Position box truck and cargo van
+- Reposition box truck and cargo van
+- Set up safety dome
+- Lay out struts and stakes for shade structure
+- Connect shade structure tubing
+- Construct evap pools
+- Set up big dome
+- ...
 - Members start arriving after gate opens on Sunday.
 
 ## Burning Man (Mon 8/25 - Sat 8/30)
 Good luck, have fun!
-TODO: determine daily tasks
-- Ice run: 6x 5lb ice bag ($15 cash)
+- _10:30_ Ice run: 6x 5lb ice bag ($15 cash)
+- _11:00-12:30_ Lunch meal
+- _14:00-17:00_ Hookah Lounge hours
+- _17:00-18:00_ Dinner meal
 
 ## Teardown (Sun 8/31)
 TODO: determine teardown ordering, avoid last year's mistakes
@@ -70,22 +77,16 @@ TODO: determine teardown ordering, avoid last year's mistakes
 
 ## Travel (Tue 9/02)
 - _10:00_ Depart Reno, NV
-- [Drive 427 miles](https://goo.gl/maps/VekFl) (7 hours)
-- _18:00_ Arrive Eugene, OR
-- **OR**
 - [Drive 534 miles](https://goo.gl/maps/XXHHx) (9 hours)
 - _20:00_ Arrive Portland, OR
 - _22:00_ Spend the night at some motel
 
 ## Seattle Unloading (Wed 9/03)
-- _08:00_ Depart Eugene, OR
-- [Drive 283 miles](https://goo.gl/maps/gdBSb) (5 hours)
-- **OR**
-- _10:00_ Depart Portland, OR
+- _09:00_ Depart Portland, OR
 - [Drive 174 miles](https://goo.gl/maps/KMgv8) (3 hours)
-- _13:30_ Arrive Seattle, WA
-- _14:00_ Unload personal gear at apartment (30 minutes)
-- _15:00_ Unload remaining equipment into storage unit (1 hour)
-- _16:30_ Return generator (15 minutes)
-- _15:00_ Wash cargo van (30 minutes)
-- _18:00_ Return cargo van
+- _12:30_ Arrive Seattle, WA
+- _13:00_ Unload personal gear at apartment (30 minutes)
+- _14:00_ Unload remaining equipment into storage unit (1 hour)
+- _15:30_ Return generator (15 minutes)
+- _16:00_ Wash cargo van (30 minutes)
+- _17:00_ Return cargo van
