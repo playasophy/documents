@@ -44,7 +44,7 @@ account Income:Interest
 
 account Expenses:Equipment Rental
 account Expenses:Fees
-account Expenses:Projects
+account Expenses:Shipping
 account Expenses:Storage:Reno
 account Expenses:Storage:Seattle
 account Expenses:Supplies
@@ -126,7 +126,7 @@ account Members:Zack Fleischman
     Assets:Equipment:Wonderdome        $75.75
         ; item: ODROID-U3, case, power supply
         ; budget: wonderdome
-    Expenses:Projects                  $25.00
+    Expenses:Shipping                  $25.00
         ; shipping
         ; budget: wonderdome
     Members:Greg Look                $-100.75
@@ -344,6 +344,34 @@ account Members:Zack Fleischman
         ; budget: lighting
     Members:Greg Look
 
+2014-08-13 * Jo-Ann Fabrics
+    Assets:Equipment:Public Space     $180.00
+        ; budget: public-space
+        ; More draping fabrics.
+    Members:Sabina Cao                $-60.00
+    Income:Donated Equipment         $-120.00
+        ; budget: public-space
+
 2014-08-14 * Transfer
     Assets:Bank:BECU:Checking         $500.00
     Assets:Bank:Paypal
+
+2014-08-15 * Playasophy Camp
+    ; Charge camp dues to members.
+    Members:Michelle Loprieno         $100.00
+    Members:Caito                     $100.00
+    Income:Camp Dues                 $-200.00
+
+2014-08-16 * Amazon.com
+    Assets:Equipment:Kitchen           $57.94
+        ; budget: kitchen-equipment
+        ; item: Rice cooker
+        ; item: cast-iron griddle
+    Expenses:Shipping                  $15.40
+        ; budget: kitchen-equipment
+    Members:Greg Look                 $-73.34
+
+2014-08-16 * Michelle Loprieno
+    ; Dues payment
+    Assets:Bank:Paypal                $100.00
+    Members:Michelle Loprieno
