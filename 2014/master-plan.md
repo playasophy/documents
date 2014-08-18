@@ -22,11 +22,12 @@
 - Charge deep-cycle and tool batteries
 
 ## Reno Loading (Fri 8/22)
+- _07:00_ Zack and Sameer pick up box truck in Auburn
 - _09:35_ Sniffles lands in RNO
 - _??:??_ Chris arrives from SF
 - _10:00_ Send cargo van to shop for food and supplies at Costco and local grocery store (1.5 hours)
 - Put perishable items in chest freezer with bags of ice
-- _??:??_ Zack, Sameer, and Caito arrive in box truck
+- _10:30_ Zack and Sameer arrive in box truck in Reno
 - _10:30_ Load equipment from storage unit into box truck and cargo van (2 hours)
 
 ## BRC Early Arrival (Fri 8/22)
