@@ -279,7 +279,7 @@ account Members:Zack Fleischman
     Members:Maria Dumanis             $400.00
     Members:Greg Look                $-800.00
 
-2014-08-02 * Jo-Ann Fabric
+2014-08-02 * Jo-Ann Fabrics
     Assets:Equipment:Public Space      $68.33
         ; budget: hookah-lounge
     Members:Sabina Cao
@@ -375,3 +375,199 @@ account Members:Zack Fleischman
     ; Dues payment
     Assets:Bank:Paypal                $100.00
     Members:Michelle Loprieno
+
+2014-08-20 * Enterprise Truck Rental
+    ; period: 2014-08-20T10:42:00-08:00 - 2014-09-03T14:46:00-08:00
+    ; budget: transportation
+    ; Cargo van rental.
+    Expenses:Rentals:Vehicle                    $659.99
+        ; item: Time & Distance - 2 week @ $300.00
+        ; item: Time & Distance - 1 days @  $59.99
+    Expenses:Rentals:Insurance                  $329.85
+        ; item: Damage Waiver - 15 days @ $21.99
+    Expenses:Rentals:Insurance                  $283.50
+        ; item: Standard Liability Protection - 15 days @ $18.90
+    Expenses:Fees                                 $6.90
+        ; item: Vehicle License Cost Recovery Fee - 15 days @ $0.46
+    Expenses:Tax:WA:Sales                        $62.70
+    Members:Greg Look                        $-1,342.94
+
+2014-08-20 * Hertz Equipment Rental
+    ; period: 2014-08-20T11:31:00-08:00 - 2014-09-03T14:10:00-08:00
+    Expenses:Rentals:Generator                  $378.00
+        ; item: Generator/Silent/3-3.9KW/gas (Honda EU3000IH) - 2 week @ $189.00
+    Expenses:Rentals:Insurance                   $56.70
+        ; item: Loss and Damage Waiver - 15% of rental charges
+    Expenses:Fees                                 $1.02
+        ; item: Emissions & Env Surcharge
+    Expenses:Tax:WA:Sales                        $41.40
+    Members:Greg Look                          $-477.12
+
+2014-08-20 * Costco
+    ; at: Federal Way, WA
+    ; time: 15:17
+    ; budget: transportation
+    Expenses:Transportation:Fuel                 25.034 gal_gasoline @ $3.659
+        ; Fuel for cargo van.
+    Members:Greg Look                           $-91.60
+
+2014-08-20 * Space Age 18
+    ; at: Bend, OR
+    ; time: 21:44
+    ; budget: transportation
+    ; Fuel for cargo van.
+    Expenses:Transportation:Fuel                 17.927 gal_gasoline @ $3.799
+    Members:Greg Look                           $-68.10
+
+2014-08-21 * Chevron
+    ; at: Lakeview, ???
+    ; time: 12:36:32
+    ; budget: transportation
+    Expenses:Transportation:Fuel                 10.836 gal_gasoline @ $3.939
+        ; Fuel for cargo van.
+    Members:Greg Look                           $-42.68
+
+2014-08-21 * The Home Depot
+    ; time: 20:21
+    ; at: 5125 Summit Ridge Court, Reno, NV 89523
+    Assets:Equipment:Power                            $25.96
+        ; item: 3-tap extension cord (15')     -  2 @ $12.98
+    Assets:Equipment:Structures                       $46.33
+        ; item: 3/8" x 2' Rebar                - 10 @  $1.47
+        ; item: 1" x 12' Ratchet Strap (4)     -      $12.97
+        ; item: 1/4" x 100' Polypro Rope       -      $11.94
+        ; item: 3/16" x 50' Polypro Rope       -  3 @  $2.24
+    Assets:Equipment:Tools                            $45.07
+        ; item: Mini Pick and Trowel           -      $15.97
+        ; item: Black Rubber Mallet, 16 oz     -       $4.97
+        ; item: High Dex Work Gloves (3)       -       $9.88
+        ; item: 2" Phillips-Head bits (12)     -       $9.97
+        ; item: 5 gallon Green Bucket          -       $4.28
+    Expenses:Kitchen:Supplies                         $14.48
+        ; item: 1 lb Camping Propane (2)       -  2 @  $6.25
+        ; item: Hand Sanitizer (8 oz)          -       $1.98
+    Expenses:Construction Supplies                    $37.69
+        ; item: 2x4 96" Whitewood Stud         -  8 @  $2.82
+        ; item: 8" Cable Tie (100)             -       $5.44
+        ; item: 2.5" Gold Screw (1 lb)         -       $6.47
+        ; item: 3/8" JT21 staples (1000)       -       $3.22
+    Members:Greg Look                                 $22.94
+        ; item: 16 oz Misting Bottle           -      $12.97
+        ; item: Women's M/L Work Glove         -       $9.97
+        ; Personal gear.
+    Expenses:Tax:NV:Sales                             $14.87
+    Members:Greg Look                               $-207.34
+
+2014-08-21 * Walmart
+    ; at: Reno, NV
+    ; time: 22:04:27
+    Expenses:Kitchen Tools                       $41.82
+    Expenses:Food:Camp Meals                      $2.50
+        ; item: Beef Ravioli (40 oz)
+    Expenses:Supplies                            $15.75
+        ; item: Solarcaine                        $5.78
+        ; item: Firt Aid Kit                      $9.97
+    Expenses:Tax:NV:Sales                         $4.45
+    Members:Greg Look                           $-64.52
+
+2014-08-22 * Harrah's Reno
+    ; at: Reno, NV
+    ; time: 10:28:48
+    ; Cash withdrawal for water.
+    Members:Greg Look                           $160.00
+    Expenses:Fees                                 $5.99
+    Assets:Bank:BECU:Checking                  $-165.99
+
+2014-08-22 * REI
+    ; at: Reno, NV
+    ; time: 13:47
+    Assets:Equipment:Water                       $17.95
+        ; item: Reliance Aquatainer (7 gallon)
+    Expenses:Tax:NV:Sales                         $1.39
+    Members:Greg Look                           $-19.34
+
+2014-08-22 * Costco
+    ; at: Reno, NV
+    ; time: 15:32
+    Expenses:Food:Camp Meals                    $199.20
+    Expenses:Lounge Supplies:Coffee              $71.92
+        ; item: Coffeemate Creamer     - 4 @ $5.99
+        ; item: Folgers Instant Coffee - 8 @ $8.99
+    Expenses:Bar Supplies:Mixers                 $13.98
+        ; item: Coke 32/12 oz                     $7.99
+        ; item: KS Cranberry Juice                $5.99
+    Expenses:Bar Supplies:Alcohol                $87.34
+        ; item: KS GOLDEN (2)                    $19.98
+        ; item: KS TWL CS                        $14.99
+        ; item: Kahlua 1.75 L                    $24.89
+        ; item: Cooks Champagne (2 pack)         $13.49
+        ; item: KS American Vodka                $13.99
+    Expenses:Lighting                            $11.89
+        ; item: Duracell D cells (14 pack)       $11.89
+    Expenses:Tax:NV:Sales                         $9.06
+    Members:Greg Look                          $-393.39
+
+2014-08-22 * Jacksons Store
+    ; at: Reno, NV
+    ; time: 19:29
+    Expenses:Transportation:Fuel                 16.637 gal_gasoline @ $3.939
+        ; Fuel for cargo van.
+    Members:Greg Look                           $-65.53
+
+2014-08-22 * Jacksons Store
+    ; at: Reno, NV
+    ; time: 19:32:17
+    Expenses:Ice                                  $9.56
+        ; To keep perishables cold on the way to BRC.
+    Members:Sabina Cao
+
+2014-08-22 * WinCo Foods
+    ; at: Reno, NV
+    ; time: 21:47:53
+    ; budget: camp-food
+    Expenses:Food:Camp Meals                     $79.23
+    Assets:Bank:BECU:Checking                   $-79.23
+
+2014-08-22 * Holiday Inn Reno-Sparks
+    ; at: 55 East Nugget Ave, Sparks, NV 89431
+    ; period: 2014-08-22 - 2014-08-23
+    ; Extra night's lodging for early-arrival crew.
+    Members:Chris Kleinknecht                    $29.32
+    Members:Greg Look                            $58.63
+    Members:Ian Wesley-Smith                     $29.32
+    Members:Sameer Chopra                        $29.32
+    Members:Zack Fleischman                      $29.32
+    Members:Greg Look                          $-175.91
+
+2014-09-02 * Shell
+    ; at: 2750 South Main Street, Susanville, CA 96130
+    ; time: 11:51:28
+    Expenses:Transportation:Fuel                 12.898 gal_gasoline @ $4.159
+        ; Fuel for cargo van.
+    Members:Greg Look                           $-53.64
+
+2014-09-02 * The Home Depot
+    ; at: 6451 South 6th Street, Klamath Falls, OR 97603
+    ; time: 16:20
+    Expenses:Kitchen:Supplies                 $19.97
+        ; Propane tank exchange.
+    Members:Greg Look                        $-19.97
+
+2014-09-02 * Mobil Fuel
+    ; at: 5400 South 6th Street, Klamath Falls, OR
+    ; time: 16:36
+    Expenses:Transportation:Fuel                 12.328 gal_gasoline @ $3.759
+        ; Fuel for cargo van.
+    Members:Greg Look                           $-46.34
+
+2014-09-03 * Shell
+    ; at: Lander Street, Seattle, WA
+    ; Refilling cargo van before returning it.
+    Expenses:Transportation:Fuel                 10.018 gal_gasoline @ $4.069
+    Members:Greg Look                           $-40.76
+
+2014-09-03 * Elephant Car Wash
+    ; Cleaned playa dust out of cargo van.
+    Expenses:Transportation:Cleaning             $19.99
+    Expenses:Tax:WA:Sales                         $1.90
+    Members:Greg Look                           $-21.89
