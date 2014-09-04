@@ -164,9 +164,9 @@ account Members:Zack Fleischman
 
 2014-02-12 * Burning Man
     ; Vehicle passes for the cargo van and truck.
-    Expenses:Transportation            $80.00
-    Members:Greg Look                 $-40.00
-    Members:Zack Fleischman           $-40.00
+    Expenses:Transportation                           $80.00
+    Members:Greg Look                                $-40.00
+    Members:Zack Fleischman                          $-40.00
 
 2014-03-01 * Public Storage
     ; period: 2014-03-01 - 2014-03-31
@@ -199,13 +199,13 @@ account Members:Zack Fleischman
     Assets:Prepaid Expenses
 
 2014-05-13 * hardkernel.com
-    Assets:Equipment:Wonderdome        $75.75
+    Assets:Equipment:Wonderdome                       $75.75
         ; item: ODROID-U3, case, power supply
         ; budget: wonderdome
-    Expenses:Shipping                  $25.00
+    Expenses:Shipping                                 $25.00
         ; shipping
         ; budget: wonderdome
-    Members:Greg Look                $-100.75
+    Members:Greg Look                               $-100.75
 
 2014-06-01 * Public Storage
     ; period: 2014-06-01 - 2014-06-30
@@ -219,47 +219,47 @@ account Members:Zack Fleischman
 
 2014-06-23 * Playasophy Camp
     ; Charge camp dues to members.
-    Members:Greg Look                 $100.00
-    Members:Becca Kemper              $100.00
-    Members:Ben Larrimer              $100.00
-    Members:Chris Kleinknecht         $100.00
-    Members:David Brotman             $100.00
-    Members:David Everling            $100.00
-    Members:Em Ascano                 $100.00
-    Members:Jamie Turley              $100.00
-    Members:Jason Huang               $100.00
-    Members:Jeff Yost                 $100.00
-    Members:Joeun Chung               $100.00
-    Members:Logan White Stack         $100.00
-    Members:Matthew Leung             $100.00
-    Members:Ming Guo                  $100.00
-    Members:Ninad Sathe               $100.00
-    Members:Sabina Cao                $100.00
-    Members:Sameer Chopra             $100.00
-    Members:Vincent Huang             $100.00
-    Members:Zack Fleischman           $100.00
-    Income:Camp Dues               $-1,900.00
+    Members:Greg Look                                $100.00
+    Members:Becca Kemper                             $100.00
+    Members:Ben Larrimer                             $100.00
+    Members:Chris Kleinknecht                        $100.00
+    Members:David Brotman                            $100.00
+    Members:David Everling                           $100.00
+    Members:Em Ascano                                $100.00
+    Members:Jamie Turley                             $100.00
+    Members:Jason Huang                              $100.00
+    Members:Jeff Yost                                $100.00
+    Members:Joeun Chung                              $100.00
+    Members:Logan White Stack                        $100.00
+    Members:Matthew Leung                            $100.00
+    Members:Ming Guo                                 $100.00
+    Members:Ninad Sathe                              $100.00
+    Members:Sabina Cao                               $100.00
+    Members:Sameer Chopra                            $100.00
+    Members:Vincent Huang                            $100.00
+    Members:Zack Fleischman                          $100.00
+    Income:Camp Dues                              $-1,900.00
 
 2014-06-24 * Kevin Litwack
     ; Split storage costs.
-    Members:Kevin Litwack           $1,020.00
+    Members:Kevin Litwack                          $1,020.00
     Members:Greg Look
 
 2014-06-24 * Em Ascano
     ; Dues payment.
-    Assets:Bank:Paypal                $100.00
+    Assets:Bank:Paypal                               $100.00
     Members:Em Ascano
 
 2014-06-24 * David Brotman
     ; Dues payment and donation.
-    Assets:Bank:Paypal                $193.90
-    Expenses:Fees                       $6.10
-    Income:Camp Funding              $-100.00
-    Members:David Brotman            $-100.00
+    Assets:Bank:Paypal                               $193.90
+    Expenses:Fees                                      $6.10
+    Income:Camp Funding                             $-100.00
+    Members:David Brotman                           $-100.00
 
 2014-06-28 * Sabina Cao
     ; Dues payment.
-    Assets:Bank:Paypal                $100.00
+    Assets:Bank:Paypal                               $100.00
     Members:Sabina Cao
 
 2014-07-01 * Public Storage
@@ -274,92 +274,92 @@ account Members:Zack Fleischman
 
 2014-07-02 * Ninad Sathe
     ; Dues payment.
-    Assets:Bank:Paypal                $100.00
+    Assets:Bank:Paypal                               $100.00
     Members:Ninad Sathe
 
 2014-07-09 * Chris Kleinknecht
     ; Dues payment. (BTC)
-    Assets:Bank:Coinbase              $100.00
+    Assets:Bank:Coinbase                             $100.00
     Members:Chris Kleinknecht
 
 2014-07-10 * Matthew Leung
     ; Dues payment. (BTC)
-    Assets:Bank:Coinbase              $200.00
-    Members:Matthew Leung            $-100.00
-    Members:Joeun Chung              $-100.00
+    Assets:Bank:Coinbase                             $200.00
+    Members:Matthew Leung                           $-100.00
+    Members:Joeun Chung                             $-100.00
 
 2014-07-14 * Playasophy Camp
     ; Charge camp dues to members.
-    Members:Ian Wesley-Smith          $100.00
-    Members:Ruben Valas               $100.00
-    Income:Camp Dues                 $-200.00
+    Members:Ian Wesley-Smith                         $100.00
+    Members:Ruben Valas                              $100.00
+    Income:Camp Dues                                $-200.00
 
 2014-07-14 * Ian Wesley-Smith
     ; Dues payment
-    Assets:Bank:Paypal                $100.00
+    Assets:Bank:Paypal                               $100.00
     Members:Ian Wesley-Smith
 
 2014-07-14 * Logan White Stack
     ; Dues payment
-    Assets:Bank:Paypal                $100.00
+    Assets:Bank:Paypal                               $100.00
     Members:Logan White Stack
 
 2014-07-15 * Ruben Valas
     ; Dues payment
-    Assets:Bank:Paypal                $100.00
+    Assets:Bank:Paypal                               $100.00
     Members:Ruben Valas
 
 2014-07-15 * Transfer
-    Assets:Bank:BECU Checking         $500.00
+    Assets:Bank:BECU Checking                        $500.00
     Assets:Bank:Paypal
 
 2014-07-15 * Playasophy Camp
     ; Charge camp dues to members.
-    Members:Riley Andrews             $100.00
-    Members:Rong Hu                   $100.00
-    Income:Camp Dues                 $-200.00
+    Members:Riley Andrews                            $100.00
+    Members:Rong Hu                                  $100.00
+    Income:Camp Dues                                $-200.00
 
 2014-07-15 * Rong Hu
     ; Dues payment
-    Assets:Bank:Paypal                $100.00
+    Assets:Bank:Paypal                               $100.00
     Members:Rong Hu
 
 2014-07-18 * Jamie Turley
     ; Dues payment
-    Assets:Bank:Paypal                $100.00
+    Assets:Bank:Paypal                               $100.00
     Members:Jamie Turley
 
 2014-07-22 * Ming Guo
     ; Dues payment
-    Assets:Bank:Paypal                $100.00
+    Assets:Bank:Paypal                               $100.00
     Members:Ming Guo
 
 2014-07-23 * Riley Andrews
     ; Dues payment
-    Assets:Bank:Coinbase              $100.00
+    Assets:Bank:Coinbase                             $100.00
     Members:Riley Andrews
 
 2014-07-23 * Amazon.com
-    Expenses:Supplies                  $34.04
+    Expenses:Supplies                                 $34.04
         ; item: Glad ForceFlex Extra Strong 33 Gallon Trash Bags (70 ct)
         ; budget: kitchen-equipment
-    Assets:Equipment:Structures         $9.83
+    Assets:Equipment:Structures                        $9.83
         ; item: King Canopy Ball Bungees 9" (50 ct)
         ; budget: shade
-    Members:Greg Look                 $-43.87
+    Members:Greg Look                                $-43.87
 
 2014-07-24 * Sameer Chopra
     ; Dues payment
-    Assets:Bank:Paypal                $100.00
+    Assets:Bank:Paypal                               $100.00
     Members:Sameer Chopra
 
 2014-07-24 * Jeff Yost
     ; Dues payment
-    Assets:Bank:Paypal                $100.00
+    Assets:Bank:Paypal                               $100.00
     Members:Jeff Yost
 
 2014-07-29 * Hookah Company
-    Expenses:Supplies                 $165.91
+    Expenses:Supplies                                $165.91
         ; item: Shisha, coals, extra hookah
         ; budget: hookah-lounge
     Members:Sabina Cao
@@ -376,68 +376,68 @@ account Members:Zack Fleischman
 
 2014-08-01 * Playasophy Camp
     ; Charge camp dues to members.
-    Members:Shri Shamasunder          $100.00
-    Members:Maria Dumanis             $100.00
-    Income:Camp Dues                 $-200.00
+    Members:Shri Shamasunder                         $100.00
+    Members:Maria Dumanis                            $100.00
+    Income:Camp Dues                                $-200.00
 
 2014-08-01 * Burning Man
-    Members:Ian Wesley-Smith          $400.00
-    Members:Maria Dumanis             $400.00
-    Members:Greg Look                $-800.00
+    Members:Ian Wesley-Smith                         $400.00
+    Members:Maria Dumanis                            $400.00
+    Members:Greg Look                               $-800.00
 
 2014-08-02 * Jo-Ann Fabrics
-    Assets:Equipment:Public Space      $68.33
+    Assets:Equipment:Public Space                     $68.33
         ; budget: hookah-lounge
     Members:Sabina Cao
 
 2014-08-03 * Shri Shamasunder
     ; Dues payment
-    Assets:Bank:Paypal                $100.00
+    Assets:Bank:Paypal                               $100.00
     Members:Shri Shamasunder
 
 2014-08-04 * Amazon.com
-    Assets:Equipment:Wonderdome        $24.55
+    Assets:Equipment:Wonderdome                       $24.55
         ; item: Dayton Audio iMM-6 microphone
         ; item: 10x 4-pin LED strip connector
         ; budget: wonderdome
-    Assets:Equipment:Tools             $24.52
+    Assets:Equipment:Tools                            $24.52
         ; item: Travel Smart Luggage Strap
         ; budget: shade
-    Members:Greg Look                 $-49.07
+    Members:Greg Look                                $-49.07
 
 2014-08-04 * Ben Larrimer
     ; Dues payment
-    Assets:Bank:Paypal                $100.00
+    Assets:Bank:Paypal                               $100.00
     Members:Ben Larrimer
 
 2014-08-06 * Zipcar
     ; Visit to Seattle storage unit.
-    Expenses:Transportation            $24.62
+    Expenses:Transportation                           $24.62
         ; budget: work-preparation
     Members:Greg Look
 
 2014-08-06 * USPS
     ; Shipping for BM ticket.
-    Members:Maria Dumanis              $17.52
+    Members:Maria Dumanis                             $17.52
     Members:Greg Look
 
 2014-08-07 * Jason Huang
     ; Dues payment
-    Assets:Bank:Paypal                $100.00
+    Assets:Bank:Paypal                               $100.00
     Members:Jason Huang
 
 2014-08-08 * BECU
-    Assets:Bank:BECU Checking           $0.02
+    Assets:Bank:BECU Checking                          $0.02
     Income:Interest
 
 2014-08-09 * Vincent Huang
     ; Dues payment
-    Assets:Bank:Paypal                 $96.80
-    Expenses:Fees                       $3.20
-    Members:Vincent Huang            $-100.00
+    Assets:Bank:Paypal                                $96.80
+    Expenses:Fees                                      $3.20
+    Members:Vincent Huang                           $-100.00
 
 2014-08-11 * Amazon.com
-    Assets:Equipment:Tools             $94.56
+    Assets:Equipment:Tools                            $94.56
         ; item: Ash bucket
         ; item: 50' YellowJacket extension cord
         ; item: YellowJacket 5-outlet tap
@@ -445,93 +445,93 @@ account Members:Zack Fleischman
     Members:Greg Look
 
 2014-08-13 * Amazon.com
-    Assets:Equipment:Lighting          $34.09
+    Assets:Equipment:Lighting                         $34.09
         ; item: 8x Moonrays Solar-Powered LED Path Light
         ; budget: lighting
     Members:Greg Look
 
 2014-08-13 * Jo-Ann Fabrics
-    Assets:Equipment:Public Space     $180.00
+    Assets:Equipment:Public Space                    $180.00
         ; budget: public-space
         ; More draping fabrics.
-    Members:Sabina Cao                $-60.00
-    Income:Donated Equipment         $-120.00
+    Members:Sabina Cao                               $-60.00
+    Income:Donated Equipment                        $-120.00
         ; budget: public-space
 
 2014-08-14 * Transfer
-    Assets:Bank:BECU Checking         $500.00
+    Assets:Bank:BECU Checking                        $500.00
     Assets:Bank:Paypal
 
 2014-08-15 * Playasophy Camp
     ; Charge camp dues to members.
-    Members:Michelle Loprieno         $100.00
-    Members:Caito                     $100.00
-    Income:Camp Dues                 $-200.00
+    Members:Michelle Loprieno                        $100.00
+    Members:Caito                                    $100.00
+    Income:Camp Dues                                $-200.00
 
 2014-08-16 * Amazon.com
-    Assets:Equipment:Kitchen           $57.94
+    Assets:Equipment:Kitchen                          $57.94
         ; budget: kitchen-equipment
         ; item: Rice cooker
         ; item: cast-iron griddle
-    Expenses:Shipping                  $15.40
+    Expenses:Shipping                                 $15.40
         ; budget: kitchen-equipment
-    Members:Greg Look                 $-73.34
+    Members:Greg Look                                $-73.34
 
 2014-08-16 * Michelle Loprieno
     ; Dues payment
-    Assets:Bank:Paypal                $100.00
+    Assets:Bank:Paypal                               $100.00
     Members:Michelle Loprieno
 
 2014-08-20 * Enterprise Truck Rental
     ; period: 2014-08-20T10:42:00-08:00 - 2014-09-03T14:46:00-08:00
     ; budget: transportation
     ; Cargo van rental.
-    Expenses:Rentals:Vehicle                    $659.99
+    Expenses:Rentals:Vehicle                         $659.99
         ; item: Time & Distance - 2 week @ $300.00
         ; item: Time & Distance - 1 days @  $59.99
-    Expenses:Rentals:Insurance                  $329.85
+    Expenses:Rentals:Insurance                       $329.85
         ; item: Damage Waiver - 15 days @ $21.99
-    Expenses:Rentals:Insurance                  $283.50
+    Expenses:Rentals:Insurance                       $283.50
         ; item: Standard Liability Protection - 15 days @ $18.90
-    Expenses:Fees                                 $6.90
+    Expenses:Fees                                      $6.90
         ; item: Vehicle License Cost Recovery Fee - 15 days @ $0.46
-    Expenses:Tax:WA:Sales                        $62.70
-    Members:Greg Look                        $-1,342.94
+    Expenses:Tax:WA:Sales                             $62.70
+    Members:Greg Look                             $-1,342.94
 
 2014-08-20 * Hertz Equipment Rental
     ; period: 2014-08-20T11:31:00-08:00 - 2014-09-03T14:10:00-08:00
-    Expenses:Rentals:Generator                  $378.00
+    Expenses:Rentals:Generator                       $378.00
         ; item: Generator/Silent/3-3.9KW/gas (Honda EU3000IH) - 2 week @ $189.00
-    Expenses:Rentals:Insurance                   $56.70
+    Expenses:Rentals:Insurance                        $56.70
         ; item: Loss and Damage Waiver - 15% of rental charges
-    Expenses:Fees                                 $1.02
+    Expenses:Fees                                      $1.02
         ; item: Emissions & Env Surcharge
-    Expenses:Tax:WA:Sales                        $41.40
-    Members:Greg Look                          $-477.12
+    Expenses:Tax:WA:Sales                             $41.40
+    Members:Greg Look                               $-477.12
 
 2014-08-20 * Costco
     ; at: Federal Way, WA
     ; time: 15:17
     ; budget: transportation
-    Expenses:Transportation:Fuel                 25.034 gal_gasoline @ $3.659
+    Expenses:Transportation:Fuel                      25.034 gal_gasoline @ $3.659
         ; Fuel for cargo van.
-    Members:Greg Look                           $-91.60
+    Members:Greg Look                                $-91.60
 
 2014-08-20 * Space Age 18
     ; at: Bend, OR
     ; time: 21:44
     ; budget: transportation
     ; Fuel for cargo van.
-    Expenses:Transportation:Fuel                 17.927 gal_gasoline @ $3.799
-    Members:Greg Look                           $-68.10
+    Expenses:Transportation:Fuel                      17.927 gal_gasoline @ $3.799
+    Members:Greg Look                                $-68.10
 
 2014-08-21 * Chevron
     ; at: Lakeview, ???
     ; time: 12:36:32
     ; budget: transportation
-    Expenses:Transportation:Fuel                 10.836 gal_gasoline @ $3.939
+    Expenses:Transportation:Fuel                      10.836 gal_gasoline @ $3.939
         ; Fuel for cargo van.
-    Members:Greg Look                           $-42.68
+    Members:Greg Look                                $-42.68
 
 2014-08-21 * The Home Depot
     ; time: 20:21
@@ -592,17 +592,17 @@ account Members:Zack Fleischman
     ; at: Reno, NV
     ; time: 10:28:48
     ; Cash withdrawal for water.
-    Members:Greg Look                           $160.00
-    Expenses:Fees                                 $5.99
-    Assets:Bank:BECU Checking                  $-165.99
+    Members:Greg Look                                $160.00
+    Expenses:Fees                                      $5.99
+    Assets:Bank:BECU Checking                       $-165.99
 
 2014-08-22 * REI
     ; at: Reno, NV
     ; time: 13:47
-    Assets:Equipment:Water                       $17.95
+    Assets:Equipment:Water                            $17.95
         ; item: Reliance Aquatainer (7 gallon)
-    Expenses:Tax:NV:Sales                         $1.39
-    Members:Greg Look                           $-19.34
+    Expenses:Tax:NV:Sales                              $1.39
+    Members:Greg Look                                $-19.34
 
 2014-08-22 * Costco
     ; at: Reno, NV
@@ -628,9 +628,9 @@ account Members:Zack Fleischman
 2014-08-22 * Jacksons Store
     ; at: Reno, NV
     ; time: 19:29
-    Expenses:Transportation:Fuel                 16.637 gal_gasoline @ $3.939
+    Expenses:Transportation:Fuel                      16.637 gal_gasoline @ $3.939
         ; Fuel for cargo van.
-    Members:Greg Look                           $-65.53
+    Members:Greg Look                                $-65.53
 
 2014-08-22 * Jacksons Store
     ; at: Reno, NV
@@ -643,8 +643,9 @@ account Members:Zack Fleischman
     ; at: Reno, NV
     ; time: 21:47:53
     ; budget: camp-food
-    Expenses:Food:Camp Meals                     $79.23
-    Assets:Bank:BECU Checking                   $-79.23
+    Expenses:Kitchen:Camp Meals                       $79.23
+        ; TODO: itemize
+    Assets:Bank:BECU Checking
 
 2014-08-22 * Holiday Inn Reno-Sparks
     ; at: 55 East Nugget Ave, Sparks, NV 89431
