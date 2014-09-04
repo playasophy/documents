@@ -565,16 +565,28 @@ account Members:Zack Fleischman
     Members:Greg Look                               $-207.34
 
 2014-08-21 * Walmart
-    ; at: Reno, NV
+    ; at: 5260 W 7th St, Reno, NV 89523
     ; time: 22:04:27
-    Expenses:Kitchen Tools                       $41.82
-    Expenses:Food:Camp Meals                      $2.50
-        ; item: Beef Ravioli (40 oz)
-    Expenses:Supplies                            $15.75
-        ; item: Solarcaine                        $5.78
-        ; item: Firt Aid Kit                      $9.97
-    Expenses:Tax:NV:Sales                         $4.45
-    Members:Greg Look                           $-64.52
+    Assets:Equipment:Kitchen                          $41.47
+        ; item: 8 piece Measuring Set          -       $0.88
+        ; item: 4 cup Measuring Cup            -       $0.97
+        ; item: Chef's Knife with Sheath       -       $4.88
+        ; item: Paring Knife with Sheath       -       $2.88
+        ; item: Plastic Ladle                  -       $7.98
+        ; item: Plastic Spatula                -       $6.98
+        ; item: Large Red Spatula              -       $2.97
+        ; item: Oven Mitt Pot Holder Set       -       $3.96
+        ; item: First Aid Kit                  -       $9.97
+    Expenses:Kitchen:Supplies                         $13.14
+        ; item: WM Paper Bags                  -       $5.68
+        ; item: 30-gallon Trash Bags           -       $1.68
+        ; item: Solarcaine                     -       $5.78
+    Expenses:Kitchen:Camp Meals                        $2.50
+        ; item: Beef Ravioli (40 oz)           -       $2.50
+    Expenses:Unknown                                   $2.96
+        ; item: SB 84SIDEKICK                  -       $2.96
+    Expenses:Tax:NV:Sales                              $4.45
+    Members:Greg Look                                $-64.52
 
 2014-08-22 * Harrah's Reno
     ; at: Reno, NV
@@ -623,7 +635,7 @@ account Members:Zack Fleischman
 2014-08-22 * Jacksons Store
     ; at: Reno, NV
     ; time: 19:32:17
-    Expenses:Ice                                  $9.56
+    Expenses:Supplies:Ice                              $9.56
         ; To keep perishables cold on the way to BRC.
     Members:Sabina Cao
 
