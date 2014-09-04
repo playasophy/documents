@@ -12,7 +12,7 @@ account Equity:Opening Balances
 account Assets:Bank:Paypal
     assert commodity == "$"
 
-account Assets:Bank:BECU:Checking
+account Assets:Bank:BECU Checking
     assert commodity == "$"
 
 account Assets:Bank:Coinbase
@@ -214,7 +214,7 @@ account Members:Zack Fleischman
     Members:Ruben Valas
 
 2014-07-15 * Transfer
-    Assets:Bank:BECU:Checking         $500.00
+    Assets:Bank:BECU Checking         $500.00
     Assets:Bank:Paypal
 
 2014-07-15 * Playasophy Camp
@@ -321,7 +321,7 @@ account Members:Zack Fleischman
     Members:Jason Huang
 
 2014-08-08 * BECU
-    Assets:Bank:BECU:Checking           $0.02
+    Assets:Bank:BECU Checking           $0.02
     Income:Interest
 
 2014-08-09 * Vincent Huang
@@ -353,7 +353,7 @@ account Members:Zack Fleischman
         ; budget: public-space
 
 2014-08-14 * Transfer
-    Assets:Bank:BECU:Checking         $500.00
+    Assets:Bank:BECU Checking         $500.00
     Assets:Bank:Paypal
 
 2014-08-15 * Playasophy Camp
@@ -476,7 +476,7 @@ account Members:Zack Fleischman
     ; Cash withdrawal for water.
     Members:Greg Look                           $160.00
     Expenses:Fees                                 $5.99
-    Assets:Bank:BECU:Checking                  $-165.99
+    Assets:Bank:BECU Checking                  $-165.99
 
 2014-08-22 * REI
     ; at: Reno, NV
@@ -526,7 +526,7 @@ account Members:Zack Fleischman
     ; time: 21:47:53
     ; budget: camp-food
     Expenses:Food:Camp Meals                     $79.23
-    Assets:Bank:BECU:Checking                   $-79.23
+    Assets:Bank:BECU Checking                   $-79.23
 
 2014-08-22 * Holiday Inn Reno-Sparks
     ; at: 55 East Nugget Ave, Sparks, NV 89431
