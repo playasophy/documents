@@ -605,25 +605,62 @@ account Members:Zack Fleischman
     Members:Greg Look                                $-19.34
 
 2014-08-22 * Costco
-    ; at: Reno, NV
+    ; at: 2200 Harvard Way, Reno, NV 89502
     ; time: 15:32
-    Expenses:Food:Camp Meals                    $199.20
-    Expenses:Lounge Supplies:Coffee              $71.92
-        ; item: Coffeemate Creamer     - 4 @ $5.99
-        ; item: Folgers Instant Coffee - 8 @ $8.99
-    Expenses:Bar Supplies:Mixers                 $13.98
-        ; item: Coke 32/12 oz                     $7.99
-        ; item: KS Cranberry Juice                $5.99
-    Expenses:Bar Supplies:Alcohol                $87.34
-        ; item: KS GOLDEN (2)                    $19.98
-        ; item: KS TWL CS                        $14.99
-        ; item: Kahlua 1.75 L                    $24.89
-        ; item: Cooks Champagne (2 pack)         $13.49
-        ; item: KS American Vodka                $13.99
-    Expenses:Lighting                            $11.89
-        ; item: Duracell D cells (14 pack)       $11.89
-    Expenses:Tax:NV:Sales                         $9.06
-    Members:Greg Look                          $-393.39
+    Expenses:Kitchen:Camp Meals                      $160.25
+        ; item: Pancake Mix                    -       $5.65
+        ; item: Applewood Bacon                -  2 @ $17.99
+        ; item: Flour Tortillas (10")          -  2 @  $2.99
+        ; item: Medium Cheddar Cheese (2 lb)   -       $8.99
+        ; item: Sliced Pepper Jack Cheese      -       $7.89
+        ; item: Shredded Cheddar Jack Cheese   -      $14.89
+        ; item: KS Shredded Cheddar Cheese     -      $14.89
+        ; item: KS Wheat Bread (60 slices)     -       $4.29
+        ; item: KS Organic Eggs (18)           -       $6.49
+        ; item: Chicken Sausage (8)            -      $13.99
+        ; item: Ground Beef (6.6 lb)           -      $21.25
+        ; item: Taco Seasoning                 -       $5.59
+        ; item: Tabasco Sauce                  -       $4.99
+        ; item: Pace Salsa                     -       $4.99
+        ; item: Sour Cream                     -       $4.39
+    Expenses:Kitchen:Supplies                         $14.99
+        ; item: KS Paper Towels                -      $14.99
+    Expenses:Lounge:Coffee                            $95.88
+        ; item: Coffeemate Creamer             -  4 @  $5.99
+        ; item: Folgers Instant Coffee         -  8 @  $8.99
+    Expenses:Bar Supplies:Mixers                      $13.98
+        ; item: Coke 32/12 oz                  -       $9.99 - $2.00
+        ; item: KS Cranberry Juice             -       $5.99
+    Expenses:Bar Supplies:Alcohol                     $87.34
+        ; item: KS Golden Margarita Mix        -  2 @  $9.99
+        ; item: Kahlua 1.75 L                  -      $24.89
+        ; item: Cooks Champagne (2 pack)       -      $13.49
+        ; item: KS American Vodka              -      $13.99
+        ; item: KS Spiced Rum                  -      $14.99
+    Expenses:Lighting                                 $11.89
+        ; item: Duracell D cells (14 pack)     -      $14.89 - $3.00
+    Expenses:Tax:NV:Sales                              $9.06
+    Assets:Bank:BECU Checking                       $-393.39
+
+2014-08-22 * Costco
+    ; at: 2200 Harvard Way, Reno, NV 89502
+    ; time: 15:33
+    ; Split personal food and donated alcohol.
+    Members:Chris Kleinknecht                         $72.47
+        ; item: Jameson (1.75 L)               -      $34.49
+        ; item: Brew Free IPA                  -      $23.99
+        ; item: Goyette Pino Grigio            -      $13.99
+    Members:Greg Look                                 $23.98
+        ; item: KS Fruit & Nut Medley          -      $13.99
+        ; item: Babybel Cheese (28)            -       $9.99
+    Members:Ian Wesley-Smith                           $9.99
+        ; item: KS Golden Margarita Mix        -       $9.99
+    Members:Jeff Yost                                 $66.26
+        ; item: KS American Vodka              -  2 @ $13.99
+        ; item: Bulleit Bourbon                -      $31.79
+        ; item: Goldfish                       -       $8.99 - $2.50
+    Expenses:Tax:NV:Sales                             $10.99
+    Members:Greg Look                               $-183.69
 
 2014-08-22 * Jacksons Store
     ; at: Reno, NV
