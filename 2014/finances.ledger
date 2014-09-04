@@ -86,29 +86,81 @@ account Members:Zack Fleischman
 ; Opening Balances
 
 2014-01-01 * Opening Balances
-    Assets:Bank:PayPal                  $0.00
-    Assets:Bank:BECU:Checking         $100.00
-    Assets:Equipment:Structures     $3,892.86
-    Assets:Equipment:Tools            $709.31
-    Assets:Equipment:Utilities      $1,481.13
-    Assets:Equipment:Kitchen        $1,359.82
-    Assets:Equipment:Power          $1,031.12
-    Assets:Equipment:Lighting         $383.02
-    Assets:Equipment:Audio Visual   $1,332.77
-    Assets:Equipment:Public Space   $2,006.90
-    Assets:Equipment:Wonderdome     $1,449.36
-    Assets:Equipment:Misc             $230.12
-    Members:David Everling           $-100.00
+    Assets:Bank:PayPal                                 $0.00
+    Assets:Bank:BECU Checking                        $100.00
+    Assets:Equipment:Structures                    $3,892.86
+    Assets:Equipment:Tools                           $709.31
+    Assets:Equipment:Utilities                     $1,481.13
+    Assets:Equipment:Kitchen                       $1,359.82
+    Assets:Equipment:Power                         $1,031.12
+    Assets:Equipment:Lighting                        $383.02
+    Assets:Equipment:Audio Visual                  $1,332.77
+    Assets:Equipment:Public Space                  $2,006.90
+    Assets:Equipment:Wonderdome                    $1,449.36
+    Assets:Equipment:Misc                            $230.12
+    Assets:Prepaid Expenses                          $105.00
+    Members:David Everling                          $-100.00
     Equity:Opening Balances
 
 
 
 ; Transactions
 
-2014-01-01 * Emigrant Storage
-    ; period: 2013-11-01 - 2014-11-01
-    Expenses:Storage:Reno           $1,260.00
+2013-10-01 * Public Storage
+    ; period: 2013-10-01 - 2013-10-31
+    Expenses:Storage:Seattle                          $65.00
     Members:Kevin Litwack
+
+2013-10-01 * Emigrant Storage
+    ; period: 2013-10-01 - 2013-10-31
+    Expenses:Storage:Reno                            $105.00
+    Assets:Prepaid Expenses                         $-105.00 = $0.00
+
+2013-10-24 * Emigrant Storage
+    ; Up-front payment for 12 months, plus bonus month for free.
+    Assets:Prepaid Expenses                        $1,365.00
+    Income:Promotional Bonus                        $-105.00
+    Members:Kevin Litwack                         $-1,260.00
+
+2013-11-01 * Public Storage
+    ; period: 2013-11-01 - 2013-11-30
+    Expenses:Storage:Seattle                          $65.00
+    Members:Kevin Litwack
+
+2013-11-01 * Emigrant Storage
+    ; period: 2013-11-01 - 2013-11-30
+    Expenses:Storage:Reno                            $105.00
+    Assets:Prepaid Expenses
+
+2013-12-01 * Public Storage
+    ; period: 2013-12-01 - 2013-12-31
+    Expenses:Storage:Seattle                          $65.00
+    Members:Kevin Litwack
+
+2013-12-01 * Emigrant Storage
+    ; period: 2013-12-01 - 2013-12-31
+    Expenses:Storage:Reno                            $105.00
+    Assets:Prepaid Expenses
+
+2014-01-01 * Public Storage
+    ; period: 2014-01-01 - 2014-01-31
+    Expenses:Storage:Seattle                          $65.00
+    Members:Kevin Litwack
+
+2014-01-01 * Emigrant Storage
+    ; period: 2014-01-01 - 2014-01-31
+    Expenses:Storage:Reno                            $105.00
+    Assets:Prepaid Expenses
+
+2014-02-01 * Public Storage
+    ; period: 2014-02-01 - 2014-02-28
+    Expenses:Storage:Seattle                          $65.00
+    Members:Kevin Litwack
+
+2014-02-01 * Emigrant Storage
+    ; period: 2014-02-01 - 2014-02-28
+    Expenses:Storage:Reno                            $105.00
+    Assets:Prepaid Expenses
 
 2014-02-12 * Burning Man
     ; Vehicle passes for the cargo van and truck.
@@ -116,11 +168,35 @@ account Members:Zack Fleischman
     Members:Greg Look                 $-40.00
     Members:Zack Fleischman           $-40.00
 
-2014-03-17 * Public Storage
-    ; period: 2013-10-01 - 2014-10-01
-    ; Estimated $65/mo
-    Expenses:Storage:Seattle          $780.00
-    Members:Kevin Litwack            $-780.00
+2014-03-01 * Public Storage
+    ; period: 2014-03-01 - 2014-03-31
+    Expenses:Storage:Seattle                          $65.00
+    Members:Kevin Litwack
+
+2014-03-01 * Emigrant Storage
+    ; period: 2014-03-01 - 2014-03-31
+    Expenses:Storage:Reno                            $105.00
+    Assets:Prepaid Expenses
+
+2014-04-01 * Public Storage
+    ; period: 2014-04-01 - 2014-04-30
+    Expenses:Storage:Seattle                          $65.00
+    Members:Kevin Litwack
+
+2014-04-01 * Emigrant Storage
+    ; period: 2014-04-01 - 2014-04-30
+    Expenses:Storage:Reno                            $105.00
+    Assets:Prepaid Expenses
+
+2014-05-01 * Public Storage
+    ; period: 2014-05-01 - 2014-05-31
+    Expenses:Storage:Seattle                          $65.00
+    Members:Kevin Litwack
+
+2014-05-01 * Emigrant Storage
+    ; period: 2014-05-01 - 2014-05-31
+    Expenses:Storage:Reno                            $105.00
+    Assets:Prepaid Expenses
 
 2014-05-13 * hardkernel.com
     Assets:Equipment:Wonderdome        $75.75
@@ -130,6 +206,16 @@ account Members:Zack Fleischman
         ; shipping
         ; budget: wonderdome
     Members:Greg Look                $-100.75
+
+2014-06-01 * Public Storage
+    ; period: 2014-06-01 - 2014-06-30
+    Expenses:Storage:Seattle                          $65.00
+    Members:Kevin Litwack
+
+2014-06-01 * Emigrant Storage
+    ; period: 2014-06-01 - 2014-06-30
+    Expenses:Storage:Reno                            $105.00
+    Assets:Prepaid Expenses
 
 2014-06-23 * Playasophy Camp
     ; Charge camp dues to members.
@@ -175,6 +261,16 @@ account Members:Zack Fleischman
     ; Dues payment.
     Assets:Bank:Paypal                $100.00
     Members:Sabina Cao
+
+2014-07-01 * Public Storage
+    ; period: 2014-07-01 - 2014-07-31
+    Expenses:Storage:Seattle                          $65.00
+    Members:Kevin Litwack
+
+2014-07-01 * Emigrant Storage
+    ; period: 2014-07-01 - 2014-07-31
+    Expenses:Storage:Reno                            $105.00
+    Assets:Prepaid Expenses
 
 2014-07-02 * Ninad Sathe
     ; Dues payment.
@@ -267,6 +363,16 @@ account Members:Zack Fleischman
         ; item: Shisha, coals, extra hookah
         ; budget: hookah-lounge
     Members:Sabina Cao
+
+2014-08-01 * Public Storage
+    ; period: 2014-08-01 - 2014-08-31
+    Expenses:Storage:Seattle                          $65.00
+    Members:Kevin Litwack
+
+2014-08-01 * Emigrant Storage
+    ; period: 2014-08-01 - 2014-08-31
+    Expenses:Storage:Reno                            $105.00
+    Assets:Prepaid Expenses
 
 2014-08-01 * Playasophy Camp
     ; Charge camp dues to members.
@@ -538,6 +644,22 @@ account Members:Zack Fleischman
     Members:Sameer Chopra                        $29.32
     Members:Zack Fleischman                      $29.32
     Members:Greg Look                          $-175.91
+
+2014-08-23 * Gerlach Water Department
+    Expenses:Supplies:Water                           $80.00
+        ; item: ~255 gallons of water
+        ; Only charged for 200 gal for some reason.
+    Members:Greg Look                                $-80.00
+
+2014-09-01 * Public Storage
+    ; period: 2014-09-01 - 2014-09-30
+    Expenses:Storage:Seattle                          $65.00
+    Members:Kevin Litwack
+
+2014-09-01 * Emigrant Storage
+    ; period: 2014-09-01 - 2014-09-30
+    Expenses:Storage:Reno                            $105.00
+    Assets:Prepaid Expenses
 
 2014-09-02 * Shell
     ; at: 2750 South Main Street, Susanville, CA 96130
