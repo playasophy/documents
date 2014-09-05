@@ -148,23 +148,169 @@ account Members:Zack Fleischman
 
 
 
-; Opening Balances
+; Opening Balances & Inventory
 
-2014-01-01 * Opening Balances
+2013-10-01 * Opening Balances
     Assets:Bank:PayPal                                 $0.00
     Assets:Bank:BECU Checking                        $100.00
-    Assets:Equipment:Structures                    $3,892.86
-    Assets:Equipment:Tools                           $709.31
-    Assets:Equipment:Utilities                     $1,481.13
-    Assets:Equipment:Kitchen                       $1,359.82
-    Assets:Equipment:Power                         $1,031.12
-    Assets:Equipment:Lighting                        $383.02
-    Assets:Equipment:Audio Visual                  $1,332.77
-    Assets:Equipment:Public Space                  $2,006.90
-    Assets:Equipment:Wonderdome                    $1,449.36
-    Assets:Equipment:Misc                            $230.12
-    Assets:Prepaid Expenses                          $105.00
+    Assets:Prepaid Expenses:Storage                  $105.00
     Members:David Everling                          $-100.00
+    Equity:Opening Balances
+
+2013-10-01 * Inventory
+    Assets:Equipment:Structures:Domes                $403.99
+        ; item: 17' 2V Geodesic Dome                 $403.99
+        ; [=2008-11-02]
+    Assets:Equipment:Structures:Domes                $303.60
+        ; item: 25' 3V Geodesic Dome                 $303.60
+    Assets:Equipment:Structures:Shade              $1,260.20
+        ; item: Shade cloth, clips, bungee balls     $402.06
+        ; item: Shade cloth and clips                $709.95
+        ; item: 24' Parachute                         $60.21
+        ; item: Shade??                               $87.98
+    Assets:Equipment:Structures:Carport              $217.89
+        ; item: 10' x 20' Canopy Carport             $217.89
+    Assets:Equipment:Structures:Fasteners            $236.00
+        ; item: 1/2" x 2' Rebar (50)                  $84.42
+        ; item: Ratchet Straps                        $60.75
+        ; item: 100' Rope                             $10.92
+        ; item: 100' Nylon cord (6)                   $26.21
+        ; item: Misc Rope                             $53.70
+    Equity:Opening Balances
+
+2013-10-01 * Inventory
+    Assets:Equipment:Tools:Hand Tools                 $68.78
+        ; item: Wrench/socket toolkit                 $21.77
+        ; item: Measuring/Marking Tools               $35.00
+        ; item: Hand Saw                              $12.01
+    Assets:Equipment:Tools:Power Tools               $230.71
+        ; item: Ryobi Cordless Drills                 $86.51
+        ; item: Ryobi Cordless Circular Saw           $97.46
+        ; item: 21-piece drill bit set                $16.39
+        ; item: 3/8" drill bit (3)                    $30.35
+    Assets:Equipment:Tools:Earthworking               $86.91
+        ; item: Buckets (2), tape, file, trowel       $22.41
+        ; item: Post hole digger/auger                $64.50
+    Assets:Equipment:Tools:Misc                      $111.83
+        ; item: Ladders                               $35.00
+        ; item: Plastic Storage Bins (3)              $18.60
+        ; item: Plastic Storage Bins (3)              $19.70
+        ; item: Plastic Storage Bins (3)              $23.53
+        ; item: Plastic Storage Bins (3)              $15.00
+        ; item: Vise, drill bit, misc nuts/bolts      $46.12
+        ; item: Vise                                  $23.50
+        ; item: Buckets, staples, tape, sandpaper     $28.97
+    Equity:Opening Balances
+
+2013-10-01 * Inventory
+    Assets:Equipment:Utilities:Water                 $793.65
+        ; item: Water Barrel, 55 gallon           3 @ $70.00
+        ; item: Water Container, 15 gallon        6 @ $45.00
+        ; item: Water Container, 5 gallon (7)         $87.52
+        ; item: Solar Shower                          $25.13
+        ; item: Wooden Shower Platform + Pump        $175.00
+        ; item: Shower Curtains                       $26.00
+    Assets:Equipment:Utilities:Lighting              $574.11
+        ; item: Work Lights                          $191.09
+        ; item: Solar Lights (8)                      $15.33
+        ; item: Rope Lights, 24' White                $17.00
+        ; item: LED Rope Lights, 10' Vivid Red    2 @ $20.16
+        ; item: LED Rope Lights, 50' Cool White       $95.98
+        ; item: Lamp Dimmer                       2 @ $11.65
+        ; item: Clamp Lamp                             $5.99
+        ; item: Fluorescent Lamp                      $10.92
+        ; item: Kerosene Lanterns (2)                 $18.96
+        ; item: Various Lights                       $127.42
+        ; item: Clamp light, bulbs, fuses             $27.80
+    Assets:Equipment:Utilities:LNT                   $230.02
+        ; item: Trash barrel, cooler, mirror          $60.08
+        ; item: Trash barrels                         $28.43
+        ; item: Trash barrels, marker flags           $22.95
+        ; item: Paint strainers, sealant, hose        $20.58
+        ; item: Black plastic sheeting                $64.61
+        ; item: Hand Towels                           $33.37
+    Assets:Equipment:Utilities:Safety                 $19.68
+        ; item: Fire Extinguisher                     $19.68
+    Equity:Opening Balances
+
+2013-10-01 * Inventory
+    Assets:Equipment:Kitchen:Storage                 $237.02
+        ; item: 5-Shelf Storage Unit (4)             $213.49
+        ; item: Plastic Bins                          $23.53
+    Assets:Equipment:Kitchen:Cooling                 $100.00
+        ; item: Chest Freezer                        $100.00
+    Assets:Equipment:Kitchen:Tables                  $366.24
+        ; item: Folding Table & Bench Set        2 @ $183.12
+    Assets:Equipment:Kitchen:Cooking                 $623.19
+        ; item: Propane camping stove                 $45.00
+        ; item: Propane camping stove                 $75.35 (broken?)
+        ; item: Cooking Equipment                    $256.39
+        ; item: Ice cream maker, 1 Qt                 $35.00
+        ; item: Splatter screen                       $16.41
+        ; item: Large pot, lid, stirring paddle       $69.95
+        ; item: Ninja blender                         $99.00
+        ; item: Large pot                             $10.00
+        ; item: Spoons/spatula                        $16.09
+    Equity:Opening Balances
+
+2013-10-01 * Inventory
+    Assets:Equipment:Power:Batteries                 $459.29
+        ; item: AGM Deep-cycle Battery               $100.00
+        ; item: AGM Deep-cycle Battery           2 @ $125.00
+        ; item: Battery box                      3 @  $36.43
+    Assets:Equipment:Power:Converters                $135.00
+        ; item: Battery Charger                       $85.00
+        ; item: Power Inverter                        $50.00
+    Assets:Equipment:Power:Distribution              $436.83
+        ; item: Various power cords/accessories      $201.32
+        ; item: YellowJacket 100' 15-amp Power Cord  $177.45
+        ; item: Extension Cords and Surge Protectors  $58.06
+    Assets:Equipment:Power:Tools                      $81.40
+        ; item: Kill-A-Watt                           $28.97
+        ; item: Gas Can, 5 gallon                 2 @ $10.07
+        ; item: Gas Can, 5 gallon                     $10.06
+        ; item: Gas Can, 2 gallon                 3 @  $7.41
+    Equity:Opening Balances
+
+2013-10-01 * Inventory
+    Assets:Equipment:Media:Projection                $533.79
+        ; item: Old Projector                        $141.50
+        ; item: IKEA Curtains                         $27.36
+        ; item: ViewSonic PJD5123 SVGA Projector     $354.71
+        ; item: 15' SVGA Cable with 3.5mm Audio       $10.22
+    Assets:Equipment:Media:Audio                     $182.06
+        ; item: Microphone                            $30.00
+        ; item: Numark C1 Rack Mixer                  $97.05
+        ; item: Handheld Microphone + Cord            $14.22
+        ; item: 50' 1/4" Mono Speaker Cable      2 @  $15.01
+        ; item: 3.5mm-to-RCA Y-cable                   $3.25
+        ; item: Adapters for A/V                       $7.52
+    Assets:Equipment:Media:Speakers                  $616.92
+        ; item: Behringer 550W PA Speaker        2 @ $308.46
+    Equity:Opening Balances
+
+2013-10-01 * Inventory
+    Assets:Equipment:Public Space:Sign               $447.69
+        ; item: Peggy board and LEDs                 $248.00
+        ; item: Sign letters and hardware            $199.69
+    Assets:Equipment:Public Space:Communications     $128.34
+        ; item: Blackboards, chalk                   $128.34
+    Assets:Equipment:Public Space:Seating            $317.46
+        ; item: Blackjack Plywood Seating             $27.75
+        ; item: Wood Bleachers                       $167.54
+        ; item: Bleacher cushions                     $54.45
+        ; item: Soft Stuff                            $25.82
+        ; item: Carpet                                $21.90
+        ; item: Carpet                                $20.00
+    Assets:Equipment:Public Space:Fire               $204.39
+        ; item: Propane Fire Pit                      $90.00
+        ; item: Propane Tank, 15 lb                   $48.09
+        ; item: 12' Propane Hose                      $34.00
+        ; item: Propane Adapter Hose                  $32.30
+    Equity:Opening Balances
+
+2013-10-01 * Inventory
+    Assets:Equipment:Wonderdome                    $1,449.36
     Equity:Opening Balances
 
 
