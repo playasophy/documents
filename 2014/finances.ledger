@@ -275,8 +275,8 @@ account Members:Zack Fleischman
     ; Dues payment and donation.
     Assets:Bank:Paypal                               $193.90
     Expenses:Fees                                      $6.10
-    Income:Camp Funding                             $-100.00
     Members:David Brotman                           $-100.00
+    Income:Camp Funding                             $-100.00
 
 2014-06-28 * Sabina Cao
     ; Dues payment.
@@ -516,6 +516,11 @@ account Members:Zack Fleischman
     Expenses:Kitchen:Camp Meals                       $42.30
         ; budget: camp-meals
     Members:Matthew Leung
+
+2014-08-19 * Ian Wesley-Smith
+    ; Payment for Burning Man ticket.
+    Members:Greg Look                                $400.00
+    Members:Ian Wesley-Smith
 
 2014-08-20 * Enterprise Truck Rental
     ; period: 2014-08-20T10:42:00-08:00 - 2014-09-03T14:46:00-08:00
@@ -762,6 +767,12 @@ account Members:Zack Fleischman
         ; item: ~255 gallons of water
         ; Only charged for 200 gal for some reason.
     Members:Greg Look                                $-80.00
+
+2014-08-25 * Becca Kemper
+    ; Dues payment and donation.
+    Assets:Bank:Paypal                               $150.00
+    Members:Becca Kemper                            $-100.00
+    Income:Camp Funding                              $-50.00
 
 2014-08-25 * Arctica
     Expenses:Supplies:Ice                             $15.00
