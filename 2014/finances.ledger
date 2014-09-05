@@ -58,6 +58,7 @@ account Members:Greg Look
 account Members:Kevin Litwack
 account Members:Becca Kemper
 account Members:Ben Larrimer
+account Members:Caito Foster
 account Members:Chris Kleinknecht
 account Members:David Brotman
 account Members:David Everling
@@ -340,7 +341,7 @@ account Members:Zack Fleischman
     Members:Riley Andrews
 
 2014-07-23 * Amazon.com
-    Expenses:Supplies                                 $34.04
+    Expenses:Kitchen:Supplies                         $34.04
         ; item: Glad ForceFlex Extra Strong 33 Gallon Trash Bags (70 ct)
         ; budget: kitchen-equipment
     Assets:Equipment:Structures                        $9.83
@@ -359,10 +360,13 @@ account Members:Zack Fleischman
     Members:Jeff Yost
 
 2014-07-29 * Hookah Company
-    Expenses:Supplies                                $165.91
-        ; item: Shisha, coals, extra hookah
+    Expenses:Lounge:Hookah Supplies                  $122.92
+        ; item: shisha, coals
         ; budget: hookah-lounge
-    Members:Sabina Cao
+    Assets:Equipment:Hookahs                          $42.99
+        ; item: 13" Econo MYA Hookah
+        ; budget: hookah-lounge
+    Members:Sabina Cao                              $-165.91
 
 2014-08-01 * Public Storage
     ; period: 2014-08-01 - 2014-08-31
@@ -381,6 +385,7 @@ account Members:Zack Fleischman
     Income:Camp Dues                                $-200.00
 
 2014-08-01 * Burning Man
+    ; Purchase tickets for camp mates.
     Members:Ian Wesley-Smith                         $400.00
     Members:Maria Dumanis                            $400.00
     Members:Greg Look                               $-800.00
@@ -451,7 +456,7 @@ account Members:Zack Fleischman
     Members:Greg Look
 
 2014-08-13 * Jo-Ann Fabrics
-    Assets:Equipment:Public Space                    $180.00
+    Assets:Equipment:Hookah Lounge                   $180.00
         ; budget: public-space
         ; More draping fabrics.
     Members:Sabina Cao                               $-60.00
@@ -465,7 +470,7 @@ account Members:Zack Fleischman
 2014-08-15 * Playasophy Camp
     ; Charge camp dues to members.
     Members:Michelle Loprieno                        $100.00
-    Members:Caito                                    $100.00
+    Members:Caito Foster                             $100.00
     Income:Camp Dues                                $-200.00
 
 2014-08-16 * Amazon.com
@@ -473,8 +478,9 @@ account Members:Zack Fleischman
         ; budget: kitchen-equipment
         ; item: Rice cooker
         ; item: cast-iron griddle
-    Expenses:Shipping                                 $15.40
+    Expenses:Fees                                     $15.40
         ; budget: kitchen-equipment
+        ; Shipping and handling
     Members:Greg Look                                $-73.34
 
 2014-08-16 * Michelle Loprieno
@@ -484,52 +490,60 @@ account Members:Zack Fleischman
 
 2014-08-20 * Enterprise Truck Rental
     ; period: 2014-08-20T10:42:00-08:00 - 2014-09-03T14:46:00-08:00
-    ; budget: transportation
     ; Cargo van rental.
-    Expenses:Rentals:Vehicle                         $659.99
+    Expenses:Transportation:Vehicle Rentals          $659.99
+        ; budget: transportation
         ; item: Time & Distance - 2 week @ $300.00
         ; item: Time & Distance - 1 days @  $59.99
-    Expenses:Rentals:Insurance                       $329.85
+    Expenses:Insurance:Damage                        $329.85
+        ; budget: transportation
         ; item: Damage Waiver - 15 days @ $21.99
-    Expenses:Rentals:Insurance                       $283.50
+    Expenses:Insurance:Liability                     $283.50
+        ; budget: transportation
         ; item: Standard Liability Protection - 15 days @ $18.90
     Expenses:Fees                                      $6.90
+        ; budget: transportation
         ; item: Vehicle License Cost Recovery Fee - 15 days @ $0.46
     Expenses:Tax:WA:Sales                             $62.70
+        ; budget: transportation
     Members:Greg Look                             $-1,342.94
 
 2014-08-20 * Hertz Equipment Rental
     ; period: 2014-08-20T11:31:00-08:00 - 2014-09-03T14:10:00-08:00
-    Expenses:Rentals:Generator                       $378.00
+    Expenses:Power:Generator Rental                  $378.00
+        ; budget: power
         ; item: Generator/Silent/3-3.9KW/gas (Honda EU3000IH) - 2 week @ $189.00
-    Expenses:Rentals:Insurance                        $56.70
+    Expenses:Insurance:Damage                         $56.70
+        ; budget: power
         ; item: Loss and Damage Waiver - 15% of rental charges
     Expenses:Fees                                      $1.02
+        ; budget: power
         ; item: Emissions & Env Surcharge
     Expenses:Tax:WA:Sales                             $41.40
+        ; budget: power
     Members:Greg Look                               $-477.12
 
 2014-08-20 * Costco
     ; at: Federal Way, WA
     ; time: 15:17
-    ; budget: transportation
     Expenses:Transportation:Fuel                      25.034 gal_gasoline @ $3.659
+        ; budget: transportation
         ; Fuel for cargo van.
     Members:Greg Look                                $-91.60
 
 2014-08-20 * Space Age 18
     ; at: Bend, OR
     ; time: 21:44
-    ; budget: transportation
-    ; Fuel for cargo van.
     Expenses:Transportation:Fuel                      17.927 gal_gasoline @ $3.799
+        ; budget: transportation
+        ; Fuel for cargo van.
     Members:Greg Look                                $-68.10
 
 2014-08-21 * Chevron
     ; at: Lakeview, ???
     ; time: 12:36:32
-    ; budget: transportation
     Expenses:Transportation:Fuel                      10.836 gal_gasoline @ $3.939
+        ; budget: transportation
         ; Fuel for cargo van.
     Members:Greg Look                                $-42.68
 
@@ -537,6 +551,7 @@ account Members:Zack Fleischman
     ; time: 20:21
     ; at: 5125 Summit Ridge Court, Reno, NV 89523
     Assets:Equipment:Power                            $25.96
+        ; budget: power
         ; item: 3-tap extension cord (15')     -  2 @ $12.98
     Assets:Equipment:Structures                       $46.33
         ; item: 3/8" x 2' Rebar                - 10 @  $1.47
@@ -568,6 +583,7 @@ account Members:Zack Fleischman
     ; at: 5260 W 7th St, Reno, NV 89523
     ; time: 22:04:27
     Assets:Equipment:Kitchen                          $41.47
+        ; budget: kitchen-tools
         ; item: 8 piece Measuring Set          -       $0.88
         ; item: 4 cup Measuring Cup            -       $0.97
         ; item: Chef's Knife with Sheath       -       $4.88
@@ -578,10 +594,12 @@ account Members:Zack Fleischman
         ; item: Oven Mitt Pot Holder Set       -       $3.96
         ; item: First Aid Kit                  -       $9.97
     Expenses:Kitchen:Supplies                         $13.14
+        ; budget: kitchen-tools
         ; item: WM Paper Bags                  -       $5.68
         ; item: 30-gallon Trash Bags           -       $1.68
         ; item: Solarcaine                     -       $5.78
     Expenses:Kitchen:Camp Meals                        $2.50
+        ; budget: kitchen-food
         ; item: Beef Ravioli (40 oz)           -       $2.50
     Expenses:Unknown                                   $2.96
         ; item: SB 84SIDEKICK                  -       $2.96
@@ -600,6 +618,7 @@ account Members:Zack Fleischman
     ; at: Reno, NV
     ; time: 13:47
     Assets:Equipment:Water                            $17.95
+        ; budget: water
         ; item: Reliance Aquatainer (7 gallon)
     Expenses:Tax:NV:Sales                              $1.39
     Members:Greg Look                                $-19.34
@@ -608,6 +627,7 @@ account Members:Zack Fleischman
     ; at: 2200 Harvard Way, Reno, NV 89502
     ; time: 15:32
     Expenses:Kitchen:Camp Meals                      $160.25
+        ; budget: kitchen-food
         ; item: Pancake Mix                    -       $5.65
         ; item: Applewood Bacon                -  2 @ $17.99
         ; item: Flour Tortillas (10")          -  2 @  $2.99
@@ -624,14 +644,18 @@ account Members:Zack Fleischman
         ; item: Pace Salsa                     -       $4.99
         ; item: Sour Cream                     -       $4.39
     Expenses:Kitchen:Supplies                         $14.99
+        ; budget: kitchen-tools
         ; item: KS Paper Towels                -      $14.99
     Expenses:Lounge:Coffee                            $95.88
+        ; budget: lounge-coffee
         ; item: Coffeemate Creamer             -  4 @  $5.99
         ; item: Folgers Instant Coffee         -  8 @  $8.99
     Expenses:Bar Supplies:Mixers                      $13.98
+        ; budget: bar
         ; item: Coke 32/12 oz                  -       $9.99 - $2.00
         ; item: KS Cranberry Juice             -       $5.99
     Expenses:Bar Supplies:Alcohol                     $87.34
+        ; budget: bar
         ; item: KS Golden Margarita Mix        -  2 @  $9.99
         ; item: Kahlua 1.75 L                  -      $24.89
         ; item: Cooks Champagne (2 pack)       -      $13.49
@@ -666,6 +690,7 @@ account Members:Zack Fleischman
     ; at: Reno, NV
     ; time: 19:29
     Expenses:Transportation:Fuel                      16.637 gal_gasoline @ $3.939
+        ; budget: transportation
         ; Fuel for cargo van.
     Members:Greg Look                                $-65.53
 
@@ -673,6 +698,7 @@ account Members:Zack Fleischman
     ; at: Reno, NV
     ; time: 19:32:17
     Expenses:Supplies:Ice                              $9.56
+        ; budget: kitchen-food
         ; To keep perishables cold on the way to BRC.
     Members:Sabina Cao
 
@@ -681,6 +707,7 @@ account Members:Zack Fleischman
     ; time: 21:47:53
     ; budget: camp-food
     Expenses:Kitchen:Camp Meals                       $79.23
+        ; budget: kitchen-food
         ; TODO: itemize
     Assets:Bank:BECU Checking
 
@@ -688,15 +715,16 @@ account Members:Zack Fleischman
     ; at: 55 East Nugget Ave, Sparks, NV 89431
     ; period: 2014-08-22 - 2014-08-23
     ; Extra night's lodging for early-arrival crew.
-    Members:Chris Kleinknecht                    $29.32
-    Members:Greg Look                            $58.63
-    Members:Ian Wesley-Smith                     $29.32
-    Members:Sameer Chopra                        $29.32
-    Members:Zack Fleischman                      $29.32
-    Members:Greg Look                          $-175.91
+    Members:Chris Kleinknecht                         $29.32
+    Members:Greg Look                                 $58.63
+    Members:Ian Wesley-Smith                          $29.32
+    Members:Sameer Chopra                             $29.32
+    Members:Zack Fleischman                           $29.32
+    Members:Greg Look                               $-175.91
 
 2014-08-23 * Gerlach Water Department
     Expenses:Supplies:Water                           $80.00
+        ; budget: water
         ; item: ~255 gallons of water
         ; Only charged for 200 gal for some reason.
     Members:Greg Look                                $-80.00
@@ -715,6 +743,7 @@ account Members:Zack Fleischman
     ; at: 2750 South Main Street, Susanville, CA 96130
     ; time: 11:51:28
     Expenses:Transportation:Fuel                      12.898 gal_gasoline @ $4.159
+        ; budget: transportation
         ; Fuel for cargo van.
     Members:Greg Look                                $-53.64
 
@@ -722,6 +751,7 @@ account Members:Zack Fleischman
     ; at: 6451 South 6th Street, Klamath Falls, OR 97603
     ; time: 16:20
     Expenses:Kitchen:Supplies                         $19.97
+        ; budget: kitchen-food
         ; Propane tank exchange.
     Members:Greg Look
 
@@ -729,17 +759,20 @@ account Members:Zack Fleischman
     ; at: 5400 South 6th Street, Klamath Falls, OR
     ; time: 16:36
     Expenses:Transportation:Fuel                      12.328 gal_gasoline @ $3.759
+        ; budget: transportation
         ; Fuel for cargo van.
     Members:Greg Look                                $-46.34
 
 2014-09-03 * Shell
     ; at: Lander Street, Seattle, WA
-    ; Refilling cargo van before returning it.
     Expenses:Transportation:Fuel                      10.018 gal_gasoline @ $4.069
+        ; budget: transportation
+        ; Refilling cargo van before returning it.
     Members:Greg Look                                $-40.76
 
 2014-09-03 * Elephant Car Wash
     ; Cleaned playa dust out of cargo van.
     Expenses:Transportation:Cleaning                  $19.99
+        ; budget: transportation
     Expenses:Tax:WA:Sales                              $1.90
     Members:Greg Look                                $-21.89
