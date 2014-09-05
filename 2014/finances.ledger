@@ -491,6 +491,7 @@ account Members:Unknown
     ; Dues payment and donation.
     Assets:Bank:PayPal                               $193.90
     Expenses:Fees                                      $6.10
+        ; budget: fees
     Members:David Brotman                           $-100.00
     Income:Camp Funding                             $-100.00
 
@@ -599,10 +600,10 @@ account Members:Unknown
 
 2014-07-29 * Hookah Company
     Assets:Equipment:Lounge:Hookahs                   $42.99
-        ; budget: lounge-hookah
+        ; budget: hookah-lounge
         ; item: 13" Econo MYA Hookah
     Expenses:Lounge:Hookah Supplies                  $122.92
-        ; budget: lounge-hookah
+        ; budget: hookah-lounge
         ; item: shisha, coals
     Members:Sabina Cao                              $-165.91
 
@@ -679,11 +680,12 @@ account Members:Unknown
     ; Dues payment
     Assets:Bank:PayPal                                $96.80
     Expenses:Fees                                      $3.20
+        ; budget: fees
     Members:Vincent Huang                           $-100.00
 
 2014-08-11 * Amazon.com
     Assets:Equipment:Lounge:Hookahs                   $28.96
-        ; budget: lounge-hookah
+        ; budget: hookah-lounge
         ; item: Ash bucket                            $28.96
     Assets:Equipment:Power:Distribution               $57.39
         ; budget: power
@@ -700,7 +702,7 @@ account Members:Unknown
 
 2014-08-13 * Jo-Ann Fabrics
     Assets:Equipment:Lounge:Decorations              $180.00
-        ; budget: lounge-decorations
+        ; budget: public-space
         ; More draping fabrics.
     Members:Sabina Cao                               $-60.00
     Income:Donated Equipment                        $-120.00
@@ -818,13 +820,13 @@ account Members:Unknown
         ; budget: tools
         ; item: 2" Phillips-Head bits (12)     -       $9.97
     Assets:Equipment:Structures:Fasteners             $46.33
-        ; budget: structures
+        ; budget: construction
         ; item: 3/8" x 2' Rebar                - 10 @  $1.47
         ; item: 1" x 12' Ratchet Strap (4)     -      $12.97
         ; item: 1/4" x 100' Polypro Rope       -      $11.94
         ; item: 3/16" x 50' Polypro Rope       -  3 @  $2.24
     Expenses:Construction Supplies                    $37.69
-        ; budget: structures
+        ; budget: construction
         ; item: 2x4 96" Whitewood Stud         -  8 @  $2.82
         ; item: 8" Cable Tie (100)             -       $5.44
         ; item: 2.5" Gold Screw (1 lb)         -       $6.47
@@ -844,6 +846,7 @@ account Members:Unknown
     ; at: 5260 W 7th St, Reno, NV 89523
     ; time: 22:04:27
     Assets:Equipment:Utilities:Safety                  $9.97
+        ; budget: misc-equipment
         ; item: First Aid Kit                  -       $9.97
     Assets:Equipment:Kitchen:Cooking                  $31.50
         ; budget: kitchen-equipment
@@ -874,6 +877,7 @@ account Members:Unknown
     ; Cash withdrawal for water.
     Members:Greg Look                                $160.00
     Expenses:Fees                                      $5.99
+        ; budget: fees
     Assets:Bank:BECU Checking                       $-165.99
 
 2014-08-22 * REI
@@ -909,22 +913,22 @@ account Members:Unknown
         ; budget: kitchen-equipment
         ; item: KS Paper Towels                -      $14.99
     Expenses:Lounge:Coffee Ingredients                $95.88
-        ; budget: lounge-coffee
+        ; budget: coffee-house
         ; item: Coffeemate Creamer             -  4 @  $5.99
         ; item: Folgers Instant Coffee         -  8 @  $8.99
     Expenses:Bar Supplies:Mixers                      $13.98
-        ; budget: lounge-bar
+        ; budget: bar-supplies
         ; item: Coke 32/12 oz                  -       $9.99 - $2.00
         ; item: KS Cranberry Juice             -       $5.99
     Expenses:Bar Supplies:Alcohol                     $87.34
-        ; budget: lounge-bar
+        ; budget: bar-supplies
         ; item: KS Golden Margarita Mix        -  2 @  $9.99
         ; item: Kahlua 1.75 L                  -      $24.89
         ; item: Cooks Champagne (2 pack)       -      $13.49
         ; item: KS American Vodka              -      $13.99
         ; item: KS Spiced Rum                  -      $14.99
     Expenses:Power:Batteries                          $11.89
-        ; budget: sign
+        ; budget: camp-sign
         ; item: Duracell D cells (14 pack)     -      $14.89 - $3.00
     Expenses:Tax:NV:Sales                              $9.06
     Assets:Bank:BECU Checking                       $-393.39
@@ -968,16 +972,15 @@ account Members:Unknown
     ; at: Reno, NV
     ; time: 19:32:17
     Expenses:Supplies:Ice                              $9.56
-        ; budget: kitchen-food
+        ; budget: camp-meals
         ; To keep perishables cold on the way to BRC.
     Members:Sabina Cao
 
 2014-08-22 * WinCo Foods
     ; at: Reno, NV
     ; time: 21:47:53
-    ; budget: camp-food
     Expenses:Kitchen:Camp Meals                       $79.23
-        ; budget: kitchen-food
+        ; budget: camp-meals
         ; TODO: itemize
     Assets:Bank:BECU Checking
 
@@ -1007,42 +1010,42 @@ account Members:Unknown
 
 2014-08-25 * Arctica
     Expenses:Supplies:Ice                             $15.00
-        ; budget: water
+        ; budget: coffee-house
         ; item: 6x bag of ice
     Members:Unknown
         ; FIXME: Wrench or Joeun
 
 2014-08-26 * Arctica
     Expenses:Supplies:Ice                             $15.00
-        ; budget: water
+        ; budget: coffee-house
         ; item: 6x bag of ice
     Members:Greg Look
         ; Gave Ian cash to get ice.
 
 2014-08-27 * Arctica
     Expenses:Supplies:Ice                             $15.00
-        ; budget: water
+        ; budget: coffee-house
         ; item: 6x bag of ice
     Members:Unknown
         ; FIXME: Jason or Vincent
 
 2014-08-28 * Arctica
     Expenses:Supplies:Ice                             $15.00
-        ; budget: water
+        ; budget: coffee-house
         ; item: 6x bag of ice
     Members:Unknown
         ; FIXME: Jason or Ninad
 
 2014-08-29 * Arctica
     Expenses:Supplies:Ice                             $15.00
-        ; budget: water
+        ; budget: coffee-house
         ; item: 6x bag of ice
     Members:Unknown
         ; FIXME: Shri or Rong
 
 2014-08-30 * Arctica
     Expenses:Supplies:Ice                             $15.00
-        ; budget: water
+        ; budget: coffee-house
         ; item: 6x bag of ice
     Members:Unknown
         ; FIXME: Riley or Rong
@@ -1050,21 +1053,25 @@ account Members:Unknown
 2014-09-01 * Power Generation
     ; TODO: split up?
     Expenses:Power:Fuel                               11.000 gal_gasoline
+        ; budget: power
     Assets:Supplies:Fuel
 
 2014-09-01 * Transfer
     ; Use excess gasoline for cargo van.
     Expenses:Transportation:Fuel                      10.000 gal_gasoline
+        ; budget: transportation
     Assets:Supplies:Fuel                             -10.000 gal_gasoline = 0.000 gal_gasoline
 
 2014-09-01 * Public Storage
     ; period: 2014-09-01 - 2014-09-30
     Expenses:Storage:Seattle                          $77.00
+        ; budget: storage
     Members:Kevin Litwack
 
 2014-09-01 * Emigrant Storage
     ; period: 2014-09-01 - 2014-09-30
     Expenses:Storage:Reno                            $105.00
+        ; budget: storage
     Assets:Prepaid Expenses:Storage
 
 2014-09-02 * Shell
@@ -1079,7 +1086,7 @@ account Members:Unknown
     ; at: 6451 South 6th Street, Klamath Falls, OR 97603
     ; time: 16:20
     Expenses:Kitchen:Supplies                         $19.97
-        ; budget: kitchen-food
+        ; budget: kitchen-equipment
         ; Propane tank exchange.
     Members:Greg Look
 
