@@ -327,11 +327,11 @@ account Members:Zack Fleischman
     ; period: 2013-10-01 - 2013-10-31
     Expenses:Storage:Reno                            $105.00
         ; budget: storage
-    Assets:Prepaid Expenses                         $-105.00 = $0.00
+    Assets:Prepaid Expenses:Storage                 $-105.00 = $0.00
 
 2013-10-24 * Emigrant Storage
     ; Up-front payment for 12 months, plus bonus month for free.
-    Assets:Prepaid Expenses                        $1,365.00
+    Assets:Prepaid Expenses:Storage                $1,365.00
     Income:Promotional Bonus                        $-105.00
         ; budget: storage
     Members:Kevin Litwack                         $-1,260.00
@@ -346,7 +346,7 @@ account Members:Zack Fleischman
     ; period: 2013-11-01 - 2013-11-30
     Expenses:Storage:Reno                            $105.00
         ; budget: storage
-    Assets:Prepaid Expenses
+    Assets:Prepaid Expenses:Storage
 
 2013-12-01 * Public Storage
     ; period: 2013-12-01 - 2013-12-31
@@ -358,7 +358,7 @@ account Members:Zack Fleischman
     ; period: 2013-12-01 - 2013-12-31
     Expenses:Storage:Reno                            $105.00
         ; budget: storage
-    Assets:Prepaid Expenses
+    Assets:Prepaid Expenses:Storage
 
 2014-01-01 * Public Storage
     ; period: 2014-01-01 - 2014-01-31
@@ -370,7 +370,7 @@ account Members:Zack Fleischman
     ; period: 2014-01-01 - 2014-01-31
     Expenses:Storage:Reno                            $105.00
         ; budget: storage
-    Assets:Prepaid Expenses
+    Assets:Prepaid Expenses:Storage
 
 2014-02-01 * Public Storage
     ; period: 2014-02-01 - 2014-02-28
@@ -382,7 +382,7 @@ account Members:Zack Fleischman
     ; period: 2014-02-01 - 2014-02-28
     Expenses:Storage:Reno                            $105.00
         ; budget: storage
-    Assets:Prepaid Expenses
+    Assets:Prepaid Expenses:Storage
 
 2014-02-12 * Burning Man
     ; Vehicle passes for the cargo van and truck.
@@ -401,7 +401,7 @@ account Members:Zack Fleischman
     ; period: 2014-03-01 - 2014-03-31
     Expenses:Storage:Reno                            $105.00
         ; budget: storage
-    Assets:Prepaid Expenses
+    Assets:Prepaid Expenses:Storage
 
 2014-04-01 * Public Storage
     ; period: 2014-04-01 - 2014-04-30
@@ -413,7 +413,7 @@ account Members:Zack Fleischman
     ; period: 2014-04-01 - 2014-04-30
     Expenses:Storage:Reno                            $105.00
         ; budget: storage
-    Assets:Prepaid Expenses
+    Assets:Prepaid Expenses:Storage
 
 2014-05-01 * Public Storage
     ; period: 2014-05-01 - 2014-05-31
@@ -425,7 +425,7 @@ account Members:Zack Fleischman
     ; period: 2014-05-01 - 2014-05-31
     Expenses:Storage:Reno                            $105.00
         ; budget: storage
-    Assets:Prepaid Expenses
+    Assets:Prepaid Expenses:Storage
 
 2014-05-13 * hardkernel.com
     Assets:Equipment:Wonderdome                       $75.75
@@ -446,7 +446,7 @@ account Members:Zack Fleischman
     ; period: 2014-06-01 - 2014-06-30
     Expenses:Storage:Reno                            $105.00
         ; budget: storage
-    Assets:Prepaid Expenses
+    Assets:Prepaid Expenses:Storage
 
 2014-06-23 * Playasophy Camp
     ; Charge camp dues to members.
@@ -503,7 +503,7 @@ account Members:Zack Fleischman
     ; period: 2014-07-01 - 2014-07-31
     Expenses:Storage:Reno                            $105.00
         ; budget: storage
-    Assets:Prepaid Expenses
+    Assets:Prepaid Expenses:Storage
 
 2014-07-02 * Ninad Sathe
     ; Dues payment.
@@ -610,7 +610,7 @@ account Members:Zack Fleischman
     ; period: 2014-08-01 - 2014-08-31
     Expenses:Storage:Reno                            $105.00
         ; budget: storage
-    Assets:Prepaid Expenses
+    Assets:Prepaid Expenses:Storage
 
 2014-08-01 * Playasophy Camp
     ; Charge camp dues to members.
@@ -1034,7 +1034,7 @@ account Members:Zack Fleischman
 2014-09-01 * Emigrant Storage
     ; period: 2014-09-01 - 2014-09-30
     Expenses:Storage:Reno                            $105.00
-    Assets:Prepaid Expenses
+    Assets:Prepaid Expenses:Storage
 
 2014-09-02 * Shell
     ; at: 2750 South Main Street, Susanville, CA 96130
