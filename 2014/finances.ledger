@@ -9,7 +9,7 @@ account Equity:Opening Balances
 
 ; Bank Accounts
 
-account Assets:Bank:Paypal
+account Assets:Bank:PayPal
     assert commodity == "$"
 
 account Assets:Bank:BECU Checking
@@ -41,6 +41,7 @@ account Assets:Equipment:Power:Tools
 account Assets:Equipment:Public:Camp Sign
 account Assets:Equipment:Public:Communications
 account Assets:Equipment:Public:Fire
+account Assets:Equipment:Public:Seating
 
 account Assets:Equipment:Structures:Carport
 account Assets:Equipment:Structures:Domes
@@ -112,7 +113,10 @@ account Expenses:Tax:WA:Sales
 
 account Expenses:Transportation:Cleaning
 account Expenses:Transportation:Fuel
+account Expenses:Transportation:Permits
 account Expenses:Transportation:Vehicle Rentals
+
+account Expenses:Unknown
 
 
 ; Members
@@ -145,6 +149,8 @@ account Members:Sameer Chopra
 account Members:Shri Shamasunder
 account Members:Vincent Huang
 account Members:Zack Fleischman
+
+account Members:Unknown
 
 
 
@@ -273,7 +279,7 @@ account Members:Zack Fleischman
     Equity:Opening Balances
 
 2013-10-01 * Inventory
-    Assets:Equipment:Media:Projection                $533.79
+    Assets:Equipment:Media:Video                     $533.79
         ; item: Old Projector                        $141.50
         ; item: IKEA Curtains                         $27.36
         ; item: ViewSonic PJD5123 SVGA Projector     $354.71
@@ -285,24 +291,24 @@ account Members:Zack Fleischman
         ; item: 50' 1/4" Mono Speaker Cable      2 @  $15.01
         ; item: 3.5mm-to-RCA Y-cable                   $3.25
         ; item: Adapters for A/V                       $7.52
-    Assets:Equipment:Media:Speakers                  $616.92
+    Assets:Equipment:Media:Audio                     $616.92
         ; item: Behringer 550W PA Speaker        2 @ $308.46
     Equity:Opening Balances
 
 2013-10-01 * Inventory
-    Assets:Equipment:Public Space:Sign               $447.69
+    Assets:Equipment:Public:Camp Sign                $447.69
         ; item: Peggy board and LEDs                 $248.00
         ; item: Sign letters and hardware            $199.69
-    Assets:Equipment:Public Space:Communications     $128.34
+    Assets:Equipment:Public:Communications           $128.34
         ; item: Blackboards, chalk                   $128.34
-    Assets:Equipment:Public Space:Seating            $317.46
+    Assets:Equipment:Public:Seating                  $317.46
         ; item: Blackjack Plywood Seating             $27.75
         ; item: Wood Bleachers                       $167.54
         ; item: Bleacher cushions                     $54.45
         ; item: Soft Stuff                            $25.82
         ; item: Carpet                                $21.90
         ; item: Carpet                                $20.00
-    Assets:Equipment:Public Space:Fire               $204.39
+    Assets:Equipment:Public:Fire                     $204.39
         ; item: Propane Fire Pit                      $90.00
         ; item: Propane Tank, 15 lb                   $48.09
         ; item: 12' Propane Hose                      $34.00
@@ -386,7 +392,7 @@ account Members:Zack Fleischman
 
 2014-02-12 * Burning Man
     ; Vehicle passes for the cargo van and truck.
-    Expenses:Transportation                           $80.00
+    Expenses:Transportation:Permits                   $80.00
         ; budget: transportation
     Members:Greg Look                                $-40.00
     Members:Zack Fleischman                          $-40.00
@@ -478,19 +484,19 @@ account Members:Zack Fleischman
 
 2014-06-24 * Em Ascano
     ; Dues payment.
-    Assets:Bank:Paypal                               $100.00
+    Assets:Bank:PayPal                               $100.00
     Members:Em Ascano
 
 2014-06-24 * David Brotman
     ; Dues payment and donation.
-    Assets:Bank:Paypal                               $193.90
+    Assets:Bank:PayPal                               $193.90
     Expenses:Fees                                      $6.10
     Members:David Brotman                           $-100.00
     Income:Camp Funding                             $-100.00
 
 2014-06-28 * Sabina Cao
     ; Dues payment.
-    Assets:Bank:Paypal                               $100.00
+    Assets:Bank:PayPal                               $100.00
     Members:Sabina Cao
 
 2014-07-01 * Public Storage
@@ -507,7 +513,7 @@ account Members:Zack Fleischman
 
 2014-07-02 * Ninad Sathe
     ; Dues payment.
-    Assets:Bank:Paypal                               $100.00
+    Assets:Bank:PayPal                               $100.00
     Members:Ninad Sathe
 
 2014-07-09 * Chris Kleinknecht
@@ -529,22 +535,22 @@ account Members:Zack Fleischman
 
 2014-07-14 * Ian Wesley-Smith
     ; Dues payment
-    Assets:Bank:Paypal                               $100.00
+    Assets:Bank:PayPal                               $100.00
     Members:Ian Wesley-Smith
 
 2014-07-14 * Logan White Stack
     ; Dues payment
-    Assets:Bank:Paypal                               $100.00
+    Assets:Bank:PayPal                               $100.00
     Members:Logan White Stack
 
 2014-07-15 * Ruben Valas
     ; Dues payment
-    Assets:Bank:Paypal                               $100.00
+    Assets:Bank:PayPal                               $100.00
     Members:Ruben Valas
 
 2014-07-15 * Transfer
     Assets:Bank:BECU Checking                        $500.00
-    Assets:Bank:Paypal
+    Assets:Bank:PayPal
 
 2014-07-15 * Playasophy Camp
     ; Charge camp dues to members.
@@ -554,17 +560,17 @@ account Members:Zack Fleischman
 
 2014-07-15 * Rong Hu
     ; Dues payment
-    Assets:Bank:Paypal                               $100.00
+    Assets:Bank:PayPal                               $100.00
     Members:Rong Hu
 
 2014-07-18 * Jamie Turley
     ; Dues payment
-    Assets:Bank:Paypal                               $100.00
+    Assets:Bank:PayPal                               $100.00
     Members:Jamie Turley
 
 2014-07-22 * Ming Guo
     ; Dues payment
-    Assets:Bank:Paypal                               $100.00
+    Assets:Bank:PayPal                               $100.00
     Members:Ming Guo
 
 2014-07-23 * Riley Andrews
@@ -576,28 +582,28 @@ account Members:Zack Fleischman
     Expenses:Kitchen:Supplies                         $34.04
         ; budget: kitchen-equipment
         ; item: Glad ForceFlex Extra Strong 33 Gallon Trash Bags (70 ct)
-    Assets:Equipment:Structures                        $9.83
+    Assets:Equipment:Structures:Fasteners              $9.83
         ; budget: shade
         ; item: King Canopy Ball Bungees 9" (50 ct)
     Members:Greg Look                                $-43.87
 
 2014-07-24 * Sameer Chopra
     ; Dues payment
-    Assets:Bank:Paypal                               $100.00
+    Assets:Bank:PayPal                               $100.00
     Members:Sameer Chopra
 
 2014-07-24 * Jeff Yost
     ; Dues payment
-    Assets:Bank:Paypal                               $100.00
+    Assets:Bank:PayPal                               $100.00
     Members:Jeff Yost
 
 2014-07-29 * Hookah Company
+    Assets:Equipment:Lounge:Hookahs                   $42.99
+        ; budget: lounge-hookah
+        ; item: 13" Econo MYA Hookah
     Expenses:Lounge:Hookah Supplies                  $122.92
         ; budget: lounge-hookah
         ; item: shisha, coals
-    Assets:Equipment:Hookahs                          $42.99
-        ; budget: lounge-hookah
-        ; item: 13" Econo MYA Hookah
     Members:Sabina Cao                              $-165.91
 
 2014-08-01 * Public Storage
@@ -625,13 +631,13 @@ account Members:Zack Fleischman
     Members:Greg Look                               $-800.00
 
 2014-08-02 * Jo-Ann Fabrics
-    Assets:Equipment:Lounge Decorations               $68.33
+    Assets:Equipment:Lounge:Decorations               $68.33
         ; budget: public-space
     Members:Sabina Cao
 
 2014-08-03 * Shri Shamasunder
     ; Dues payment
-    Assets:Bank:Paypal                               $100.00
+    Assets:Bank:PayPal                               $100.00
     Members:Shri Shamasunder
 
 2014-08-04 * Amazon.com
@@ -639,14 +645,14 @@ account Members:Zack Fleischman
         ; budget: wonderdome
         ; item: Dayton Audio iMM-6 microphone
         ; item: 10x 4-pin LED strip connector
-    Assets:Equipment:Tools                            $24.52
+    Assets:Equipment:Structures:Fasteners             $24.52
         ; budget: shade
         ; item: Travel Smart Luggage Strap
     Members:Greg Look                                $-49.07
 
 2014-08-04 * Ben Larrimer
     ; Dues payment
-    Assets:Bank:Paypal                               $100.00
+    Assets:Bank:PayPal                               $100.00
     Members:Ben Larrimer
 
 2014-08-06 * Zipcar
@@ -662,7 +668,7 @@ account Members:Zack Fleischman
 
 2014-08-07 * Jason Huang
     ; Dues payment
-    Assets:Bank:Paypal                               $100.00
+    Assets:Bank:PayPal                               $100.00
     Members:Jason Huang
 
 2014-08-08 * BECU
@@ -671,27 +677,30 @@ account Members:Zack Fleischman
 
 2014-08-09 * Vincent Huang
     ; Dues payment
-    Assets:Bank:Paypal                                $96.80
+    Assets:Bank:PayPal                                $96.80
     Expenses:Fees                                      $3.20
     Members:Vincent Huang                           $-100.00
 
 2014-08-11 * Amazon.com
-    Assets:Equipment:Tools                            $94.56
-        ; budget: tools
-        ; item: Ash bucket
-        ; item: 50' YellowJacket extension cord
-        ; item: YellowJacket 5-outlet tap
-    Members:Greg Look
+    Assets:Equipment:Lounge:Hookahs                   $28.96
+        ; budget: lounge-hookah
+        ; item: Ash bucket                            $28.96
+    Assets:Equipment:Power:Distribution               $57.39
+        ; budget: power
+        ; item: 50' YellowJacket extension cord       $43.02
+        ; item: YellowJacket 5-outlet tap             $14.37
+    Expenses:Tax:WA:Sales                              $8.21
+    Members:Greg Look                                $-94.56
 
 2014-08-13 * Amazon.com
-    Assets:Equipment:Lighting                         $34.09
+    Assets:Equipment:Utilities:Lighting               $34.09
         ; budget: lighting
         ; item: 8x Moonrays Solar-Powered LED Path Light
     Members:Greg Look
 
 2014-08-13 * Jo-Ann Fabrics
-    Assets:Equipment:Lounge Decorations              $180.00
-        ; budget: public-space
+    Assets:Equipment:Lounge:Decorations              $180.00
+        ; budget: lounge-decorations
         ; More draping fabrics.
     Members:Sabina Cao                               $-60.00
     Income:Donated Equipment                        $-120.00
@@ -699,7 +708,7 @@ account Members:Zack Fleischman
 
 2014-08-14 * Transfer
     Assets:Bank:BECU Checking                        $500.00
-    Assets:Bank:Paypal
+    Assets:Bank:PayPal
 
 2014-08-15 * Playasophy Camp
     ; Charge camp dues to members.
@@ -719,7 +728,7 @@ account Members:Zack Fleischman
 
 2014-08-16 * Michelle Loprieno
     ; Dues payment
-    Assets:Bank:Paypal                               $100.00
+    Assets:Bank:PayPal                               $100.00
     Members:Michelle Loprieno
 
 2014-08-17 * Matthew Leung
@@ -794,17 +803,21 @@ account Members:Zack Fleischman
 2014-08-21 * The Home Depot
     ; time: 20:21
     ; at: 5125 Summit Ridge Court, Reno, NV 89523
-    Assets:Equipment:Power                            $25.96
+    Assets:Equipment:Power:Distribution               $25.96
         ; budget: power
         ; item: 3-tap extension cord (15')     -  2 @ $12.98
-    Assets:Equipment:Tools                            $45.07
+    Assets:Equipment:Tools:Earthworking               $15.97
         ; budget: tools
         ; item: Mini Pick and Trowel           -      $15.97
+    Assets:Equipment:Tools:Hand Tools                 $19.13
+        ; budget: tools
         ; item: Black Rubber Mallet, 16 oz     -       $4.97
         ; item: High Dex Work Gloves (3)       -       $9.88
-        ; item: 2" Phillips-Head bits (12)     -       $9.97
         ; item: 5 gallon Green Bucket          -       $4.28
-    Assets:Equipment:Structures                       $46.33
+    Assets:Equipment:Tools:Power Tools                 $9.97
+        ; budget: tools
+        ; item: 2" Phillips-Head bits (12)     -       $9.97
+    Assets:Equipment:Structures:Fasteners             $46.33
         ; budget: structures
         ; item: 3/8" x 2' Rebar                - 10 @  $1.47
         ; item: 1" x 12' Ratchet Strap (4)     -      $12.97
@@ -866,7 +879,7 @@ account Members:Zack Fleischman
 2014-08-22 * REI
     ; at: Reno, NV
     ; time: 13:47
-    Assets:Equipment:Water                            $17.95
+    Assets:Equipment:Utilities:Water                  $17.95
         ; budget: water
         ; item: Reliance Aquatainer (7 gallon)
     Expenses:Tax:NV:Sales                              $1.39
@@ -988,7 +1001,7 @@ account Members:Zack Fleischman
 
 2014-08-25 * Becca Kemper
     ; Dues payment and donation.
-    Assets:Bank:Paypal                               $150.00
+    Assets:Bank:PayPal                               $150.00
     Members:Becca Kemper                            $-100.00
     Income:Camp Funding                              $-50.00
 
