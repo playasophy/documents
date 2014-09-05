@@ -23,11 +23,12 @@ account Assets:Bank:Coinbase
 account Assets:Equipment:Structures
 account Assets:Equipment:Tools
 account Assets:Equipment:Utilities
+account Assets:Equipment:Hookahs
 account Assets:Equipment:Kitchen
 account Assets:Equipment:Power
 account Assets:Equipment:Lighting
+account Assets:Equipment:Lounge Decorations
 account Assets:Equipment:Audio Visual
-account Assets:Equipment:Public Space
 account Assets:Equipment:Wonderdome
 account Assets:Equipment:Misc
 
@@ -44,7 +45,6 @@ account Income:Interest
 
 account Expenses:Equipment Rental
 account Expenses:Fees
-account Expenses:Shipping
 account Expenses:Storage:Reno
 account Expenses:Storage:Seattle
 account Expenses:Supplies
@@ -110,112 +110,132 @@ account Members:Zack Fleischman
 2013-10-01 * Public Storage
     ; period: 2013-10-01 - 2013-10-31
     Expenses:Storage:Seattle                          $65.00
+        ; budget: storage
     Members:Kevin Litwack
 
 2013-10-01 * Emigrant Storage
     ; period: 2013-10-01 - 2013-10-31
     Expenses:Storage:Reno                            $105.00
+        ; budget: storage
     Assets:Prepaid Expenses                         $-105.00 = $0.00
 
 2013-10-24 * Emigrant Storage
     ; Up-front payment for 12 months, plus bonus month for free.
     Assets:Prepaid Expenses                        $1,365.00
     Income:Promotional Bonus                        $-105.00
+        ; budget: storage
     Members:Kevin Litwack                         $-1,260.00
 
 2013-11-01 * Public Storage
     ; period: 2013-11-01 - 2013-11-30
     Expenses:Storage:Seattle                          $65.00
+        ; budget: storage
     Members:Kevin Litwack
 
 2013-11-01 * Emigrant Storage
     ; period: 2013-11-01 - 2013-11-30
     Expenses:Storage:Reno                            $105.00
+        ; budget: storage
     Assets:Prepaid Expenses
 
 2013-12-01 * Public Storage
     ; period: 2013-12-01 - 2013-12-31
     Expenses:Storage:Seattle                          $65.00
+        ; budget: storage
     Members:Kevin Litwack
 
 2013-12-01 * Emigrant Storage
     ; period: 2013-12-01 - 2013-12-31
     Expenses:Storage:Reno                            $105.00
+        ; budget: storage
     Assets:Prepaid Expenses
 
 2014-01-01 * Public Storage
     ; period: 2014-01-01 - 2014-01-31
     Expenses:Storage:Seattle                          $65.00
+        ; budget: storage
     Members:Kevin Litwack
 
 2014-01-01 * Emigrant Storage
     ; period: 2014-01-01 - 2014-01-31
     Expenses:Storage:Reno                            $105.00
+        ; budget: storage
     Assets:Prepaid Expenses
 
 2014-02-01 * Public Storage
     ; period: 2014-02-01 - 2014-02-28
     Expenses:Storage:Seattle                          $65.00
+        ; budget: storage
     Members:Kevin Litwack
 
 2014-02-01 * Emigrant Storage
     ; period: 2014-02-01 - 2014-02-28
     Expenses:Storage:Reno                            $105.00
+        ; budget: storage
     Assets:Prepaid Expenses
 
 2014-02-12 * Burning Man
     ; Vehicle passes for the cargo van and truck.
     Expenses:Transportation                           $80.00
+        ; budget: transportation
     Members:Greg Look                                $-40.00
     Members:Zack Fleischman                          $-40.00
 
 2014-03-01 * Public Storage
     ; period: 2014-03-01 - 2014-03-31
     Expenses:Storage:Seattle                          $65.00
+        ; budget: storage
     Members:Kevin Litwack
 
 2014-03-01 * Emigrant Storage
     ; period: 2014-03-01 - 2014-03-31
     Expenses:Storage:Reno                            $105.00
+        ; budget: storage
     Assets:Prepaid Expenses
 
 2014-04-01 * Public Storage
     ; period: 2014-04-01 - 2014-04-30
     Expenses:Storage:Seattle                          $65.00
+        ; budget: storage
     Members:Kevin Litwack
 
 2014-04-01 * Emigrant Storage
     ; period: 2014-04-01 - 2014-04-30
     Expenses:Storage:Reno                            $105.00
+        ; budget: storage
     Assets:Prepaid Expenses
 
 2014-05-01 * Public Storage
     ; period: 2014-05-01 - 2014-05-31
     Expenses:Storage:Seattle                          $65.00
+        ; budget: storage
     Members:Kevin Litwack
 
 2014-05-01 * Emigrant Storage
     ; period: 2014-05-01 - 2014-05-31
     Expenses:Storage:Reno                            $105.00
+        ; budget: storage
     Assets:Prepaid Expenses
 
 2014-05-13 * hardkernel.com
     Assets:Equipment:Wonderdome                       $75.75
+        ; budget: wonderdome
         ; item: ODROID-U3, case, power supply
+    Expenses:Fees                                     $25.00
         ; budget: wonderdome
-    Expenses:Shipping                                 $25.00
         ; shipping
-        ; budget: wonderdome
     Members:Greg Look                               $-100.75
 
 2014-06-01 * Public Storage
     ; period: 2014-06-01 - 2014-06-30
     Expenses:Storage:Seattle                          $77.00
+        ; budget: storage
     Members:Kevin Litwack
 
 2014-06-01 * Emigrant Storage
     ; period: 2014-06-01 - 2014-06-30
     Expenses:Storage:Reno                            $105.00
+        ; budget: storage
     Assets:Prepaid Expenses
 
 2014-06-23 * Playasophy Camp
@@ -266,11 +286,13 @@ account Members:Zack Fleischman
 2014-07-01 * Public Storage
     ; period: 2014-07-01 - 2014-07-31
     Expenses:Storage:Seattle                          $77.00
+        ; budget: storage
     Members:Kevin Litwack
 
 2014-07-01 * Emigrant Storage
     ; period: 2014-07-01 - 2014-07-31
     Expenses:Storage:Reno                            $105.00
+        ; budget: storage
     Assets:Prepaid Expenses
 
 2014-07-02 * Ninad Sathe
@@ -342,11 +364,11 @@ account Members:Zack Fleischman
 
 2014-07-23 * Amazon.com
     Expenses:Kitchen:Supplies                         $34.04
-        ; item: Glad ForceFlex Extra Strong 33 Gallon Trash Bags (70 ct)
         ; budget: kitchen-equipment
+        ; item: Glad ForceFlex Extra Strong 33 Gallon Trash Bags (70 ct)
     Assets:Equipment:Structures                        $9.83
-        ; item: King Canopy Ball Bungees 9" (50 ct)
         ; budget: shade
+        ; item: King Canopy Ball Bungees 9" (50 ct)
     Members:Greg Look                                $-43.87
 
 2014-07-24 * Sameer Chopra
@@ -361,21 +383,23 @@ account Members:Zack Fleischman
 
 2014-07-29 * Hookah Company
     Expenses:Lounge:Hookah Supplies                  $122.92
+        ; budget: lounge-hookah
         ; item: shisha, coals
-        ; budget: hookah-lounge
     Assets:Equipment:Hookahs                          $42.99
+        ; budget: lounge-hookah
         ; item: 13" Econo MYA Hookah
-        ; budget: hookah-lounge
     Members:Sabina Cao                              $-165.91
 
 2014-08-01 * Public Storage
     ; period: 2014-08-01 - 2014-08-31
     Expenses:Storage:Seattle                          $77.00
+        ; budget: storage
     Members:Kevin Litwack
 
 2014-08-01 * Emigrant Storage
     ; period: 2014-08-01 - 2014-08-31
     Expenses:Storage:Reno                            $105.00
+        ; budget: storage
     Assets:Prepaid Expenses
 
 2014-08-01 * Playasophy Camp
@@ -391,8 +415,8 @@ account Members:Zack Fleischman
     Members:Greg Look                               $-800.00
 
 2014-08-02 * Jo-Ann Fabrics
-    Assets:Equipment:Public Space                     $68.33
-        ; budget: hookah-lounge
+    Assets:Equipment:Lounge Decorations               $68.33
+        ; budget: public-space
     Members:Sabina Cao
 
 2014-08-03 * Shri Shamasunder
@@ -402,12 +426,12 @@ account Members:Zack Fleischman
 
 2014-08-04 * Amazon.com
     Assets:Equipment:Wonderdome                       $24.55
+        ; budget: wonderdome
         ; item: Dayton Audio iMM-6 microphone
         ; item: 10x 4-pin LED strip connector
-        ; budget: wonderdome
     Assets:Equipment:Tools                            $24.52
-        ; item: Travel Smart Luggage Strap
         ; budget: shade
+        ; item: Travel Smart Luggage Strap
     Members:Greg Look                                $-49.07
 
 2014-08-04 * Ben Larrimer
@@ -417,7 +441,7 @@ account Members:Zack Fleischman
 
 2014-08-06 * Zipcar
     ; Visit to Seattle storage unit.
-    Expenses:Transportation                           $24.62
+    Expenses:Transportation:Vehicle Rentals           $24.62
         ; budget: work-preparation
     Members:Greg Look
 
@@ -443,20 +467,20 @@ account Members:Zack Fleischman
 
 2014-08-11 * Amazon.com
     Assets:Equipment:Tools                            $94.56
+        ; budget: tools
         ; item: Ash bucket
         ; item: 50' YellowJacket extension cord
         ; item: YellowJacket 5-outlet tap
-        ; budget: tools
     Members:Greg Look
 
 2014-08-13 * Amazon.com
     Assets:Equipment:Lighting                         $34.09
-        ; item: 8x Moonrays Solar-Powered LED Path Light
         ; budget: lighting
+        ; item: 8x Moonrays Solar-Powered LED Path Light
     Members:Greg Look
 
 2014-08-13 * Jo-Ann Fabrics
-    Assets:Equipment:Hookah Lounge                   $180.00
+    Assets:Equipment:Lounge Decorations              $180.00
         ; budget: public-space
         ; More draping fabrics.
     Members:Sabina Cao                               $-60.00
@@ -553,25 +577,29 @@ account Members:Zack Fleischman
     Assets:Equipment:Power                            $25.96
         ; budget: power
         ; item: 3-tap extension cord (15')     -  2 @ $12.98
-    Assets:Equipment:Structures                       $46.33
-        ; item: 3/8" x 2' Rebar                - 10 @  $1.47
-        ; item: 1" x 12' Ratchet Strap (4)     -      $12.97
-        ; item: 1/4" x 100' Polypro Rope       -      $11.94
-        ; item: 3/16" x 50' Polypro Rope       -  3 @  $2.24
     Assets:Equipment:Tools                            $45.07
+        ; budget: tools
         ; item: Mini Pick and Trowel           -      $15.97
         ; item: Black Rubber Mallet, 16 oz     -       $4.97
         ; item: High Dex Work Gloves (3)       -       $9.88
         ; item: 2" Phillips-Head bits (12)     -       $9.97
         ; item: 5 gallon Green Bucket          -       $4.28
-    Expenses:Kitchen:Supplies                         $14.48
-        ; item: 1 lb Camping Propane (2)       -  2 @  $6.25
-        ; item: Hand Sanitizer (8 oz)          -       $1.98
+    Assets:Equipment:Structures                       $46.33
+        ; budget: structures
+        ; item: 3/8" x 2' Rebar                - 10 @  $1.47
+        ; item: 1" x 12' Ratchet Strap (4)     -      $12.97
+        ; item: 1/4" x 100' Polypro Rope       -      $11.94
+        ; item: 3/16" x 50' Polypro Rope       -  3 @  $2.24
     Expenses:Construction Supplies                    $37.69
+        ; budget: structures
         ; item: 2x4 96" Whitewood Stud         -  8 @  $2.82
         ; item: 8" Cable Tie (100)             -       $5.44
         ; item: 2.5" Gold Screw (1 lb)         -       $6.47
         ; item: 3/8" JT21 staples (1000)       -       $3.22
+    Expenses:Kitchen:Supplies                         $14.48
+        ; budget: kitchen-equipment
+        ; item: 1 lb Camping Propane (2)       -  2 @  $6.25
+        ; item: Hand Sanitizer (8 oz)          -       $1.98
     Members:Greg Look                                 $22.94
         ; item: 16 oz Misting Bottle           -      $12.97
         ; item: Women's M/L Work Glove         -       $9.97
@@ -583,7 +611,7 @@ account Members:Zack Fleischman
     ; at: 5260 W 7th St, Reno, NV 89523
     ; time: 22:04:27
     Assets:Equipment:Kitchen                          $41.47
-        ; budget: kitchen-tools
+        ; budget: kitchen-equipment
         ; item: 8 piece Measuring Set          -       $0.88
         ; item: 4 cup Measuring Cup            -       $0.97
         ; item: Chef's Knife with Sheath       -       $4.88
@@ -594,12 +622,12 @@ account Members:Zack Fleischman
         ; item: Oven Mitt Pot Holder Set       -       $3.96
         ; item: First Aid Kit                  -       $9.97
     Expenses:Kitchen:Supplies                         $13.14
-        ; budget: kitchen-tools
+        ; budget: kitchen-equipment
         ; item: WM Paper Bags                  -       $5.68
         ; item: 30-gallon Trash Bags           -       $1.68
         ; item: Solarcaine                     -       $5.78
     Expenses:Kitchen:Camp Meals                        $2.50
-        ; budget: kitchen-food
+        ; budget: camp-meals
         ; item: Beef Ravioli (40 oz)           -       $2.50
     Expenses:Unknown                                   $2.96
         ; item: SB 84SIDEKICK                  -       $2.96
@@ -627,7 +655,7 @@ account Members:Zack Fleischman
     ; at: 2200 Harvard Way, Reno, NV 89502
     ; time: 15:32
     Expenses:Kitchen:Camp Meals                      $160.25
-        ; budget: kitchen-food
+        ; budget: camp-meals
         ; item: Pancake Mix                    -       $5.65
         ; item: Applewood Bacon                -  2 @ $17.99
         ; item: Flour Tortillas (10")          -  2 @  $2.99
@@ -644,24 +672,25 @@ account Members:Zack Fleischman
         ; item: Pace Salsa                     -       $4.99
         ; item: Sour Cream                     -       $4.39
     Expenses:Kitchen:Supplies                         $14.99
-        ; budget: kitchen-tools
+        ; budget: kitchen-equipment
         ; item: KS Paper Towels                -      $14.99
-    Expenses:Lounge:Coffee                            $95.88
+    Expenses:Lounge:Coffee Ingredients                $95.88
         ; budget: lounge-coffee
         ; item: Coffeemate Creamer             -  4 @  $5.99
         ; item: Folgers Instant Coffee         -  8 @  $8.99
     Expenses:Bar Supplies:Mixers                      $13.98
-        ; budget: bar
+        ; budget: lounge-bar
         ; item: Coke 32/12 oz                  -       $9.99 - $2.00
         ; item: KS Cranberry Juice             -       $5.99
     Expenses:Bar Supplies:Alcohol                     $87.34
-        ; budget: bar
+        ; budget: lounge-bar
         ; item: KS Golden Margarita Mix        -  2 @  $9.99
         ; item: Kahlua 1.75 L                  -      $24.89
         ; item: Cooks Champagne (2 pack)       -      $13.49
         ; item: KS American Vodka              -      $13.99
         ; item: KS Spiced Rum                  -      $14.99
-    Expenses:Lighting                                 $11.89
+    Expenses:Power:Batteries                          $11.89
+        ; budget: sign
         ; item: Duracell D cells (14 pack)     -      $14.89 - $3.00
     Expenses:Tax:NV:Sales                              $9.06
     Assets:Bank:BECU Checking                       $-393.39
