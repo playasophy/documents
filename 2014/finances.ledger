@@ -85,7 +85,7 @@ account Income:Promotional Bonus
 account Expenses:Bar Supplies:Alcohol
 account Expenses:Bar Supplies:Mixers
 
-account Expenses:Construction Supplies
+account Expenses:Construction Materials
 
 account Expenses:Fees
 
@@ -518,12 +518,14 @@ account Members:Unknown
     Members:Ninad Sathe
 
 2014-07-09 * Chris Kleinknecht
-    ; Dues payment. (BTC)
+    ; btc-tx: 8d981015907e8869bb026b5958a0522b7c431796484e8cee1c08577b3ce3ec0c
+    ; Dues payment.
     Assets:Bank:Coinbase                             $100.00
     Members:Chris Kleinknecht
 
 2014-07-10 * Matthew Leung
-    ; Dues payment. (BTC)
+    ; btc-tx: 50fc13bd75e40044b97a6f842f92e253e0e77707624dcda07bc41340d06089f7
+    ; Dues payment.
     Assets:Bank:Coinbase                             $200.00
     Members:Matthew Leung                           $-100.00
     Members:Joeun Chung                             $-100.00
@@ -707,6 +709,7 @@ account Members:Unknown
     Members:Sabina Cao                               $-60.00
     Income:Donated Equipment                        $-120.00
         ; budget: public-space
+        ; Donated by Christine Maga.
 
 2014-08-14 * Transfer
     Assets:Bank:BECU Checking                        $500.00
@@ -738,7 +741,17 @@ account Members:Unknown
         ; budget: camp-meals
     Members:Matthew Leung
 
-2014-08-19 * Ian Wesley-Smith
+2014-08-17 * Greg Look
+    ; Reimbursement for camp spending.
+    Members:Greg Look                                $300.00
+    Assets:Bank:PayPal
+
+2014-08-18 * Uwajimaya
+    ; Geeber bought curry for Michelle's meal.
+    Members:Michelle Loprieno                         $12.00
+    Members:Kevin Litwack
+
+2014-08-19 * Greg Look
     ; Payment for Burning Man ticket.
     Members:Greg Look                                $400.00
     Members:Ian Wesley-Smith
@@ -825,7 +838,7 @@ account Members:Unknown
         ; item: 1" x 12' Ratchet Strap (4)     -      $12.97
         ; item: 1/4" x 100' Polypro Rope       -      $11.94
         ; item: 3/16" x 50' Polypro Rope       -  3 @  $2.24
-    Expenses:Construction Supplies                    $37.69
+    Expenses:Construction Materials                   $37.69
         ; budget: construction
         ; item: 2x4 96" Whitewood Stud         -  8 @  $2.82
         ; item: 8" Cable Tie (100)             -       $5.44
