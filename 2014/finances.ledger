@@ -512,6 +512,11 @@ account Members:Zack Fleischman
     Assets:Bank:Paypal                               $100.00
     Members:Michelle Loprieno
 
+2014-08-17 * Matthew Leung
+    Expenses:Kitchen:Camp Meals                       $42.30
+        ; budget: camp-meals
+    Members:Matthew Leung
+
 2014-08-20 * Enterprise Truck Rental
     ; period: 2014-08-20T10:42:00-08:00 - 2014-09-03T14:46:00-08:00
     ; Cargo van rental.
@@ -757,6 +762,48 @@ account Members:Zack Fleischman
         ; item: ~255 gallons of water
         ; Only charged for 200 gal for some reason.
     Members:Greg Look                                $-80.00
+
+2014-08-25 * Arctica
+    Expenses:Supplies:Ice                             $15.00
+        ; budget: water
+        ; item: 6x bag of ice
+    Members:Unknown
+        ; FIXME: Wrench or Joeun
+
+2014-08-26 * Arctica
+    Expenses:Supplies:Ice                             $15.00
+        ; budget: water
+        ; item: 6x bag of ice
+    Members:Greg Look
+        ; Gave Ian cash to get ice.
+
+2014-08-27 * Arctica
+    Expenses:Supplies:Ice                             $15.00
+        ; budget: water
+        ; item: 6x bag of ice
+    Members:Unknown
+        ; FIXME: Jason or Vincent
+
+2014-08-28 * Arctica
+    Expenses:Supplies:Ice                             $15.00
+        ; budget: water
+        ; item: 6x bag of ice
+    Members:Unknown
+        ; FIXME: Jason or Ninad
+
+2014-08-29 * Arctica
+    Expenses:Supplies:Ice                             $15.00
+        ; budget: water
+        ; item: 6x bag of ice
+    Members:Unknown
+        ; FIXME: Shri or Rong
+
+2014-08-30 * Arctica
+    Expenses:Supplies:Ice                             $15.00
+        ; budget: water
+        ; item: 6x bag of ice
+    Members:Unknown
+        ; FIXME: Riley or Rong
 
 2014-09-01 * Public Storage
     ; period: 2014-09-01 - 2014-09-30
