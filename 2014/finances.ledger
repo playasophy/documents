@@ -708,7 +708,7 @@ account Members:Zack Fleischman
     Income:Camp Dues                                $-200.00
 
 2014-08-16 * Amazon.com
-    Assets:Equipment:Kitchen                          $57.94
+    Assets:Equipment:Kitchen:Cooking                  $57.94
         ; budget: kitchen-equipment
         ; item: Rice cooker
         ; item: cast-iron griddle
@@ -830,7 +830,9 @@ account Members:Zack Fleischman
 2014-08-21 * Walmart
     ; at: 5260 W 7th St, Reno, NV 89523
     ; time: 22:04:27
-    Assets:Equipment:Kitchen                          $41.47
+    Assets:Equipment:Utilities:Safety                  $9.97
+        ; item: First Aid Kit                  -       $9.97
+    Assets:Equipment:Kitchen:Cooking                  $31.50
         ; budget: kitchen-equipment
         ; item: 8 piece Measuring Set          -       $0.88
         ; item: 4 cup Measuring Cup            -       $0.97
@@ -840,7 +842,6 @@ account Members:Zack Fleischman
         ; item: Plastic Spatula                -       $6.98
         ; item: Large Red Spatula              -       $2.97
         ; item: Oven Mitt Pot Holder Set       -       $3.96
-        ; item: First Aid Kit                  -       $9.97
     Expenses:Kitchen:Supplies                         $13.14
         ; budget: kitchen-equipment
         ; item: WM Paper Bags                  -       $5.68
@@ -937,6 +938,13 @@ account Members:Zack Fleischman
 
 2014-08-22 * Jacksons Store
     ; at: Reno, NV
+    ; FIXME: numbers
+    Assets:Supplies:Fuel                              21.000 gal_gasoline @ $3.939
+    Members:Unknown                                  $-82.72
+        ; FIXME: Sameer? Chris?
+
+2014-08-22 * Jacksons Store
+    ; at: Reno, NV
     ; time: 19:29
     Expenses:Transportation:Fuel                      16.637 gal_gasoline @ $3.939
         ; budget: transportation
@@ -1025,6 +1033,16 @@ account Members:Zack Fleischman
         ; item: 6x bag of ice
     Members:Unknown
         ; FIXME: Riley or Rong
+
+2014-09-01 * Power Generation
+    ; TODO: split up?
+    Expenses:Power:Fuel                               11.000 gal_gasoline
+    Assets:Supplies:Fuel
+
+2014-09-01 * Transfer
+    ; Use excess gasoline for cargo van.
+    Expenses:Transportation:Fuel                      10.000 gal_gasoline
+    Assets:Supplies:Fuel                             -10.000 gal_gasoline = 0.000 gal_gasoline
 
 2014-09-01 * Public Storage
     ; period: 2014-09-01 - 2014-09-30
