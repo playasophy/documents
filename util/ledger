@@ -10,4 +10,6 @@ $LEDGER_BIN \
     --wide \
     --account-width 50 \
     --file $ROOT_DIR/$YEAR/finances.ledger \
+    --explicit \
+    --pedantic \
     "$@"
