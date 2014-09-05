@@ -20,17 +20,54 @@ account Assets:Bank:Coinbase
 
 ; Equipment Assets
 
-account Assets:Equipment:Structures
-account Assets:Equipment:Tools
-account Assets:Equipment:Utilities
-account Assets:Equipment:Hookahs
-account Assets:Equipment:Kitchen
-account Assets:Equipment:Power
-account Assets:Equipment:Lighting
-account Assets:Equipment:Lounge Decorations
-account Assets:Equipment:Audio Visual
+account Assets:Equipment:Kitchen:Cooking
+account Assets:Equipment:Kitchen:Cooling
+account Assets:Equipment:Kitchen:Storage
+account Assets:Equipment:Kitchen:Tables
+
+account Assets:Equipment:Lounge:Bar
+account Assets:Equipment:Lounge:Decorations
+account Assets:Equipment:Lounge:Furniture
+account Assets:Equipment:Lounge:Hookahs
+
+account Assets:Equipment:Media:Audio
+account Assets:Equipment:Media:Video
+
+account Assets:Equipment:Power:Batteries
+account Assets:Equipment:Power:Converters
+account Assets:Equipment:Power:Distribution
+account Assets:Equipment:Power:Tools
+
+account Assets:Equipment:Public:Camp Sign
+account Assets:Equipment:Public:Communications
+account Assets:Equipment:Public:Fire
+
+account Assets:Equipment:Structures:Carport
+account Assets:Equipment:Structures:Domes
+account Assets:Equipment:Structures:Fasteners
+account Assets:Equipment:Structures:Shade
+
+account Assets:Equipment:Tools:Earthworking
+account Assets:Equipment:Tools:Hand Tools
+account Assets:Equipment:Tools:Misc
+account Assets:Equipment:Tools:Power Tools
+
+account Assets:Equipment:Utilities:LNT
+account Assets:Equipment:Utilities:Lighting
+account Assets:Equipment:Utilities:Safety
+account Assets:Equipment:Utilities:Water
+
 account Assets:Equipment:Wonderdome
-account Assets:Equipment:Misc
+
+
+; Supply Assets
+
+account Assets:Supplies:Fuel
+
+
+; Other Assets
+
+account Assets:Prepaid Expenses:Storage
 
 
 ; Income
@@ -39,23 +76,47 @@ account Income:Camp Dues
 account Income:Camp Funding
 account Income:Donated Equipment
 account Income:Interest
+account Income:Promotional Bonus
 
 
 ; Expenses
 
-account Expenses:Equipment Rental
+account Expenses:Bar Supplies:Alcohol
+account Expenses:Bar Supplies:Mixers
+
+account Expenses:Construction Supplies
+
 account Expenses:Fees
+
+account Expenses:Insurance:Damage
+account Expenses:Insurance:Liability
+
+account Expenses:Kitchen:Camp Meals
+account Expenses:Kitchen:Supplies
+
+account Expenses:Lounge:Coffee Ingredients
+account Expenses:Lounge:Hookah Supplies
+
+account Expenses:Power:Batteries
+account Expenses:Power:Fuel
+account Expenses:Power:Generator Rental
+
 account Expenses:Storage:Reno
 account Expenses:Storage:Seattle
-account Expenses:Supplies
-account Expenses:Transportation
-account Expenses:Misc
+
+account Expenses:Supplies:Ice
+account Expenses:Supplies:Water
+
+account Expenses:Tax:NV:Sales
+account Expenses:Tax:WA:Sales
+
+account Expenses:Transportation:Cleaning
+account Expenses:Transportation:Fuel
+account Expenses:Transportation:Vehicle Rentals
 
 
 ; Members
 
-account Members:Greg Look
-account Members:Kevin Litwack
 account Members:Becca Kemper
 account Members:Ben Larrimer
 account Members:Caito Foster
@@ -63,14 +124,17 @@ account Members:Chris Kleinknecht
 account Members:David Brotman
 account Members:David Everling
 account Members:Em Ascano
+account Members:Greg Look
 account Members:Ian Wesley-Smith
 account Members:Jamie Turley
 account Members:Jason Huang
 account Members:Jeff Yost
 account Members:Joeun Chung
+account Members:Kevin Litwack
 account Members:Logan White Stack
 account Members:Maria Dumanis
 account Members:Matthew Leung
+account Members:Michelle Loprieno
 account Members:Ming Guo
 account Members:Ninad Sathe
 account Members:Riley Andrews
