@@ -714,32 +714,32 @@ account Members:Zack Fleischman
 2014-09-02 * Shell
     ; at: 2750 South Main Street, Susanville, CA 96130
     ; time: 11:51:28
-    Expenses:Transportation:Fuel                 12.898 gal_gasoline @ $4.159
+    Expenses:Transportation:Fuel                      12.898 gal_gasoline @ $4.159
         ; Fuel for cargo van.
-    Members:Greg Look                           $-53.64
+    Members:Greg Look                                $-53.64
 
 2014-09-02 * The Home Depot
     ; at: 6451 South 6th Street, Klamath Falls, OR 97603
     ; time: 16:20
-    Expenses:Kitchen:Supplies                 $19.97
+    Expenses:Kitchen:Supplies                         $19.97
         ; Propane tank exchange.
-    Members:Greg Look                        $-19.97
+    Members:Greg Look
 
 2014-09-02 * Mobil Fuel
     ; at: 5400 South 6th Street, Klamath Falls, OR
     ; time: 16:36
-    Expenses:Transportation:Fuel                 12.328 gal_gasoline @ $3.759
+    Expenses:Transportation:Fuel                      12.328 gal_gasoline @ $3.759
         ; Fuel for cargo van.
-    Members:Greg Look                           $-46.34
+    Members:Greg Look                                $-46.34
 
 2014-09-03 * Shell
     ; at: Lander Street, Seattle, WA
     ; Refilling cargo van before returning it.
-    Expenses:Transportation:Fuel                 10.018 gal_gasoline @ $4.069
-    Members:Greg Look                           $-40.76
+    Expenses:Transportation:Fuel                      10.018 gal_gasoline @ $4.069
+    Members:Greg Look                                $-40.76
 
 2014-09-03 * Elephant Car Wash
     ; Cleaned playa dust out of cargo van.
-    Expenses:Transportation:Cleaning             $19.99
-    Expenses:Tax:WA:Sales                         $1.90
-    Members:Greg Look                           $-21.89
+    Expenses:Transportation:Cleaning                  $19.99
+    Expenses:Tax:WA:Sales                              $1.90
+    Members:Greg Look                                $-21.89
