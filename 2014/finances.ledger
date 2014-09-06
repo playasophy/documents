@@ -92,7 +92,7 @@ account Expenses:Fees
 account Expenses:Insurance:Damage
 account Expenses:Insurance:Liability
 
-account Expenses:Kitchen:Camp Meals
+account Expenses:Kitchen:Food
 account Expenses:Kitchen:Supplies
 
 account Expenses:Lounge:Coffee Ingredients
@@ -737,7 +737,7 @@ account Members:Unknown
     Members:Michelle Loprieno
 
 2014-08-17 * Matthew Leung
-    Expenses:Kitchen:Camp Meals                       $42.30
+    Expenses:Kitchen:Food                             $42.30
         ; budget: camp-meals
     Members:Matthew Leung
 
@@ -876,7 +876,7 @@ account Members:Unknown
         ; item: WM Paper Bags                  -       $5.68
         ; item: 30-gallon Trash Bags           -       $1.68
         ; item: Solarcaine                     -       $5.78
-    Expenses:Kitchen:Camp Meals                        $2.50
+    Expenses:Kitchen:Food                              $2.50
         ; budget: camp-meals
         ; item: Beef Ravioli (40 oz)           -       $2.50
     Expenses:Unknown                                   $2.96
@@ -905,7 +905,7 @@ account Members:Unknown
 2014-08-22 * Costco
     ; at: 2200 Harvard Way, Reno, NV 89502
     ; time: 15:32
-    Expenses:Kitchen:Camp Meals                      $160.25
+    Expenses:Kitchen:Food                            $160.25
         ; budget: camp-meals
         ; item: Pancake Mix                    -       $5.65
         ; item: Applewood Bacon                -  2 @ $17.99
@@ -992,7 +992,7 @@ account Members:Unknown
 2014-08-22 * WinCo Foods
     ; at: Reno, NV
     ; time: 21:47:53
-    Expenses:Kitchen:Camp Meals                       $79.23
+    Expenses:Kitchen:Food                             $79.23
         ; budget: camp-meals
         ; TODO: itemize
     Assets:Bank:BECU Checking
@@ -1002,9 +1002,10 @@ account Members:Unknown
     ; period: 2014-08-22 - 2014-08-23
     ; Extra night's lodging for early-arrival crew.
     Members:Chris Kleinknecht                         $29.32
-    Members:Greg Look                                 $58.63
+    Members:Greg Look                                 $29.31
     Members:Ian Wesley-Smith                          $29.32
     Members:Sameer Chopra                             $29.32
+    Members:Sabina Cao                                $29.32
     Members:Zack Fleischman                           $29.32
     Members:Greg Look                               $-175.91
 
