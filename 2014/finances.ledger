@@ -971,14 +971,24 @@ account Members:Unknown
     Members:Greg Look                               $-183.69
 
 2014-08-22 * Jacksons Store
-    ; at: Reno, NV
+    ; at: 2595 Clearacre, Reno, NV 89512
     ; FIXME: numbers
-    Assets:Supplies:Fuel                              21.000 gal_gasoline @ $3.939
-    Members:Unknown                                  $-82.72
-        ; FIXME: Sameer? Chris?
+    Assets:Supplies:Fuel                              16.217 gal_gasoline @ $3.939
+        ; budget: power
+        ; Fuel for generator.
+    Members:Unknown                                  $-63.88
+        ; FIXME: Chris?
 
 2014-08-22 * Jacksons Store
-    ; at: Reno, NV
+    ; at: 2595 Clearacre, Reno, NV 89512
+    ; time: 19:28
+    Assets:Supplies:Fuel                               1.703 gal_gasoline @ $3.939
+        ; budget: power
+        ; Fuel for generator.
+    Members:Sameer Chopra                             $-6.71
+
+2014-08-22 * Jacksons Store
+    ; at: 2595 Clearacre, Reno, NV 89512
     ; time: 19:29
     ; pool: cargo-van
     Expenses:Transportation:Fuel                      16.637 gal_gasoline @ $3.939
@@ -987,7 +997,15 @@ account Members:Unknown
     Members:Greg Look                                $-65.53
 
 2014-08-22 * Jacksons Store
-    ; at: Reno, NV
+    ; at: 2595 Clearacre, Reno, NV 89512
+    ; time: 19:32
+    Assets:Supplies:Fuel                               3.080 gal_gasoline @ $3.939
+        ; budget: power
+        ; Fuel for generator.
+    Members:Sameer Chopra                            $-12.13
+
+2014-08-22 * Jacksons Store
+    ; at: 2595 Clearacre, Reno, NV 89512
     ; time: 19:32:17
     Expenses:Supplies:Ice                              $9.56
         ; budget: camp-meals
