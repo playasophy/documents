@@ -108,6 +108,7 @@ account Expenses:Storage:Seattle
 account Expenses:Supplies:Ice
 account Expenses:Supplies:Water
 
+account Expenses:Tax:CA:Sales
 account Expenses:Tax:NV:Sales
 account Expenses:Tax:WA:Sales
 
@@ -897,6 +898,17 @@ account Members:Unknown
         ; budget: fees
     Assets:Bank:BECU Checking                       $-165.99
 
+2014-08-22 * Budget Truck Rental
+    ; period: 2014-08-22 - 2014-09-01
+    ; pool: box-truck
+    ; Box truck rental.
+    Expenses:Transportation:Vehicle Rentals        $1,073.18
+        ; budget: transportation
+    Expenses:Tax:CA:Sales                             $80.49
+        ; budget: transportation
+        ; :estimate:
+    Members:Zack Fleischman                       $-1,153.67
+
 2014-08-22 * REI
     ; at: Reno, NV
     ; time: 13:47
@@ -1111,6 +1123,21 @@ account Members:Unknown
     Expenses:Storage:Reno                            $105.00
         ; budget: storage
     Assets:Prepaid Expenses:Storage
+
+2014-09-01 * Diesel Fuel
+    ; pool: box-truck
+    ; :estimate:
+    Expenses:Transportation:Fuel                     $135.65
+        ; budget: transportation
+        ; Diesel fuel for box truck.
+    Members:Zack Fleischman                         $-135.65
+
+2014-09-01 * Budget Truck Rental
+    ; pool: box-truck
+    Expenses:Transportation:Cleaning                 $150.00
+        ; budget: transportation
+        ; Cleaning fees for box truck.
+    Members:Zack Fleischman
 
 2014-09-02 * Shell
     ; at: 2750 South Main Street, Susanville, CA 96130
