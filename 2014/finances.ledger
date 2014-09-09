@@ -78,6 +78,7 @@ account Income:Camp Funding
 account Income:Donated Equipment
 account Income:Interest
 account Income:Promotional Bonus
+account Income:Transport Charges
 
 
 ; Expenses
@@ -1169,3 +1170,21 @@ account Members:Unknown
         ; budget: transportation
     Expenses:Tax:WA:Sales                              $1.90
     Members:Greg Look                                $-21.89
+
+2014-09-09 * Playasophy Camp
+    ; Charge members for split of cargo van.
+    Members:Greg Look                                $224.49
+    Members:Sabina Cao                               $224.49
+    Members:Michelle Loprieno                         $89.80
+    Members:Ian Wesley-Smith                          $67.35
+    Members:Jeff Yost                                 $44.90
+    Income:Transport Charges
+        ; budget: transportation
+
+2014-09-09 * Playasophy Camp
+    ; Charge members for split of box truck.
+    Members:Zack Fleischman                          $143.93
+    Members:Sameer Chopra                            $143.93
+    Members:Ming Guo                                  $57.57
+    Income:Transport Charges
+        ; budget: transportation
