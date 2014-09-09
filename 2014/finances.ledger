@@ -986,12 +986,11 @@ account Members:Unknown
 
 2014-08-22 * Jacksons Store
     ; at: 2595 Clearacre, Reno, NV 89512
-    ; FIXME: numbers
+    ; FIXME: exact numbers
     Assets:Supplies:Fuel                              16.217 gal_gasoline @ $3.939
         ; budget: power
         ; Fuel for generator.
-    Members:Unknown                                  $-63.88
-        ; FIXME: Chris?
+    Members:Chris Kleinknecht                        $-63.88
 
 2014-08-22 * Jacksons Store
     ; at: 2595 Clearacre, Reno, NV 89512
@@ -1031,7 +1030,6 @@ account Members:Unknown
     ; time: 21:47:53
     Expenses:Kitchen:Food                             $79.23
         ; budget: camp-meals
-        ; TODO: itemize
     Assets:Bank:BECU Checking
 
 2014-08-22 * Holiday Inn Reno-Sparks
@@ -1059,13 +1057,6 @@ account Members:Unknown
     Members:Becca Kemper                            $-100.00
     Income:Camp Funding                              $-50.00
 
-2014-08-25 * Arctica
-    Expenses:Supplies:Ice                             $15.00
-        ; budget: coffee-house
-        ; item: 6x bag of ice
-    Members:Unknown
-        ; FIXME: Wrench or Joeun
-
 2014-08-26 * Arctica
     Expenses:Supplies:Ice                             $15.00
         ; budget: coffee-house
@@ -1076,30 +1067,26 @@ account Members:Unknown
 2014-08-27 * Arctica
     Expenses:Supplies:Ice                             $15.00
         ; budget: coffee-house
-        ; item: 6x bag of ice
-    Members:Unknown
-        ; FIXME: Jason or Vincent
+        ; 6 bags of ice
+    Members:Vincent Huang
 
 2014-08-28 * Arctica
     Expenses:Supplies:Ice                             $15.00
         ; budget: coffee-house
-        ; item: 6x bag of ice
-    Members:Unknown
-        ; FIXME: Jason or Ninad
+        ; 6 bags of ice
+    Members:Ninad Sathe
 
 2014-08-29 * Arctica
     Expenses:Supplies:Ice                             $15.00
         ; budget: coffee-house
-        ; item: 6x bag of ice
-    Members:Unknown
-        ; FIXME: Shri or Rong
+        ; 6 bags of ice
+    Members:Rong Hu
 
 2014-08-30 * Arctica
     Expenses:Supplies:Ice                             $15.00
         ; budget: coffee-house
-        ; item: 6x bag of ice
-    Members:Unknown
-        ; FIXME: Riley or Rong
+        ; 6 bags of ice
+    Members:Rong Hu
 
 2014-09-01 * Power Generation
     ; TODO: split up?
