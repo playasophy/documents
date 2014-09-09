@@ -166,154 +166,154 @@ account Members:Unknown
 
 2013-10-01 * Inventory
     Assets:Equipment:Structures:Domes                $403.99
-        ; item: 17' 2V Geodesic Dome                 $403.99
+        ; item: 17' 2V Geodesic Dome               | $403.99
         ; [=2008-11-02]
     Assets:Equipment:Structures:Domes                $303.60
-        ; item: 25' 3V Geodesic Dome                 $303.60
+        ; item: 25' 3V Geodesic Dome               | $303.60
     Assets:Equipment:Structures:Shade              $1,260.20
-        ; item: Shade cloth, clips, bungee balls     $402.06
-        ; item: Shade cloth and clips                $709.95
-        ; item: 24' Parachute                         $60.21
-        ; item: Shade??                               $87.98
+        ; item: Shade cloth, clips, bungee balls   | $402.06
+        ; item: Shade cloth and clips              | $709.95
+        ; item: 24' Parachute                      |  $60.21
+        ; item: Shade??                            |  $87.98
     Assets:Equipment:Structures:Carport              $217.89
-        ; item: 10' x 20' Canopy Carport             $217.89
+        ; item: 10' x 20' Canopy Carport           | $217.89
     Assets:Equipment:Structures:Fasteners            $236.00
-        ; item: 1/2" x 2' Rebar (50)                  $84.42
-        ; item: Ratchet Straps                        $60.75
-        ; item: 100' Rope                             $10.92
-        ; item: 100' Nylon cord (6)                   $26.21
-        ; item: Misc Rope                             $53.70
+        ; item: 1/2" x 2' Rebar (50)               |  $84.42
+        ; item: Ratchet Straps                     |  $60.75
+        ; item: 100' Rope                          |  $10.92
+        ; item: 100' Nylon cord (6)                |  $26.21
+        ; item: Misc Rope                          |  $53.70
     Equity:Opening Balances
 
 2013-10-01 * Inventory
     Assets:Equipment:Tools:Hand Tools                 $68.78
-        ; item: Wrench/socket toolkit                 $21.77
-        ; item: Measuring/Marking Tools               $35.00
-        ; item: Hand Saw                              $12.01
+        ; item: Wrench/socket toolkit              |  $21.77
+        ; item: Measuring/Marking Tools            |  $35.00
+        ; item: Hand Saw                           |  $12.01
     Assets:Equipment:Tools:Power Tools               $230.71
-        ; item: Ryobi Cordless Drills                 $86.51
-        ; item: Ryobi Cordless Circular Saw           $97.46
-        ; item: 21-piece drill bit set                $16.39
-        ; item: 3/8" drill bit (3)                    $30.35
+        ; item: Ryobi Cordless Drills              |  $86.51
+        ; item: Ryobi Cordless Circular Saw        |  $97.46
+        ; item: 21-piece drill bit set             |  $16.39
+        ; item: 3/8" drill bit (3)                 |  $30.35
     Assets:Equipment:Tools:Earthworking               $86.91
-        ; item: Buckets (2), tape, file, trowel       $22.41
-        ; item: Post hole digger/auger                $64.50
+        ; item: Buckets (2), tape, file, trowel    |  $22.41
+        ; item: Post hole digger/auger             |  $64.50
     Assets:Equipment:Tools:Misc                      $111.83
-        ; item: Ladders                               $35.00
-        ; item: Plastic Storage Bins (3)              $18.60
-        ; item: Plastic Storage Bins (3)              $19.70
-        ; item: Plastic Storage Bins (3)              $23.53
-        ; item: Plastic Storage Bins (3)              $15.00
-        ; item: Vise, drill bit, misc nuts/bolts      $46.12
-        ; item: Vise                                  $23.50
-        ; item: Buckets, staples, tape, sandpaper     $28.97
+        ; item: Ladders                            |  $35.00
+        ; item: Plastic Storage Bins (3)           |  $18.60
+        ; item: Plastic Storage Bins (3)           |  $19.70
+        ; item: Plastic Storage Bins (3)           |  $23.53
+        ; item: Plastic Storage Bins (3)           |  $15.00
+        ; item: Vise, drill bit, misc nuts/bolts   |  $46.12
+        ; item: Vise                               |  $23.50
+        ; item: Buckets, staples, tape, sandpaper  |  $28.97
     Equity:Opening Balances
 
 2013-10-01 * Inventory
     Assets:Equipment:Utilities:Water                 $793.65
-        ; item: Water Barrel, 55 gallon           3 @ $70.00
-        ; item: Water Container, 15 gallon        6 @ $45.00
-        ; item: Water Container, 5 gallon (7)         $87.52
-        ; item: Solar Shower                          $25.13
-        ; item: Wooden Shower Platform + Pump        $175.00
-        ; item: Shower Curtains                       $26.00
+        ; item: Water Barrel, 55 gallon         | 3 @ $70.00
+        ; item: Water Container, 15 gallon      | 6 @ $45.00
+        ; item: Water Container, 5 gallon (7)   |     $87.52
+        ; item: Solar Shower                    |     $25.13
+        ; item: Wooden Shower Platform + Pump   |    $175.00
+        ; item: Shower Curtains                 |     $26.00
     Assets:Equipment:Utilities:Lighting              $574.11
-        ; item: Work Lights                          $191.09
-        ; item: Solar Lights (8)                      $15.33
-        ; item: Rope Lights, 24' White                $17.00
-        ; item: LED Rope Lights, 10' Vivid Red    2 @ $20.16
-        ; item: LED Rope Lights, 50' Cool White       $95.98
-        ; item: Lamp Dimmer                       2 @ $11.65
-        ; item: Clamp Lamp                             $5.99
-        ; item: Fluorescent Lamp                      $10.92
-        ; item: Kerosene Lanterns (2)                 $18.96
-        ; item: Various Lights                       $127.42
-        ; item: Clamp light, bulbs, fuses             $27.80
+        ; item: Work Lights                     |    $191.09
+        ; item: Solar Lights (8)                |     $15.33
+        ; item: Rope Lights, 24' White          |     $17.00
+        ; item: LED Rope Lights, 10' Vivid Red  | 2 @ $20.16
+        ; item: LED Rope Lights, 50' Cool White |     $95.98
+        ; item: Lamp Dimmer                     | 2 @ $11.65
+        ; item: Clamp Lamp                      |      $5.99
+        ; item: Fluorescent Lamp                |     $10.92
+        ; item: Kerosene Lanterns (2)           |     $18.96
+        ; item: Various Lights                  |    $127.42
+        ; item: Clamp light, bulbs, fuses       |     $27.80
     Assets:Equipment:Utilities:LNT                   $230.02
-        ; item: Trash barrel, cooler, mirror          $60.08
-        ; item: Trash barrels                         $28.43
-        ; item: Trash barrels, marker flags           $22.95
-        ; item: Paint strainers, sealant, hose        $20.58
-        ; item: Black plastic sheeting                $64.61
-        ; item: Hand Towels                           $33.37
+        ; item: Trash barrel, cooler, mirror    |     $60.08
+        ; item: Trash barrels                   |     $28.43
+        ; item: Trash barrels, marker flags     |     $22.95
+        ; item: Paint strainers, sealant, hose  |     $20.58
+        ; item: Black plastic sheeting          |     $64.61
+        ; item: Hand Towels                     |     $33.37
     Assets:Equipment:Utilities:Safety                 $19.68
-        ; item: Fire Extinguisher                     $19.68
+        ; item: Fire Extinguisher               |     $19.68
     Equity:Opening Balances
 
 2013-10-01 * Inventory
     Assets:Equipment:Kitchen:Storage                 $237.02
-        ; item: 5-Shelf Storage Unit (4)             $213.49
-        ; item: Plastic Bins                          $23.53
+        ; item: 5-Shelf Storage Unit (4)       |     $213.49
+        ; item: Plastic Bins                   |      $23.53
     Assets:Equipment:Kitchen:Cooling                 $100.00
-        ; item: Chest Freezer                        $100.00
+        ; item: Chest Freezer                  |     $100.00
     Assets:Equipment:Kitchen:Tables                  $366.24
-        ; item: Folding Table & Bench Set        2 @ $183.12
+        ; item: Folding Table & Bench Set      | 2 @ $183.12
     Assets:Equipment:Kitchen:Cooking                 $623.19
-        ; item: Propane camping stove                 $45.00
-        ; item: Propane camping stove                 $75.35 (broken?)
-        ; item: Cooking Equipment                    $256.39
-        ; item: Ice cream maker, 1 Qt                 $35.00
-        ; item: Splatter screen                       $16.41
-        ; item: Large pot, lid, stirring paddle       $69.95
-        ; item: Ninja blender                         $99.00
-        ; item: Large pot                             $10.00
-        ; item: Spoons/spatula                        $16.09
+        ; item: Propane camping stove          |      $45.00
+        ; item: Propane camping stove          |      $75.35 (broken?)
+        ; item: Cooking Equipment              |     $256.39
+        ; item: Ice cream maker, 1 Qt          |      $35.00
+        ; item: Splatter screen                |      $16.41
+        ; item: Large pot/lid, stirring paddle |      $69.95
+        ; item: Ninja blender                  |      $99.00
+        ; item: Large pot                      |      $10.00
+        ; item: Spoons/spatula                 |      $16.09
     Equity:Opening Balances
 
 2013-10-01 * Inventory
     Assets:Equipment:Power:Batteries                 $459.29
-        ; item: AGM Deep-cycle Battery               $100.00
-        ; item: AGM Deep-cycle Battery           2 @ $125.00
-        ; item: Battery box                      3 @  $36.43
+        ; item: AGM Deep-cycle Battery         |     $100.00
+        ; item: AGM Deep-cycle Battery         | 2 @ $125.00
+        ; item: Battery box                    | 3 @  $36.43
     Assets:Equipment:Power:Converters                $135.00
-        ; item: Battery Charger                       $85.00
-        ; item: Power Inverter                        $50.00
+        ; item: Battery Charger                |      $85.00
+        ; item: Power Inverter                 |      $50.00
     Assets:Equipment:Power:Distribution              $436.83
-        ; item: Various power cords/accessories      $201.32
-        ; item: YellowJacket 100' 15-amp Power Cord  $177.45
-        ; item: Extension Cords and Surge Protectors  $58.06
+        ; item: Various power cords/accessories    | $201.32
+        ; item: YellowJacket 100' 15A Power Cord   | $177.45
+        ; item: Extension Cords, Surge Protectors  |  $58.06
     Assets:Equipment:Power:Tools                      $81.40
-        ; item: Kill-A-Watt                           $28.97
-        ; item: Gas Can, 5 gallon                 2 @ $10.07
-        ; item: Gas Can, 5 gallon                     $10.06
-        ; item: Gas Can, 2 gallon                 3 @  $7.41
+        ; item: Kill-A-Watt                     |     $28.97
+        ; item: Gas Can, 5 gallon               | 2 @ $10.07
+        ; item: Gas Can, 5 gallon               |     $10.06
+        ; item: Gas Can, 2 gallon               | 3 @  $7.41
     Equity:Opening Balances
 
 2013-10-01 * Inventory
     Assets:Equipment:Media:Video                     $533.79
-        ; item: Old Projector                        $141.50
-        ; item: IKEA Curtains                         $27.36
-        ; item: ViewSonic PJD5123 SVGA Projector     $354.71
-        ; item: 15' SVGA Cable with 3.5mm Audio       $10.22
+        ; item: Old Projector                      | $141.50
+        ; item: IKEA Curtains                      |  $27.36
+        ; item: ViewSonic PJD5123 SVGA Projector   | $354.71
+        ; item: 15' SVGA Cable with 3.5mm Audio    |  $10.22
     Assets:Equipment:Media:Audio                     $182.06
-        ; item: Microphone                            $30.00
-        ; item: Numark C1 Rack Mixer                  $97.05
-        ; item: Handheld Microphone + Cord            $14.22
-        ; item: 50' 1/4" Mono Speaker Cable      2 @  $15.01
-        ; item: 3.5mm-to-RCA Y-cable                   $3.25
-        ; item: Adapters for A/V                       $7.52
+        ; item: Microphone                     |      $30.00
+        ; item: Numark C1 Rack Mixer           |      $97.05
+        ; item: Handheld Microphone + Cord     |      $14.22
+        ; item: 50' 1/4" Mono Speaker Cable    | 2 @  $15.01
+        ; item: 3.5mm-to-RCA Y-cable           |       $3.25
+        ; item: Adapters for A/V               |       $7.52
     Assets:Equipment:Media:Audio                     $616.92
-        ; item: Behringer 550W PA Speaker        2 @ $308.46
+        ; item: Behringer 550W PA Speaker      | 2 @ $308.46
     Equity:Opening Balances
 
 2013-10-01 * Inventory
     Assets:Equipment:Public:Camp Sign                $447.69
-        ; item: Peggy board and LEDs                 $248.00
-        ; item: Sign letters and hardware            $199.69
+        ; item: Peggy board and LEDs               | $248.00
+        ; item: Sign letters and hardware          | $199.69
     Assets:Equipment:Public:Communications           $128.34
-        ; item: Blackboards, chalk                   $128.34
+        ; item: Blackboards, chalk                 | $128.34
     Assets:Equipment:Public:Seating                  $317.46
-        ; item: Blackjack Plywood Seating             $27.75
-        ; item: Wood Bleachers                       $167.54
-        ; item: Bleacher cushions                     $54.45
-        ; item: Soft Stuff                            $25.82
-        ; item: Carpet                                $21.90
-        ; item: Carpet                                $20.00
+        ; item: Blackjack Plywood Seating          |  $27.75
+        ; item: Wood Bleachers                     | $167.54
+        ; item: Bleacher cushions                  |  $54.45
+        ; item: Soft Stuff                         |  $25.82
+        ; item: Carpet                             |  $21.90
+        ; item: Carpet                             |  $20.00
     Assets:Equipment:Public:Fire                     $204.39
-        ; item: Propane Fire Pit                      $90.00
-        ; item: Propane Tank, 15 lb                   $48.09
-        ; item: 12' Propane Hose                      $34.00
-        ; item: Propane Adapter Hose                  $32.30
+        ; item: Propane Fire Pit                   |  $90.00
+        ; item: Propane Tank, 15 lb                |  $48.09
+        ; item: 12' Propane Hose                   |  $34.00
+        ; item: Propane Adapter Hose               |  $32.30
     Equity:Opening Balances
 
 2013-10-01 * Inventory
@@ -436,8 +436,8 @@ account Members:Unknown
 
 2014-05-13 * hardkernel.com
     Assets:Equipment:Wonderdome                       $75.75
+        ; item: ODROID-U3, case, power supply       | $75.75
         ; budget: wonderdome
-        ; item: ODROID-U3, case, power supply
     Expenses:Fees                                     $25.00
         ; budget: wonderdome
         ; shipping
@@ -584,11 +584,11 @@ account Members:Unknown
 
 2014-07-23 * Amazon.com
     Expenses:Kitchen:Supplies                         $34.04
-        ; budget: kitchen-equipment
-        ; item: Glad ForceFlex Extra Strong 33 Gallon Trash Bags (70 ct)
+        ; item: Glad ForceFlex Extra Strong 33 Gallon Trash Bags (70 ct) | $34.04
+        ; budget: lnt
     Assets:Equipment:Structures:Fasteners              $9.83
+        ; item: King Canopy Ball Bungees 9" (50 ct)  | $9.83
         ; budget: shade
-        ; item: King Canopy Ball Bungees 9" (50 ct)
     Members:Greg Look                                $-43.87
 
 2014-07-24 * Sameer Chopra
@@ -603,11 +603,11 @@ account Members:Unknown
 
 2014-07-29 * Hookah Company
     Assets:Equipment:Lounge:Hookahs                   $42.99
+        ; item: 13" Econo MYA Hookah               |  $42.99
         ; budget: hookah-lounge
-        ; item: 13" Econo MYA Hookah
     Expenses:Lounge:Hookah Supplies                  $122.92
+        ; item: shisha, coals                      | $122.92
         ; budget: hookah-lounge
-        ; item: shisha, coals
     Members:Sabina Cao                              $-165.91
 
 2014-08-01 * Public Storage
@@ -646,12 +646,12 @@ account Members:Unknown
 
 2014-08-04 * Amazon.com
     Assets:Equipment:Wonderdome                       $24.55
+        ; item: Dayton Audio iMM-6 microphone      |  $16.55
+        ; item: 10x 4-pin LED strip connector      |   $8.00
         ; budget: wonderdome
-        ; item: Dayton Audio iMM-6 microphone
-        ; item: 10x 4-pin LED strip connector
     Assets:Equipment:Structures:Fasteners             $24.52
+        ; item: Travel Smart Luggage Strap         |  $24.52
         ; budget: shade
-        ; item: Travel Smart Luggage Strap
     Members:Greg Look                                $-49.07
 
 2014-08-04 * Ben Larrimer
@@ -688,23 +688,25 @@ account Members:Unknown
 
 2014-08-11 * Amazon.com
     Assets:Equipment:Lounge:Hookahs                   $28.96
+        ; item: Ash bucket                         |  $28.96
         ; budget: hookah-lounge
-        ; item: Ash bucket                            $28.96
     Assets:Equipment:Power:Distribution               $57.39
+        ; item: 50' YellowJacket extension cord    |  $43.02
+        ; item: YellowJacket 5-outlet tap          |  $14.37
         ; budget: power
-        ; item: 50' YellowJacket extension cord       $43.02
-        ; item: YellowJacket 5-outlet tap             $14.37
     Expenses:Tax:WA:Sales                              $8.21
+        ; budget: fees
     Members:Greg Look                                $-94.56
 
 2014-08-13 * Amazon.com
     Assets:Equipment:Utilities:Lighting               $34.09
+        ; item: 8x Moonrays Solar-Powered LED Path Light | $34.09
         ; budget: lighting
-        ; item: 8x Moonrays Solar-Powered LED Path Light
     Members:Greg Look
 
 2014-08-13 * Jo-Ann Fabrics
     Assets:Equipment:Lounge:Decorations              $180.00
+        ; item: Hookah lounge fabrics              | $180.00
         ; budget: public-space
         ; More draping fabrics.
     Members:Sabina Cao                               $-60.00
@@ -724,9 +726,9 @@ account Members:Unknown
 
 2014-08-16 * Amazon.com
     Assets:Equipment:Kitchen:Cooking                  $57.94
+        ; item: Black & Decker, 12 cup, rice cooker | $33.41
+        ; item: Double burner cast-iron griddle     | $24.53
         ; budget: kitchen-equipment
-        ; item: Rice cooker
-        ; item: cast-iron griddle
     Expenses:Fees                                     $15.40
         ; budget: kitchen-equipment
         ; Shipping and handling
@@ -762,18 +764,18 @@ account Members:Unknown
     ; pool: cargo-van
     ; Cargo van rental.
     Expenses:Transportation:Vehicle Rentals          $659.99
+        ; Time & Distance                  (2 week @ $300.00)
+        ; Time & Distance                  (1 days @  $59.99)
         ; budget: transportation
-        ; item: Time & Distance - 2 week @ $300.00
-        ; item: Time & Distance - 1 days @  $59.99
     Expenses:Insurance:Damage                        $329.85
+        ; Damage Waiver                   (15 days @  $21.99)
         ; budget: transportation
-        ; item: Damage Waiver - 15 days @ $21.99
     Expenses:Insurance:Liability                     $283.50
+        ; Standard Liability Protection   (15 days @  $18.90)
         ; budget: transportation
-        ; item: Standard Liability Protection - 15 days @ $18.90
     Expenses:Fees                                      $6.90
+        ; Vehicle License Cost Recovery Fee (15 days @ $0.46)
         ; budget: transportation
-        ; item: Vehicle License Cost Recovery Fee - 15 days @ $0.46
     Expenses:Tax:WA:Sales                             $62.70
         ; budget: transportation
     Members:Greg Look                             $-1,342.94
@@ -782,13 +784,13 @@ account Members:Unknown
     ; period: 2014-08-20T11:31:00-08:00 - 2014-09-03T14:10:00-08:00
     Expenses:Power:Generator Rental                  $378.00
         ; budget: power
-        ; item: Generator/Silent/3-3.9KW/gas (Honda EU3000IH) - 2 week @ $189.00
+        ; Honda EU3000IH generator/silent/3-3.9KW/gas (2 weeks @ $189.00)
     Expenses:Insurance:Damage                         $56.70
         ; budget: power
-        ; item: Loss and Damage Waiver - 15% of rental charges
+        ; Loss and Damage Waiver (15% of rental charges)
     Expenses:Fees                                      $1.02
         ; budget: power
-        ; item: Emissions & Env Surcharge
+        ; Emissions & Env Surcharge
     Expenses:Tax:WA:Sales                             $41.40
         ; budget: power
     Members:Greg Look                               $-477.12
@@ -824,38 +826,38 @@ account Members:Unknown
     ; time: 20:21
     ; at: 5125 Summit Ridge Court, Reno, NV 89523
     Assets:Equipment:Power:Distribution               $25.96
+        ; item: 3-tap extension cord (15')     |  2 @ $12.98
         ; budget: power
-        ; item: 3-tap extension cord (15')     -  2 @ $12.98
     Assets:Equipment:Tools:Earthworking               $15.97
+        ; item: Mini Pick and Trowel           |      $15.97
         ; budget: tools
-        ; item: Mini Pick and Trowel           -      $15.97
     Assets:Equipment:Tools:Hand Tools                 $19.13
+        ; item: Black Rubber Mallet, 16 oz     |       $4.97
+        ; item: High Dex Work Gloves (3)       |       $9.88
+        ; item: 5 gallon Green Bucket          |       $4.28
         ; budget: tools
-        ; item: Black Rubber Mallet, 16 oz     -       $4.97
-        ; item: High Dex Work Gloves (3)       -       $9.88
-        ; item: 5 gallon Green Bucket          -       $4.28
     Assets:Equipment:Tools:Power Tools                 $9.97
+        ; item: 2" Phillips-Head bits (12)     |       $9.97
         ; budget: tools
-        ; item: 2" Phillips-Head bits (12)     -       $9.97
     Assets:Equipment:Structures:Fasteners             $46.33
+        ; item: 3/8" x 2' Rebar                | 10 @  $1.47
+        ; item: 1" x 12' Ratchet Strap (4)     |      $12.97
+        ; item: 1/4" x 100' Polypro Rope       |      $11.94
+        ; item: 3/16" x 50' Polypro Rope       |  3 @  $2.24
         ; budget: construction
-        ; item: 3/8" x 2' Rebar                - 10 @  $1.47
-        ; item: 1" x 12' Ratchet Strap (4)     -      $12.97
-        ; item: 1/4" x 100' Polypro Rope       -      $11.94
-        ; item: 3/16" x 50' Polypro Rope       -  3 @  $2.24
     Expenses:Construction Materials                   $37.69
+        ; item: 2x4 96" Whitewood Stud         |  8 @  $2.82
+        ; item: 8" Cable Tie (100)             |       $5.44
+        ; item: 2.5" Gold Screw (1 lb)         |       $6.47
+        ; item: 3/8" JT21 staples (1000)       |       $3.22
         ; budget: construction
-        ; item: 2x4 96" Whitewood Stud         -  8 @  $2.82
-        ; item: 8" Cable Tie (100)             -       $5.44
-        ; item: 2.5" Gold Screw (1 lb)         -       $6.47
-        ; item: 3/8" JT21 staples (1000)       -       $3.22
     Expenses:Kitchen:Supplies                         $14.48
+        ; item: 1 lb Camping Propane (2)       |  2 @  $6.25
+        ; item: Hand Sanitizer (8 oz)          |       $1.98
         ; budget: kitchen-equipment
-        ; item: 1 lb Camping Propane (2)       -  2 @  $6.25
-        ; item: Hand Sanitizer (8 oz)          -       $1.98
     Members:Greg Look                                 $22.94
-        ; item: 16 oz Misting Bottle           -      $12.97
-        ; item: Women's M/L Work Glove         -       $9.97
+        ; item: 16 oz Misting Bottle           |      $12.97
+        ; item: Women's M/L Work Glove         |       $9.97
         ; Personal gear.
     Expenses:Tax:NV:Sales                             $14.87
     Members:Greg Look                               $-207.34
@@ -864,28 +866,28 @@ account Members:Unknown
     ; at: 5260 W 7th St, Reno, NV 89523
     ; time: 22:04:27
     Assets:Equipment:Utilities:Safety                  $9.97
+        ; item: First Aid Kit                       |  $9.97
         ; budget: misc-equipment
-        ; item: First Aid Kit                  -       $9.97
     Assets:Equipment:Kitchen:Cooking                  $31.50
         ; budget: kitchen-equipment
-        ; item: 8 piece Measuring Set          -       $0.88
-        ; item: 4 cup Measuring Cup            -       $0.97
-        ; item: Chef's Knife with Sheath       -       $4.88
-        ; item: Paring Knife with Sheath       -       $2.88
-        ; item: Plastic Ladle                  -       $7.98
-        ; item: Plastic Spatula                -       $6.98
-        ; item: Large Red Spatula              -       $2.97
-        ; item: Oven Mitt Pot Holder Set       -       $3.96
+        ; item: 8 piece Measuring Set               |  $0.88
+        ; item: 4 cup Measuring Cup                 |  $0.97
+        ; item: Chef's Knife with Sheath            |  $4.88
+        ; item: Paring Knife with Sheath            |  $2.88
+        ; item: Plastic Ladle                       |  $7.98
+        ; item: Plastic Spatula                     |  $6.98
+        ; item: Large Red Spatula                   |  $2.97
+        ; item: Oven Mitt Pot Holder Set            |  $3.96
     Expenses:Kitchen:Supplies                         $13.14
         ; budget: kitchen-equipment
-        ; item: WM Paper Bags                  -       $5.68
-        ; item: 30-gallon Trash Bags           -       $1.68
-        ; item: Solarcaine                     -       $5.78
+        ; item: WM Paper Bags                       |  $5.68
+        ; item: 30-gallon Trash Bags                |  $1.68
+        ; item: Solarcaine                          |  $5.78
     Expenses:Kitchen:Food                              $2.50
         ; budget: camp-meals
-        ; item: Beef Ravioli (40 oz)           -       $2.50
+        ; item: Beef Ravioli (40 oz)                |  $2.50
     Expenses:Unknown                                   $2.96
-        ; item: SB 84SIDEKICK                  -       $2.96
+        ; item: SB 84SIDEKICK                       |  $2.96
     Expenses:Tax:NV:Sales                              $4.45
     Members:Greg Look                                $-64.52
 
@@ -913,8 +915,8 @@ account Members:Unknown
     ; at: Reno, NV
     ; time: 13:47
     Assets:Equipment:Utilities:Water                  $17.95
+        ; item: Reliance Aquatainer (7 gallon)     |  $17.95
         ; budget: water
-        ; item: Reliance Aquatainer (7 gallon)
     Expenses:Tax:NV:Sales                              $1.39
     Members:Greg Look                                $-19.34
 
@@ -922,43 +924,43 @@ account Members:Unknown
     ; at: 2200 Harvard Way, Reno, NV 89502
     ; time: 15:32
     Expenses:Kitchen:Food                            $160.25
+        ; item: Pancake Mix                     |      $5.65
+        ; item: Applewood Bacon                 | 2 @ $17.99
+        ; item: Flour Tortillas (10")           | 2 @  $2.99
+        ; item: Medium Cheddar Cheese (2 lb)    |      $8.99
+        ; item: Sliced Pepper Jack Cheese       |      $7.89
+        ; item: Shredded Cheddar Jack Cheese    |     $14.89
+        ; item: KS Shredded Cheddar Cheese      |     $14.89
+        ; item: KS Wheat Bread (60 slices)      |      $4.29
+        ; item: KS Organic Eggs (18)            |      $6.49
+        ; item: Chicken Sausage (8)             |     $13.99
+        ; item: Ground Beef (6.6 lb)            |     $21.25
+        ; item: Taco Seasoning                  |      $5.59
+        ; item: Tabasco Sauce                   |      $4.99
+        ; item: Pace Salsa                      |      $4.99
+        ; item: Sour Cream                      |      $4.39
         ; budget: camp-meals
-        ; item: Pancake Mix                    -       $5.65
-        ; item: Applewood Bacon                -  2 @ $17.99
-        ; item: Flour Tortillas (10")          -  2 @  $2.99
-        ; item: Medium Cheddar Cheese (2 lb)   -       $8.99
-        ; item: Sliced Pepper Jack Cheese      -       $7.89
-        ; item: Shredded Cheddar Jack Cheese   -      $14.89
-        ; item: KS Shredded Cheddar Cheese     -      $14.89
-        ; item: KS Wheat Bread (60 slices)     -       $4.29
-        ; item: KS Organic Eggs (18)           -       $6.49
-        ; item: Chicken Sausage (8)            -      $13.99
-        ; item: Ground Beef (6.6 lb)           -      $21.25
-        ; item: Taco Seasoning                 -       $5.59
-        ; item: Tabasco Sauce                  -       $4.99
-        ; item: Pace Salsa                     -       $4.99
-        ; item: Sour Cream                     -       $4.39
     Expenses:Kitchen:Supplies                         $14.99
+        ; item: KS Paper Towels                 |     $14.99
         ; budget: kitchen-equipment
-        ; item: KS Paper Towels                -      $14.99
     Expenses:Lounge:Coffee Ingredients                $95.88
+        ; item: Coffeemate Creamer              | 4 @  $5.99
+        ; item: Folgers Instant Coffee          | 8 @  $8.99
         ; budget: coffee-house
-        ; item: Coffeemate Creamer             -  4 @  $5.99
-        ; item: Folgers Instant Coffee         -  8 @  $8.99
     Expenses:Bar Supplies:Mixers                      $13.98
+        ; item: Coke 32/12 oz                   |      $9.99 - $2.00
+        ; item: KS Cranberry Juice              |      $5.99
         ; budget: bar-supplies
-        ; item: Coke 32/12 oz                  -       $9.99 - $2.00
-        ; item: KS Cranberry Juice             -       $5.99
     Expenses:Bar Supplies:Alcohol                     $87.34
+        ; item: KS Golden Margarita Mix         | 2 @  $9.99
+        ; item: Kahlua 1.75 L                   |     $24.89
+        ; item: Cooks Champagne (2 pack)        |     $13.49
+        ; item: KS American Vodka               |     $13.99
+        ; item: KS Spiced Rum                   |     $14.99
         ; budget: bar-supplies
-        ; item: KS Golden Margarita Mix        -  2 @  $9.99
-        ; item: Kahlua 1.75 L                  -      $24.89
-        ; item: Cooks Champagne (2 pack)       -      $13.49
-        ; item: KS American Vodka              -      $13.99
-        ; item: KS Spiced Rum                  -      $14.99
     Expenses:Power:Batteries                          $11.89
+        ; item: Duracell D cells (14 pack)      |     $14.89 - $3.00
         ; budget: camp-sign
-        ; item: Duracell D cells (14 pack)     -      $14.89 - $3.00
     Expenses:Tax:NV:Sales                              $9.06
     Assets:Bank:BECU Checking                       $-393.39
 
@@ -967,18 +969,18 @@ account Members:Unknown
     ; time: 15:33
     ; Split personal food and donated alcohol.
     Members:Chris Kleinknecht                         $72.47
-        ; item: Jameson (1.75 L)               -      $34.49
-        ; item: Brew Free IPA                  -      $23.99
-        ; item: Goyette Pino Grigio            -      $13.99
+        ; item: Jameson (1.75 L)                |     $34.49
+        ; item: Brew Free IPA                   |     $23.99
+        ; item: Goyette Pino Grigio             |     $13.99
     Members:Greg Look                                 $23.98
-        ; item: KS Fruit & Nut Medley          -      $13.99
-        ; item: Babybel Cheese (28)            -       $9.99
+        ; item: KS Fruit & Nut Medley           |     $13.99
+        ; item: Babybel Cheese (28)             |      $9.99
     Members:Ian Wesley-Smith                           $9.99
-        ; item: KS Golden Margarita Mix        -       $9.99
+        ; item: KS Golden Margarita Mix         |      $9.99
     Members:Jeff Yost                                 $66.26
-        ; item: KS American Vodka              -  2 @ $13.99
-        ; item: Bulleit Bourbon                -      $31.79
-        ; item: Goldfish                       -       $8.99 - $2.50
+        ; item: KS American Vodka               | 2 @ $13.99
+        ; item: Bulleit Bourbon                 |     $31.79
+        ; item: Goldfish                        |      $8.99 - $2.50
     Expenses:Tax:NV:Sales                             $10.99
     Members:Greg Look                               $-183.69
 
@@ -1047,7 +1049,7 @@ account Members:Unknown
 2014-08-23 * Gerlach Water Department
     Expenses:Supplies:Water                           $80.00
         ; budget: water
-        ; item: ~255 gallons of water
+        ; ~255 gallons of water
         ; Only charged for 200 gal for some reason.
     Members:Greg Look                                $-80.00
 
@@ -1067,7 +1069,7 @@ account Members:Unknown
 2014-08-26 * Arctica
     Expenses:Supplies:Ice                             $15.00
         ; budget: coffee-house
-        ; item: 6x bag of ice
+        ; 6 bags of ice
     Members:Greg Look
         ; Gave Ian cash to get ice.
 
