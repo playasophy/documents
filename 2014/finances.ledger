@@ -909,10 +909,13 @@ account Members:Unknown
     ; Box truck rental.
     Expenses:Transportation:Vehicle Rentals        $1,073.18
         ; budget: transportation
+    Expenses:Transportation:Vehicle Rentals          $280.00
+        ; budget: transportation
+        ; Mileage over 125 mi (~330 mi @ $0.85)
     Expenses:Tax:CA:Sales                             $80.49
         ; budget: transportation
         ; :estimate:
-    Members:Zack Fleischman                       $-1,153.67
+    Members:Zack Fleischman                       $-1,433.67
 
 2014-08-22 * REI
     ; at: Reno, NV
@@ -922,7 +925,9 @@ account Members:Unknown
         ; budget: water
     Expenses:Tax:NV:Sales                              $1.39
         ; budget: water
-    Members:Greg Look                                $-19.34
+    Members:Greg Look                                 $-1.40
+        ; REI dividend.
+    Assets:Bank:BECU Checking                        $-17.94
 
 2014-08-22 * Costco
     ; at: 2200 Harvard Way, Reno, NV 89502
@@ -1074,6 +1079,12 @@ account Members:Unknown
         ; 6 bags of ice
     Members:Greg Look
         ; Gave Ian cash to get ice.
+
+2014-08-26 * Ben Larrimer
+    ; Last-minute camp food and supplies.
+    Expenses:Kitchen:Food                             $80.00
+        ; budget: camp-meals
+    Income:Camp Funding
 
 2014-08-27 * Arctica
     Expenses:Supplies:Ice                             $15.00
@@ -1274,6 +1285,11 @@ account Members:Unknown
     Assets:Bank:BECU Checking                          $0.03
     Income:Interest
 
+2014-09-16 * Sameer Chopra
+    ; Elective camp funding.
+    Members:Sameer Chopra                            $250.00
+    Income:Camp Funding
+
 2014-09-17 * Jeff Yost
     ; Camp funding payment.
     Assets:Bank:PayPal                               $311.16
@@ -1345,3 +1361,66 @@ account Members:Unknown
     Assets:Bank:PayPal                               $260.00
     Members:Matthew Leung                             $42.30 = $0.00
     Income:Camp Funding                             $-302.30
+
+2014-09-25 * Zack Fleischman
+    ; Covering miles overage with extra funding.
+    Income:Camp Funding                              $280.00
+    Members:Zack Fleischman
+
+2014-09-25 * Zack Fleischman
+    ; Reimbursement for camp spending.
+    Members:Zack Fleischman                          $280.00 = $0.00
+    Assets:Bank:PayPal
+
+2014-09-26 * Greg Look
+    ; Elective camp funding.
+    Members:Greg Look                                $450.00
+    Income:Camp Funding
+
+2014-09-30 * Michelle Loprieno
+    ; Balance payment.
+    Assets:Bank:PayPal                               $101.80
+    Members:Michelle Loprieno                       $-101.80 = $0.00
+
+2014-10-01 * Sameer Chopra
+    ; Camp funding payment.
+    Assets:Bank:PayPal                               $404.41
+    Members:Sameer Chopra                           $-404.41 = $0.00
+
+2014-10-01 * Jamie Turley
+    ; Camp funding payment.
+    Assets:Bank:PayPal                               $150.00
+    Income:Camp Funding
+
+2014-10-03 * Greg Look
+    ; Reimbursement for camp spending.
+    Members:Greg Look                              $1,500.00
+    Assets:Bank:PayPal
+
+2014-10-10 * BECU
+    Assets:Bank:BECU Checking                          $0.02
+    Income:Interest
+
+2014-10-13 * Jason Huang
+    ; Camp funding payment.
+    Assets:Bank:PayPal                               $136.42
+    Members:Jason Huang                             $-136.42 = $0.00
+
+2014-10-13 * Greg Look
+    ; Reimbursement for camp spending.
+    Members:Greg Look                                $518.04
+    Assets:Bank:Coinbase                            $-518.04 = $0.00
+
+2014-10-15 * Em Ascano
+    ; Camp funding payment.
+    Assets:Bank:PayPal                               $150.00
+    Members:Em Ascano                               $-150.00 = $0.00
+
+2014-10-22 * Logan White-Stack
+    ; Camp funding payment.
+    Assets:Bank:PayPal                               $214.00
+    Income:Camp Funding
+
+2014-11-09 * Transfer
+    Assets:Bank:BECU Checking                        $500.00
+    Assets:Bank:PayPal
