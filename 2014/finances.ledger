@@ -653,22 +653,23 @@ account Members:Unknown
     Assets:Equipment:Structures:Fasteners             $24.52
         ; item: Travel Smart Luggage Strap         |  $24.52
         ; budget: shade
-    Members:Greg Look                                $-49.07
+    Members:Greg Look                                $-41.07
+    Members:Greg Look                                 $-8.00
 
 2014-08-04 * Ben Larrimer
     ; Dues payment
     Assets:Bank:PayPal                               $100.00
     Members:Ben Larrimer
 
+2014-08-06 * USPS
+    ; Shipping for BM ticket.
+    Members:Maria Dumanis                             $17.15
+    Members:Greg Look
+
 2014-08-06 * Zipcar
     ; Visit to Seattle storage unit.
     Expenses:Transportation:Vehicle Rentals           $24.62
         ; budget: work-preparation
-    Members:Greg Look
-
-2014-08-06 * USPS
-    ; Shipping for BM ticket.
-    Members:Maria Dumanis                             $17.15
     Members:Greg Look
 
 2014-08-07 * Jason Huang
@@ -697,7 +698,8 @@ account Members:Unknown
         ; budget: power
     Expenses:Tax:WA:Sales                              $8.21
         ; budget: misc
-    Members:Greg Look                                $-94.56
+    Members:Greg Look                                $-62.85
+    Members:Greg Look                                $-31.71
 
 2014-08-13 * Amazon.com
     Assets:Equipment:Utilities:Lighting               $34.09
@@ -733,7 +735,8 @@ account Members:Unknown
     Expenses:Fees                                     $15.40
         ; budget: kitchen-equipment
         ; Shipping and handling
-    Members:Greg Look                                $-73.34
+    Members:Greg Look                                $-39.40
+    Members:Greg Look                                $-33.94
 
 2014-08-16 * Michelle Loprieno
     ; Dues payment
