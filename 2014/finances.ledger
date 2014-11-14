@@ -668,7 +668,7 @@ account Members:Unknown
 
 2014-08-06 * USPS
     ; Shipping for BM ticket.
-    Members:Maria Dumanis                             $17.52
+    Members:Maria Dumanis                             $17.15
     Members:Greg Look
 
 2014-08-07 * Jason Huang
@@ -696,7 +696,7 @@ account Members:Unknown
         ; item: YellowJacket 5-outlet tap          |  $14.37
         ; budget: power
     Expenses:Tax:WA:Sales                              $8.21
-        ; budget: fees
+        ; budget: misc
     Members:Greg Look                                $-94.56
 
 2014-08-13 * Amazon.com
@@ -861,6 +861,7 @@ account Members:Unknown
         ; item: Women's M/L Work Glove         |       $9.97
         ; Personal gear.
     Expenses:Tax:NV:Sales                             $14.87
+        ; budget: misc
     Members:Greg Look                               $-207.34
 
 2014-08-21 * Walmart
@@ -890,6 +891,7 @@ account Members:Unknown
     Expenses:Unknown                                   $2.96
         ; item: SB 84SIDEKICK                       |  $2.96
     Expenses:Tax:NV:Sales                              $4.45
+        ; budget: misc
     Members:Greg Look                                $-64.52
 
 2014-08-22 * Harrah's Reno
@@ -919,6 +921,7 @@ account Members:Unknown
         ; item: Reliance Aquatainer (7 gallon)     |  $17.95
         ; budget: water
     Expenses:Tax:NV:Sales                              $1.39
+        ; budget: water
     Members:Greg Look                                $-19.34
 
 2014-08-22 * Costco
@@ -963,6 +966,7 @@ account Members:Unknown
         ; item: Duracell D cells (14 pack)      |     $14.89 - $3.00
         ; budget: camp-sign
     Expenses:Tax:NV:Sales                              $9.06
+        ; budget: camp-meals
     Assets:Bank:BECU Checking                       $-393.39
 
 2014-08-22 * Costco
@@ -983,15 +987,15 @@ account Members:Unknown
         ; item: Bulleit Bourbon                 |     $31.79
         ; item: Goldfish                        |      $8.99 - $2.50
     Expenses:Tax:NV:Sales                             $10.99
+        ; budget: misc
     Members:Greg Look                               $-183.69
 
 2014-08-22 * Jacksons Store
     ; at: 2595 Clearacre, Reno, NV 89512
-    ; FIXME: exact numbers
-    Assets:Supplies:Fuel                              16.217 gal_gasoline @ $3.939
+    Assets:Supplies:Fuel                              15.661 gal_gasoline @ $3.939
         ; budget: power
         ; Fuel for generator.
-    Members:Chris Kleinknecht                        $-63.88
+    Members:Chris Kleinknecht                        $-61.69
 
 2014-08-22 * Jacksons Store
     ; at: 2595 Clearacre, Reno, NV 89512
@@ -1045,6 +1049,12 @@ account Members:Unknown
     Members:Zack Fleischman                           $29.32
     Members:Greg Look                               $-175.91
 
+2014-08-23 * Jason Huang
+    ; Franzia.
+    Expenses:Bar Supplies:Alcohol                     $63.58
+        ; budget: bar-supplies
+    Members:Jason Huang
+
 2014-08-23 * Gerlach Water Department
     Expenses:Supplies:Water                           $80.00
         ; budget: water
@@ -1075,7 +1085,7 @@ account Members:Unknown
     Expenses:Supplies:Ice                             $15.00
         ; budget: coffee-house
         ; 6 bags of ice
-    Members:Ninad Sathe
+    Members:Vincent Huang
 
 2014-08-29 * Arctica
     Expenses:Supplies:Ice                             $15.00
@@ -1097,9 +1107,9 @@ account Members:Unknown
 
 2014-09-01 * Transfer
     ; Use excess gasoline for cargo van.
-    Expenses:Transportation:Fuel                      10.000 gal_gasoline
+    Expenses:Transportation:Fuel                       9.444 gal_gasoline
         ; budget: transportation
-    Assets:Supplies:Fuel                             -10.000 gal_gasoline = 0.000 gal_gasoline
+    Assets:Supplies:Fuel                              -9.444 gal_gasoline = 0.000 gal_gasoline
         ; budget: power
 
 2014-09-01 * Public Storage
@@ -1169,6 +1179,7 @@ account Members:Unknown
     Expenses:Transportation:Cleaning                  $19.99
         ; budget: transportation
     Expenses:Tax:WA:Sales                              $1.90
+        ; budget: transportation
     Members:Greg Look                                $-21.89
 
 2014-09-09 * Playasophy Camp
@@ -1188,3 +1199,149 @@ account Members:Unknown
     Members:Ming Guo                                  $57.57
     Income:Transport Charges                        $-345.43
         ; budget: transportation
+
+2014-09-10 * Zipcar
+    ; Trip to Seattle storage unit.
+    Expenses:Transportation:Vehicle Rentals           $18.17
+        ; budget: work-preparation
+    Members:Greg Look
+
+2014-09-10 * Ninad Sathe
+    ; budget: tools
+    ; Accidental toolkit donation.
+    Assets:Equipment:Tools:Hand Tools                $140.00
+    Income:Camp Funding
+
+2014-09-10 * David Brotman
+    ; Elective camp funding.
+    Members:David Brotman                            $200.00
+    Income:Camp Funding
+
+2014-09-10 * Sabina Cao
+    ; Balance donation.
+    Members:Sabina Cao                                $49.99 = $0.00
+    Income:Camp Funding
+
+2014-09-11 * David Brotman
+    ; Camp funding payment.
+    Assets:Bank:PayPal                               $200.00
+    Members:David Brotman                           $-200.00 = $0.00
+
+2014-09-11 * Ming Guo
+    ; Camp funding payment.
+    Assets:Bank:PayPal                               $257.57
+    Income:Camp Funding                             $-200.00
+    Members:Ming Guo                                 $-57.57 = $0.00
+
+2014-09-11 * Zack Fleischman
+    ; Elective camp funding.
+    Members:Zack Fleischman                          $400.00
+    Income:Camp Funding
+
+2014-09-12 * Zack Fleischman
+    ; Donated box truck miles.
+    Members:Zack Fleischman                          $280.00
+    Income:Camp Funding
+
+2014-09-12 * Jeff Yost
+    ; Elective camp funding.
+    Members:Jeff Yost                                $200.00
+    Income:Camp Funding
+
+2014-09-12 * Zack Fleischman
+    ; Reimbursement for camp spending.
+    Members:Zack Fleischman                          $806.07
+    Assets:Bank:PayPal
+
+2014-09-13 * Ian Wesley-Smith
+    ; Camp funding and balance payment.
+    Assets:Bank:BECU Checking                        $282.00
+    Income:Camp Funding                             $-175.34
+    Members:Ian Wesley-Smith                        $-106.66 = $0.00
+
+2014-09-15 * Becca Kemper
+    ; Camp funding payment.
+    Assets:Bank:PayPal                               $150.00
+    Income:Camp Funding
+
+2014-09-15 * Rong Hu
+    ; Camp funding payment and balance donation.
+    Assets:Bank:PayPal                               $145.33
+    Members:Rong Hu                                   $30.00 = $0.00
+    Income:Camp Funding                             $-175.33
+
+2014-09-12 * BECU
+    Assets:Bank:BECU Checking                          $0.03
+    Income:Interest
+
+2014-09-17 * Jeff Yost
+    ; Camp funding payment.
+    Assets:Bank:PayPal                               $311.16
+    Members:Jeff Yost                               $-311.16 = $0.00
+
+2014-09-17 * Em Ascano
+    ; Elective camp funding.
+    Members:Em Ascano                                $150.00
+    Income:Camp Funding
+
+2014-09-17 * Shri Shamasunder
+    ; Camp funding payment.
+    Assets:Bank:PayPal                               $350.00
+    Income:Camp Funding
+
+2014-09-17 * Chris Kleinknecht
+    ; btc-tx: b6d3f8dbd93984bde472f57dc92f2aa055cd8be631dfd739e10bffa7d726783b
+    ; Camp funding and balance payment.
+    Members:Greg Look                                $340.94
+    Members:Chris Kleinknecht                        $-40.10 = $0.00
+    Income:Camp Funding                             $-300.84
+
+2014-09-18 * Ruben Valas
+    Assets:Bank:PayPal                               $110.00
+    Expenses:Kitchen:Food                             $35.00
+        ; budget: camp-meals
+    Income:Camp Funding                             $-145.00
+
+2014-09-19 * Jason Huang
+    ; Elective camp funding.
+    Members:Jason Huang                              $200.00
+    Income:Camp Funding
+
+2014-09-19 * Riley Andrews
+    ; TODO: lookup btc-tx
+    ; Camp funding payment.
+    Assets:Bank:Coinbase                             $118.04
+    Income:Camp Funding
+
+2014-09-20 * Transfer
+    Assets:Bank:BECU Checking                        $500.00
+    Assets:Bank:PayPal
+
+2014-09-21 * Maria Dumanis
+    ; Camp funding and balance payment.
+    Assets:Bank:PayPal                               $807.15
+    Members:Maria Dumanis                           $-517.15 = $0.00
+    Income:Camp Funding                             $-145.00
+    Income:Camp Funding                             $-145.00
+        ; Payee: David Everling
+
+2014-09-24 * Caito Foster
+    ; Balance payment.
+    Assets:Bank:PayPal                               $100.00
+    Members:Caito Foster                            $-100.00 = $0.00
+
+2014-09-25 * Kevin Litwack
+    ; Reimbursement for camp spending.
+    Members:Kevin Litwack                          $1,080.00 = $0.00
+    Assets:Bank:BECU Checking
+
+2014-09-25 * Vincent Huang
+    ; Balance donation.
+    Members:Vincent Huang                             $30.00 = $0.00
+    Income:Camp Funding
+
+2014-09-25 * Matthew Leung
+    ; Camp funding payment.
+    Assets:Bank:PayPal                               $260.00
+    Members:Matthew Leung                             $42.30 = $0.00
+    Income:Camp Funding                             $-302.30
