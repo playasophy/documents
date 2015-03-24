@@ -1427,3 +1427,21 @@ account Members:Unknown
 2014-11-09 * Transfer
     Assets:Bank:BECU Checking                        $500.00
     Assets:Bank:PayPal
+
+2014-11-10 * Transfer
+    ; Verification of debit card.
+    Assets:Bank:PayPal                                 $1.95
+    Assets:Bank:BECU Checking
+
+2014-11-14 * BECU
+    Assets:Bank:BECU Checking                          $0.01
+    Income:Interest
+
+2014-11-19 * Transfer
+    Assets:Bank:BECU Checking                        $904.42
+    Assets:Bank:PayPal                              $-904.42 = $0.00
+
+2014-11-27 * Greg Look
+    ; Reimbursement for camp spending.
+    Members:Greg Look                              $1,244.35
+    Assets:Bank:BECU Checking
