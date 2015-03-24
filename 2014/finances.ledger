@@ -165,7 +165,7 @@ account Members:Unknown
     Members:David Everling                          $-100.00
     Equity:Opening Balances
 
-2013-10-01 * Inventory
+2013-10-01 * Equipment: Structures
     Assets:Equipment:Structures:Domes                $403.99
         ; item: 17' 2V Geodesic Dome               | $403.99
         ; [=2008-11-02]
@@ -186,7 +186,7 @@ account Members:Unknown
         ; item: Misc Rope                          |  $53.70
     Equity:Opening Balances
 
-2013-10-01 * Inventory
+2013-10-01 * Equipment: Tools
     Assets:Equipment:Tools:Hand Tools                 $68.78
         ; item: Wrench/socket toolkit              |  $21.77
         ; item: Measuring/Marking Tools            |  $35.00
@@ -210,7 +210,7 @@ account Members:Unknown
         ; item: Buckets, staples, tape, sandpaper  |  $28.97
     Equity:Opening Balances
 
-2013-10-01 * Inventory
+2013-10-01 * Equipment: Utilities
     Assets:Equipment:Utilities:Water                 $793.65
         ; item: Water Barrel, 55 gallon         | 3 @ $70.00
         ; item: Water Container, 15 gallon      | 6 @ $45.00
@@ -241,7 +241,7 @@ account Members:Unknown
         ; item: Fire Extinguisher               |     $19.68
     Equity:Opening Balances
 
-2013-10-01 * Inventory
+2013-10-01 * Equipment: Kitchen
     Assets:Equipment:Kitchen:Storage                 $237.02
         ; item: 5-Shelf Storage Unit (4)       |     $213.49
         ; item: Plastic Bins                   |      $23.53
@@ -261,7 +261,7 @@ account Members:Unknown
         ; item: Spoons/spatula                 |      $16.09
     Equity:Opening Balances
 
-2013-10-01 * Inventory
+2013-10-01 * Equipment: Power
     Assets:Equipment:Power:Batteries                 $459.29
         ; item: AGM Deep-cycle Battery         |     $100.00
         ; item: AGM Deep-cycle Battery         | 2 @ $125.00
@@ -280,7 +280,7 @@ account Members:Unknown
         ; item: Gas Can, 2 gallon               | 3 @  $7.41
     Equity:Opening Balances
 
-2013-10-01 * Inventory
+2013-10-01 * Equipment: Media
     Assets:Equipment:Media:Video                     $533.79
         ; item: Old Projector                      | $141.50
         ; item: IKEA Curtains                      |  $27.36
@@ -297,7 +297,7 @@ account Members:Unknown
         ; item: Behringer 550W PA Speaker      | 2 @ $308.46
     Equity:Opening Balances
 
-2013-10-01 * Inventory
+2013-10-01 * Equipment: Public
     Assets:Equipment:Public:Camp Sign                $447.69
         ; item: Peggy board and LEDs               | $248.00
         ; item: Sign letters and hardware          | $199.69
@@ -317,7 +317,7 @@ account Members:Unknown
         ; item: Propane Adapter Hose               |  $32.30
     Equity:Opening Balances
 
-2013-10-01 * Inventory
+2013-10-01 * Equipment: Wonderdome
     Assets:Equipment:Wonderdome                    $1,449.36
     Equity:Opening Balances
 
