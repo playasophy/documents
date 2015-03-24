@@ -338,11 +338,9 @@ account Members:Unknown
     Assets:Prepaid Expenses:Storage                 $-105.00 = $0.00
 
 2013-10-24 * Emigrant Storage
-    ; Up-front payment for 12 months, plus bonus month for free.
-    Assets:Prepaid Expenses:Storage                $1,365.00
-    Income:Promotional Bonus                        $-105.00
-        ; budget: storage
-    Members:Kevin Litwack                         $-1,260.00
+    ; Up-front payment for 12 months.
+    Assets:Prepaid Expenses:Storage                $1,260.00
+    Members:Kevin Litwack
 
 2013-11-01 * Public Storage
     ; period: 2013-11-01 - 2013-11-30
@@ -1394,6 +1392,12 @@ account Members:Unknown
     ; Camp funding payment.
     Assets:Bank:PayPal                               $150.00
     Income:Camp Funding
+
+2014-10-01 * Emigrant Storage
+    ; period: 2014-10-01 - 2014-10-31
+    Expenses:Storage:Reno                            $105.00
+        ; budget: storage
+    Assets:Prepaid Expenses:Storage                 $-105.00 = $0.00
 
 2014-10-03 * Greg Look
     ; Reimbursement for camp spending.
