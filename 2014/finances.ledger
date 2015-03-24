@@ -1393,6 +1393,12 @@ account Members:Unknown
     Assets:Bank:PayPal                               $150.00
     Income:Camp Funding
 
+2014-10-01 * Public Storage
+    ; period: 2014-10-01 - 2014-10-31
+    Expenses:Storage:Seattle                          $77.00
+        ; budget: storage
+    Members:Kevin Litwack
+
 2014-10-01 * Emigrant Storage
     ; period: 2014-10-01 - 2014-10-31
     Expenses:Storage:Reno                            $105.00
